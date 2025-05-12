@@ -1,5 +1,5 @@
 // Populate trust rankings table
-function populateRankingsTable() {
+function populateRankingsTable(commId = null) {
     const tableBody = document.getElementById('rankingsTable');
     tableBody.innerHTML = '';
     
@@ -8,6 +8,11 @@ function populateRankingsTable() {
     
     // Sort users by trust score
     const sortedUsers = [...trustData.users].sort((a, b) => b.trustScore - a.trustScore);
+    
+    let commScores = null;
+    if (commId && trustData.communityTrustScores && trustData.communityTrustScores[commId]) {
+        commScores = trustData.communityTrustScores[commId];
+    }
     
     // Add each user to the table
     sortedUsers.forEach((user, index) => {
@@ -34,6 +39,12 @@ function populateRankingsTable() {
         scoreCell.textContent = user.trustScore.toFixed(4);
         row.appendChild(scoreCell);
         
+        if (commScores) {
+            const commScoreCell = document.createElement('td');
+            commScoreCell.textContent = (commScores[user.username] !== undefined) ? commScores[user.username].toFixed(4) : '-';
+            row.appendChild(commScoreCell);
+        }
+        
         // Add number of trustors
         const trustorsCell = document.createElement('td');
         trustorsCell.textContent = user.trustors;
@@ -52,6 +63,18 @@ function populateRankingsTable() {
             window.location.href = `network.html?user=${user.username}`;
         });
     });
+    
+    // Update table header
+    const thead = document.querySelector('#rankingsTable').parentElement.querySelector('thead tr');
+    if (thead) {
+        // Remove old community column if present
+        while (thead.children.length > 5) thead.removeChild(thead.lastChild);
+        if (commScores) {
+            const commHeader = document.createElement('th');
+            commHeader.textContent = 'Community Trust Score';
+            thead.insertBefore(commHeader, thead.children[3]);
+        }
+    }
 }
 
 // Search functionality
@@ -74,6 +97,33 @@ function setupSearch() {
         });
     });
 }
+
+// Add community selector
+document.addEventListener('DOMContentLoaded', function() {
+    const container = document.querySelector('.card-header');
+    if (!container) return;
+    const label = document.createElement('label');
+    label.textContent = 'View trust scores from community: ';
+    label.setAttribute('for', 'communitySelect');
+    label.style.marginRight = '8px';
+    const select = document.createElement('select');
+    select.id = 'communitySelect';
+    const defaultOption = document.createElement('option');
+    defaultOption.value = '';
+    defaultOption.text = 'Global';
+    select.appendChild(defaultOption);
+    trustData.communities.forEach(comm => {
+        const option = document.createElement('option');
+        option.value = comm.id;
+        option.text = comm.name;
+        select.appendChild(option);
+    });
+    container.appendChild(label);
+    container.appendChild(select);
+    select.addEventListener('change', function() {
+        populateRankingsTable(this.value);
+    });
+});
 
 // Initialize the page
 document.addEventListener('DOMContentLoaded', () => {
