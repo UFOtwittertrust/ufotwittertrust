@@ -1,5 +1,5 @@
 // Trust system data
-// Auto-generated on 2025-05-12 01:30:39
+// Auto-generated on 2025-05-12 01:37:39
 // DO NOT EDIT MANUALLY
 
 const trustData = {
@@ -220,7 +220,7 @@ const trustData = {
     {
       "source": "ufobeliever1947",
       "target": "DanHaug6",
-      "value": 2.2449623614025622
+      "value": 2.244962361402562
     },
     {
       "source": "ufobeliever1947",
@@ -230,7 +230,7 @@ const trustData = {
     {
       "source": "ufobeliever1947",
       "target": "Halsrethink",
-      "value": 3.046734633332049
+      "value": 3.0467346333320484
     },
     {
       "source": "ufobeliever1947",
@@ -240,12 +240,12 @@ const trustData = {
     {
       "source": "ufobeliever1947",
       "target": "LueElizondo",
-      "value": 2.2449623614025622
+      "value": 2.244962361402562
     },
     {
       "source": "ufobeliever1947",
       "target": "MiddleofMayhem",
-      "value": -3.2070890877179457
+      "value": -3.207089087717945
     },
     {
       "source": "ufobeliever1947",
@@ -255,7 +255,7 @@ const trustData = {
     {
       "source": "ufobeliever1947",
       "target": "TheOfficialQF",
-      "value": 2.2449623614025622
+      "value": 2.244962361402562
     },
     {
       "source": "ufobeliever1947",
@@ -285,7 +285,7 @@ const trustData = {
     {
       "source": "ufobeliever1947",
       "target": "ufoskeptic1968",
-      "value": -3.2070890877179457
+      "value": -3.207089087717945
     },
     {
       "source": "ufoskeptic1968",
@@ -377,33 +377,33 @@ const trustData = {
   ],
   "communityTrustScores": {
     "1": {
-      "ufobeliever1947": 0.05305041033519302,
-      "AskaPol_UAPs": 0.05764583596235487,
-      "ChrisUKSharp": 0.05764583596235487,
-      "DanHaug6": 0.057071407758959636,
-      "GoodTroubleShow": 0.05764583596235487,
-      "Halsrethink": 0.05850747826744772,
-      "JeremyCorbell": 0.054199266741983484,
-      "LueElizondo": 0.057071407758959636,
-      "TheOfficialQF": 0.057071407758959636,
-      "g_knapp": 0.0582202641657501,
-      "jayanderson": 0.05534812314877395,
-      "rosscoulthart": 0.0582202641657501,
-      "Eyes_OnTheSkies": 0.05305041033519302,
-      "FettucineSplit": 0.05305041033519302,
-      "JonMajerowski": 0.05305041033519302,
-      "PTHellyer": 0.05305041033519302,
-      "SnakePo9": 0.05305041033519302,
-      "jamescfox": 0.05305041033519302
+      "ufobeliever1947": 0.05305041033519303,
+      "AskaPol_UAPs": 0.05764583596235488,
+      "ChrisUKSharp": 0.05764583596235488,
+      "DanHaug6": 0.05707140775895965,
+      "GoodTroubleShow": 0.05764583596235488,
+      "Halsrethink": 0.05850747826744773,
+      "JeremyCorbell": 0.0541992667419835,
+      "LueElizondo": 0.05707140775895965,
+      "TheOfficialQF": 0.05707140775895965,
+      "g_knapp": 0.058220264165750116,
+      "jayanderson": 0.055348123148773964,
+      "rosscoulthart": 0.058220264165750116,
+      "Eyes_OnTheSkies": 0.05305041033519303,
+      "FettucineSplit": 0.05305041033519303,
+      "JonMajerowski": 0.05305041033519303,
+      "PTHellyer": 0.05305041033519303,
+      "SnakePo9": 0.05305041033519303,
+      "jamescfox": 0.05305041033519303
     },
     "2": {
-      "ShipsSmall": 0.1631835954169025,
-      "ufoskeptic1968": 0.1273885846198415,
-      "OSIRISUAP": 0.12828345988976803,
-      "cosmic_surplus": 0.17213234811616773,
-      "susangerbic": 0.15423484271763724,
-      "MiddleofMayhem": 0.1273885846198415,
-      "likeitmatters3": 0.1273885846198415
+      "ShipsSmall": 0.16318359541690247,
+      "ufoskeptic1968": 0.12738858461984148,
+      "OSIRISUAP": 0.128283459889768,
+      "cosmic_surplus": 0.1721323481161677,
+      "susangerbic": 0.1542348427176372,
+      "MiddleofMayhem": 0.12738858461984148,
+      "likeitmatters3": 0.12738858461984148
     }
   }
 };
