@@ -1,9 +1,9 @@
 // Trust system data
-// Auto-generated on 2025-05-11 23:37:36
+// Auto-generated on 2025-05-11 23:47:37
 // DO NOT EDIT MANUALLY
 
 const trustData = {
-  "lastUpdated": "May 11, 2025 10:47 PM",
+  "lastUpdated": "May 11, 2025 11:47 PM",
   "users": [
     {
       "username": "AskaPol_UAPs",
@@ -11,7 +11,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 10
+      "communityId": 9
     },
     {
       "username": "ChrisUKSharp",
@@ -19,7 +19,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 10
+      "communityId": 9
     },
     {
       "username": "DanHaug6",
@@ -27,7 +27,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 10
+      "communityId": 9
     },
     {
       "username": "Eyes_OnTheSkies",
@@ -51,7 +51,7 @@ const trustData = {
       "trustors": 2,
       "trustees": 0,
       "interests": [],
-      "communityId": 10
+      "communityId": 9
     },
     {
       "username": "Halsrethink",
@@ -59,7 +59,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 10
+      "communityId": 9
     },
     {
       "username": "JeremyCorbell",
@@ -67,7 +67,7 @@ const trustData = {
       "trustors": 2,
       "trustees": 0,
       "interests": [],
-      "communityId": 10
+      "communityId": 9
     },
     {
       "username": "JonMajerowski",
@@ -83,7 +83,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 10
+      "communityId": 9
     },
     {
       "username": "MiddleofMayhem",
@@ -99,7 +99,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 7
+      "communityId": 10
     },
     {
       "username": "PTHellyer",
@@ -115,7 +115,7 @@ const trustData = {
       "trustors": 2,
       "trustees": 0,
       "interests": [],
-      "communityId": 7
+      "communityId": 10
     },
     {
       "username": "SnakePo9",
@@ -131,7 +131,7 @@ const trustData = {
       "trustors": 2,
       "trustees": 0,
       "interests": [],
-      "communityId": 10
+      "communityId": 9
     },
     {
       "username": "cosmic_surplus",
@@ -139,7 +139,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 7
+      "communityId": 10
     },
     {
       "username": "g_knapp",
@@ -147,7 +147,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 10
+      "communityId": 9
     },
     {
       "username": "jamescfox",
@@ -155,7 +155,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 8
+      "communityId": 7
     },
     {
       "username": "jayanderson",
@@ -163,7 +163,7 @@ const trustData = {
       "trustors": 2,
       "trustees": 0,
       "interests": [],
-      "communityId": 10
+      "communityId": 9
     },
     {
       "username": "likeitmatters3",
@@ -171,7 +171,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 9
+      "communityId": 8
     },
     {
       "username": "rosscoulthart",
@@ -179,7 +179,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 10
+      "communityId": 9
     },
     {
       "username": "susangerbic",
@@ -187,7 +187,7 @@ const trustData = {
       "trustors": 2,
       "trustees": 0,
       "interests": [],
-      "communityId": 7
+      "communityId": 10
     },
     {
       "username": "ufobeliever1947",
@@ -195,7 +195,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 16,
       "interests": [],
-      "communityId": 10
+      "communityId": 9
     },
     {
       "username": "ufoskeptic1968",
@@ -203,7 +203,7 @@ const trustData = {
       "trustors": 1,
       "trustees": 15,
       "interests": [],
-      "communityId": 7
+      "communityId": 10
     }
   ],
   "relationships": [
@@ -435,19 +435,12 @@ const trustData = {
       "SnakePo9": 1.0
     },
     "7": {
-      "cosmic_surplus": 0.23098126719964815,
-      "susangerbic": 0.20696478099837048,
-      "ufoskeptic1968": 0.17094005169645396,
-      "OSIRISUAP": 0.17214087600651784,
-      "ShipsSmall": 0.21897302409900932
-    },
-    "8": {
       "jamescfox": 1.0
     },
-    "9": {
+    "8": {
       "likeitmatters3": 1.0
     },
-    "10": {
+    "9": {
       "AskaPol_UAPs": 0.084562163914682,
       "ChrisUKSharp": 0.084562163914682,
       "DanHaug6": 0.08371953723032863,
@@ -460,6 +453,13 @@ const trustData = {
       "jayanderson": 0.0811916571772685,
       "rosscoulthart": 0.08540479059903539,
       "ufobeliever1947": 0.077821150439855
+    },
+    "10": {
+      "cosmic_surplus": 0.23098126719964815,
+      "susangerbic": 0.20696478099837048,
+      "ufoskeptic1968": 0.17094005169645396,
+      "OSIRISUAP": 0.17214087600651784,
+      "ShipsSmall": 0.21897302409900932
     }
   }
 };
