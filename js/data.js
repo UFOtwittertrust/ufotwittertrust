@@ -1,13 +1,13 @@
 // Trust system data
-// Auto-generated on 2025-05-11 22:17:37
+// Auto-generated on 2025-05-11 22:27:37
 // DO NOT EDIT MANUALLY
 
 const trustData = {
-  "lastUpdated": "May 11, 2025 09:57 PM",
+  "lastUpdated": "May 11, 2025 10:27 PM",
   "users": [
     {
       "username": "DanHaug6",
-      "trustScore": 0.04582236888505684,
+      "trustScore": 0.043963964720324024,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -15,7 +15,7 @@ const trustData = {
     },
     {
       "username": "Eyes_OnTheSkies",
-      "trustScore": 0.042213435214224077,
+      "trustScore": 0.04050333282248425,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -23,7 +23,7 @@ const trustData = {
     },
     {
       "username": "FettucineSplit",
-      "trustScore": 0.042213435214224077,
+      "trustScore": 0.04050333282248425,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -31,7 +31,7 @@ const trustData = {
     },
     {
       "username": "GoodTroubleShow",
-      "trustScore": 0.04619161348729611,
+      "trustScore": 0.04432459328865868,
       "trustors": 2,
       "trustees": 0,
       "interests": [],
@@ -39,7 +39,7 @@ const trustData = {
     },
     {
       "username": "Halsrethink",
-      "trustScore": 0.04709604841920333,
+      "trustScore": 0.045185987338115935,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -47,7 +47,7 @@ const trustData = {
     },
     {
       "username": "JeremyCorbell",
-      "trustScore": 0.04318769225378646,
+      "trustScore": 0.041440103304007624,
       "trustors": 2,
       "trustees": 0,
       "interests": [],
@@ -55,7 +55,7 @@ const trustData = {
     },
     {
       "username": "JonMajerowski",
-      "trustScore": 0.04219211983508964,
+      "trustScore": 0.04048384862847792,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -63,7 +63,7 @@ const trustData = {
     },
     {
       "username": "LueElizondo",
-      "trustScore": 0.04582236888505684,
+      "trustScore": 0.043963964720324024,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -71,7 +71,7 @@ const trustData = {
     },
     {
       "username": "MiddleofMayhem",
-      "trustScore": 0.042102661912561117,
+      "trustScore": 0.040401077288661186,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -79,15 +79,15 @@ const trustData = {
     },
     {
       "username": "OSIRISUAP",
-      "trustScore": 0.0425529072048428,
+      "trustScore": 0.04082710335597553,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 6
+      "communityId": 10
     },
     {
       "username": "PTHellyer",
-      "trustScore": 0.04217080458612647,
+      "trustScore": 0.040464364542476705,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -95,15 +95,23 @@ const trustData = {
     },
     {
       "username": "ShipsSmall",
-      "trustScore": 0.05820548131456036,
+      "trustScore": 0.055844852386195125,
       "trustors": 2,
+      "trustees": 0,
+      "interests": [],
+      "communityId": 10
+    },
+    {
+      "username": "SnakePo9",
+      "trustScore": 0.040493590714230504,
+      "trustors": 1,
       "trustees": 0,
       "interests": [],
       "communityId": 6
     },
     {
       "username": "TheOfficialQF",
-      "trustScore": 0.04570679741029838,
+      "trustScore": 0.043858321872512845,
       "trustors": 2,
       "trustees": 0,
       "interests": [],
@@ -111,15 +119,15 @@ const trustData = {
     },
     {
       "username": "cosmic_surplus",
-      "trustScore": 0.057098116959252834,
+      "trustScore": 0.0547823996639496,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 6
+      "communityId": 10
     },
     {
       "username": "g_knapp",
-      "trustScore": 0.046841312512374035,
+      "trustScore": 0.04494158281455755,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -127,7 +135,7 @@ const trustData = {
     },
     {
       "username": "jamescfox",
-      "trustScore": 0.04222409293904623,
+      "trustScore": 0.04051307494873896,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -135,7 +143,7 @@ const trustData = {
     },
     {
       "username": "jayanderson",
-      "trustScore": 0.04418223688190907,
+      "trustScore": 0.0423954184702135,
       "trustors": 2,
       "trustees": 0,
       "interests": [],
@@ -143,7 +151,7 @@ const trustData = {
     },
     {
       "username": "likeitmatters3",
-      "trustScore": 0.04219470357290862,
+      "trustScore": 0.04048581098205533,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -151,7 +159,7 @@ const trustData = {
     },
     {
       "username": "rosscoulthart",
-      "trustScore": 0.046841312512374035,
+      "trustScore": 0.04494158281455755,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -159,15 +167,15 @@ const trustData = {
     },
     {
       "username": "susangerbic",
-      "trustScore": 0.05099413605720648,
+      "trustScore": 0.048932472232711834,
       "trustors": 2,
       "trustees": 0,
       "interests": [],
-      "communityId": 6
+      "communityId": 10
     },
     {
       "username": "ufobeliever1947",
-      "trustScore": 0.04204291825559626,
+      "trustScore": 0.04034746431051335,
       "trustors": 1,
       "trustees": 14,
       "interests": [],
@@ -175,11 +183,11 @@ const trustData = {
     },
     {
       "username": "ufoskeptic1968",
-      "trustScore": 0.04210343568700604,
+      "trustScore": 0.04040175595777359,
       "trustors": 1,
-      "trustees": 14,
+      "trustees": 15,
       "interests": [],
-      "communityId": 6
+      "communityId": 10
     }
   ],
   "relationships": [
@@ -256,72 +264,77 @@ const trustData = {
     {
       "source": "ufoskeptic1968",
       "target": "Eyes_OnTheSkies",
-      "value": -0.9564124540077681
+      "value": -0.9496500590757734
     },
     {
       "source": "ufoskeptic1968",
       "target": "FettucineSplit",
-      "value": -0.9564124540077681
+      "value": -0.9496500590757734
     },
     {
       "source": "ufoskeptic1968",
       "target": "GoodTroubleShow",
-      "value": -2.8692373620233047
+      "value": -2.8489501772273202
     },
     {
       "source": "ufoskeptic1968",
       "target": "JeremyCorbell",
-      "value": -1.9128249080155362
+      "value": -1.8993001181515468
     },
     {
       "source": "ufoskeptic1968",
       "target": "JonMajerowski",
-      "value": -1.4346186810116524
+      "value": -1.4244750886136601
     },
     {
       "source": "ufoskeptic1968",
       "target": "OSIRISUAP",
-      "value": 0.09564124540077683
+      "value": 0.09496500590757734
     },
     {
       "source": "ufoskeptic1968",
       "target": "PTHellyer",
-      "value": -1.9128249080155362
+      "value": -1.8993001181515468
     },
     {
       "source": "ufoskeptic1968",
       "target": "ShipsSmall",
-      "value": 3.8256498160310723
+      "value": 3.7986002363030935
+    },
+    {
+      "source": "ufoskeptic1968",
+      "target": "SnakePo9",
+      "value": -1.1870625738447167
     },
     {
       "source": "ufoskeptic1968",
       "target": "TheOfficialQF",
-      "value": -2.3910311350194204
+      "value": -2.3741251476894334
     },
     {
       "source": "ufoskeptic1968",
       "target": "cosmic_surplus",
-      "value": 4.782062270038841
+      "value": 4.748250295378867
     },
     {
       "source": "ufoskeptic1968",
       "target": "jamescfox",
-      "value": -0.7173093405058262
+      "value": -0.7122375443068301
     },
     {
       "source": "ufoskeptic1968",
       "target": "jayanderson",
-      "value": -2.3910311350194204
+      "value": -2.3741251476894334
     },
     {
       "source": "ufoskeptic1968",
       "target": "susangerbic",
-      "value": 2.8692373620233047
+      "value": 2.8489501772273202
     },
     {
       "source": "ufoskeptic1968",
       "target": "ufobeliever1947",
-      "value": -4.782062270038841
+      "value": -4.748250295378867
     }
   ],
   "communities": [
@@ -369,6 +382,11 @@ const trustData = {
       "id": 9,
       "name": "Community I",
       "color": "#5E35B1"
+    },
+    {
+      "id": 10,
+      "name": "Community J",
+      "color": "#43A047"
     }
   ]
 };
