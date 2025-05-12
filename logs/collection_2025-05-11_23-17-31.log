@@ -1,0 +1,420 @@
+[2025-05-11 17:29:56] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 17:29:56] WARNING: No previous timestamp found. Looking back 60 minutes to: 2025-05-11 16:29:56.037529
+[2025-05-11 17:29:56] WARNING: Retrieving page 1...
+[2025-05-11 17:29:57] WARNING: Newest tweet is from: 2013-12-21 19:29:18+00:00
+[2025-05-11 17:29:57] WARNING: Error parsing tweet time: can't compare offset-naive and offset-aware datetimes
+[2025-05-11 17:29:57] WARNING: Retrieved 1 new tweets on page 1
+[2025-05-11 17:29:59] WARNING: Retrieving page 2...
+[2025-05-11 17:30:03] WARNING: No tweets found on this page
+[2025-05-11 17:30:03] WARNING: Updated last tweet timestamp to: Sat Dec 21 19:29:18 +0000 2013
+[2025-05-11 17:30:03] WARNING: Retrieved a total of 1 tweets across 2 pages
+[2025-05-11 17:30:03] WARNING: Processing 1 tweets for trust commands
+[2025-05-11 17:30:03] WARNING: Checking tweet 414477698107318272 from @CoraxSays
+[2025-05-11 17:30:03] WARNING: No trust commands found in tweet 414477698107318272
+[2025-05-11 17:30:03] WARNING: Successfully saved 0 trust assignments (0 new/changed)
+[2025-05-11 17:30:03] WARNING: Collection complete!
+[2025-05-11 17:30:03] WARNING: - 0 trust assignments processed
+[2025-05-11 17:30:03] WARNING: - 0 users in trust network
+[2025-05-11 17:30:03] WARNING: - 0 total trust relationships
+[2025-05-11 17:39:56] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 17:39:56] WARNING: Will collect tweets until reaching previous timestamp: 2013-12-21 19:29:18+00:00
+[2025-05-11 17:39:56] WARNING: Retrieving page 1...
+[2025-05-11 17:39:57] WARNING: Newest tweet is from: 2013-12-21 19:29:18+00:00
+[2025-05-11 17:39:57] WARNING: Reached stop point at tweet from 2013-12-21 19:29:18+00:00
+[2025-05-11 17:39:57] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 17:39:57] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 17:39:57] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 17:39:57] WARNING: No new tweets found with trust commands
+[2025-05-11 17:39:57] WARNING: Collection complete!
+[2025-05-11 17:39:57] WARNING: - 0 trust assignments processed
+[2025-05-11 17:39:57] WARNING: - 0 users in trust network
+[2025-05-11 17:39:57] WARNING: - 0 total trust relationships
+[2025-05-11 17:49:56] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 17:49:56] WARNING: Will collect tweets until reaching previous timestamp: 2013-12-21 19:29:18+00:00
+[2025-05-11 17:49:56] WARNING: Retrieving page 1...
+[2025-05-11 17:49:57] WARNING: Newest tweet is from: 2013-12-21 19:29:18+00:00
+[2025-05-11 17:49:57] WARNING: Reached stop point at tweet from 2013-12-21 19:29:18+00:00
+[2025-05-11 17:49:57] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 17:49:57] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 17:49:57] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 17:49:57] WARNING: No new tweets found with trust commands
+[2025-05-11 17:49:57] WARNING: Collection complete!
+[2025-05-11 17:49:57] WARNING: - 0 trust assignments processed
+[2025-05-11 17:49:57] WARNING: - 0 users in trust network
+[2025-05-11 17:49:57] WARNING: - 0 total trust relationships
+[2025-05-11 17:59:56] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 17:59:56] WARNING: Will collect tweets until reaching previous timestamp: 2013-12-21 19:29:18+00:00
+[2025-05-11 17:59:56] WARNING: Retrieving page 1...
+[2025-05-11 17:59:57] WARNING: Newest tweet is from: 2013-12-21 19:29:18+00:00
+[2025-05-11 17:59:57] WARNING: Reached stop point at tweet from 2013-12-21 19:29:18+00:00
+[2025-05-11 17:59:57] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 17:59:57] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 17:59:57] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 17:59:57] WARNING: No new tweets found with trust commands
+[2025-05-11 17:59:57] WARNING: Collection complete!
+[2025-05-11 17:59:57] WARNING: - 0 trust assignments processed
+[2025-05-11 17:59:57] WARNING: - 0 users in trust network
+[2025-05-11 17:59:57] WARNING: - 0 total trust relationships
+[2025-05-11 18:09:56] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 18:09:56] WARNING: Will collect tweets until reaching previous timestamp: 2013-12-21 19:29:18+00:00
+[2025-05-11 18:09:56] WARNING: Retrieving page 1...
+[2025-05-11 18:09:57] WARNING: Newest tweet is from: 2013-12-21 19:29:18+00:00
+[2025-05-11 18:09:57] WARNING: Reached stop point at tweet from 2013-12-21 19:29:18+00:00
+[2025-05-11 18:09:57] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 18:09:57] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 18:09:57] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 18:09:57] WARNING: No new tweets found with trust commands
+[2025-05-11 18:09:57] WARNING: Collection complete!
+[2025-05-11 18:09:57] WARNING: - 0 trust assignments processed
+[2025-05-11 18:09:57] WARNING: - 0 users in trust network
+[2025-05-11 18:09:57] WARNING: - 0 total trust relationships
+[2025-05-11 18:17:09] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 18:17:09] WARNING: Will collect tweets until reaching previous timestamp: 2013-12-21 19:29:18+00:00
+[2025-05-11 18:17:09] WARNING: Retrieving page 1...
+[2025-05-11 18:17:11] WARNING: Newest tweet is from: 2013-12-21 19:29:18+00:00
+[2025-05-11 18:17:11] WARNING: Reached stop point at tweet from 2013-12-21 19:29:18+00:00
+[2025-05-11 18:17:11] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 18:17:11] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 18:17:11] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 18:17:11] WARNING: No new tweets found with trust commands
+[2025-05-11 18:17:11] WARNING: Collection complete!
+[2025-05-11 18:17:11] WARNING: - 0 trust assignments processed
+[2025-05-11 18:17:11] WARNING: - 0 users in trust network
+[2025-05-11 18:17:11] WARNING: - 0 total trust relationships
+[2025-05-11 18:19:12] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 18:19:12] WARNING: Will collect tweets until reaching previous timestamp: 2013-12-21 19:29:18+00:00
+[2025-05-11 18:19:12] WARNING: Retrieving page 1...
+[2025-05-11 18:19:14] WARNING: Newest tweet is from: 2013-12-21 19:29:18+00:00
+[2025-05-11 18:19:14] WARNING: Reached stop point at tweet from 2013-12-21 19:29:18+00:00
+[2025-05-11 18:19:14] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 18:19:14] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 18:19:14] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 18:19:14] WARNING: No new tweets found with trust commands
+[2025-05-11 18:19:14] WARNING: Collection complete!
+[2025-05-11 18:19:14] WARNING: - 0 trust assignments processed
+[2025-05-11 18:19:14] WARNING: - 0 users in trust network
+[2025-05-11 18:19:14] WARNING: - 0 total trust relationships
+[2025-05-11 18:25:29] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 18:25:29] WARNING: Will collect tweets until reaching previous timestamp: 2013-12-21 19:29:18+00:00
+[2025-05-11 18:25:29] WARNING: Retrieving page 1...
+[2025-05-11 18:25:31] WARNING: Newest tweet is from: 2013-12-21 19:29:18+00:00
+[2025-05-11 18:25:31] WARNING: Reached stop point at tweet from 2013-12-21 19:29:18+00:00
+[2025-05-11 18:25:31] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 18:25:31] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 18:25:31] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 18:25:31] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-11 18:25:31] WARNING: Collection complete!
+[2025-05-11 18:25:31] WARNING: - 0 trust assignments processed
+[2025-05-11 18:25:31] WARNING: - 0 users in trust network
+[2025-05-11 18:25:31] WARNING: - 0 total trust relationships
+[2025-05-11 20:47:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 20:47:33] WARNING: Will collect tweets until reaching previous timestamp: 2013-12-21 19:29:18+00:00
+[2025-05-11 20:47:33] WARNING: Retrieving page 1...
+[2025-05-11 20:47:35] WARNING: Newest tweet is from: 2025-05-12 01:14:18+00:00
+[2025-05-11 20:47:35] WARNING: Reached stop point at tweet from 2013-12-21 19:29:18+00:00
+[2025-05-11 20:47:35] WARNING: Retrieved 10 new tweets on page 1
+[2025-05-11 20:47:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 20:47:35] WARNING: Updated last tweet timestamp to: Mon May 12 01:14:18 +0000 2025
+[2025-05-11 20:47:35] WARNING: Retrieved a total of 10 tweets across 1 pages
+[2025-05-11 20:47:35] WARNING: Processing 10 tweets for trust commands
+[2025-05-11 20:47:35] WARNING: Checking tweet 1921735653873578069 from @ufoskeptic1968
+[2025-05-11 20:47:35] WARNING: Processed: @ufoskeptic1968 trusts @PTHellyer with -40 points
+[2025-05-11 20:47:35] WARNING: Checking tweet 1921735546637857269 from @ufobeliever1947
+[2025-05-11 20:47:35] WARNING: Processed: @ufobeliever1947 trusts @DanHaug6 with 70 points
+[2025-05-11 20:47:35] WARNING: Checking tweet 1921735155619705040 from @ufobeliever1947
+[2025-05-11 20:47:35] WARNING: Processed: @ufobeliever1947 trusts @Halsrethink with 95 points
+[2025-05-11 20:47:35] WARNING: Checking tweet 1921734769248702585 from @ufobeliever1947
+[2025-05-11 20:47:35] WARNING: Processed: @ufobeliever1947 trusts @ShipsSmall with 80 points
+[2025-05-11 20:47:35] WARNING: Checking tweet 1921734752102445456 from @ufoskeptic1968
+[2025-05-11 20:47:35] WARNING: Processed: @ufoskeptic1968 trusts @ShipsSmall with 80 points
+[2025-05-11 20:47:35] WARNING: Checking tweet 1921734530286956800 from @ufobeliever1947
+[2025-05-11 20:47:35] WARNING: Processed: @ufobeliever1947 trusts @TheOfficialQF with 70 points
+[2025-05-11 20:47:35] WARNING: Checking tweet 1921734447285567848 from @ufoskeptic1968
+[2025-05-11 20:47:35] WARNING: Processed: @ufoskeptic1968 trusts @TheOfficialQF with -50 points
+[2025-05-11 20:47:35] WARNING: Checking tweet 1921733690519912701 from @ufobeliever1947
+[2025-05-11 20:47:35] WARNING: Processed: @ufobeliever1947 trusts @susangerbic with -90 points
+[2025-05-11 20:47:35] WARNING: Checking tweet 1921733565412229466 from @ufoskeptic1968
+[2025-05-11 20:47:35] WARNING: Processed: @ufoskeptic1968 trusts @cosmic_surplus with 100 points
+[2025-05-11 20:47:35] WARNING: Checking tweet 1921733030349025353 from @ufobeliever1947
+[2025-05-11 20:47:35] WARNING: Processed: @ufobeliever1947 trusts @GoodTroubleShow with 80 points
+[2025-05-11 20:47:35] WARNING: Successfully saved 10 trust assignments (10 new/changed)
+[2025-05-11 20:47:35] WARNING: Collection complete!
+[2025-05-11 20:47:35] WARNING: - 10 trust assignments processed
+[2025-05-11 20:47:35] WARNING: - 2 users in trust network
+[2025-05-11 20:47:35] WARNING: - 10 total trust relationships
+[2025-05-11 20:48:30] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 20:48:30] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 01:14:18+00:00
+[2025-05-11 20:48:30] WARNING: Retrieving page 1...
+[2025-05-11 20:48:31] WARNING: Newest tweet is from: 2025-05-12 01:14:18+00:00
+[2025-05-11 20:48:31] WARNING: Reached stop point at tweet from 2025-05-12 01:14:18+00:00
+[2025-05-11 20:48:31] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 20:48:31] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 20:48:31] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 20:48:31] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-11 20:48:31] WARNING: Collection complete!
+[2025-05-11 20:48:31] WARNING: - 0 trust assignments processed
+[2025-05-11 20:48:31] WARNING: - 2 users in trust network
+[2025-05-11 20:48:31] WARNING: - 10 total trust relationships
+[2025-05-11 20:57:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 20:57:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 01:14:18+00:00
+[2025-05-11 20:57:33] WARNING: Retrieving page 1...
+[2025-05-11 20:57:35] WARNING: Newest tweet is from: 2025-05-12 03:57:36+00:00
+[2025-05-11 20:57:35] WARNING: Reached stop point at tweet from 2025-05-12 01:14:18+00:00
+[2025-05-11 20:57:35] WARNING: Retrieved 5 new tweets on page 1
+[2025-05-11 20:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 20:57:35] WARNING: Updated last tweet timestamp to: Mon May 12 03:57:36 +0000 2025
+[2025-05-11 20:57:35] WARNING: Retrieved a total of 5 tweets across 1 pages
+[2025-05-11 20:57:35] WARNING: Processing 5 tweets for trust commands
+[2025-05-11 20:57:35] WARNING: Checking tweet 1921776748259111162 from @ufoskeptic1968
+[2025-05-11 20:57:35] WARNING: Processed: @ufoskeptic1968 trusts @GoodTroubleShow with -60 points
+[2025-05-11 20:57:35] WARNING: Checking tweet 1921776490812756260 from @ufoskeptic1968
+[2025-05-11 20:57:35] WARNING: Processed: @ufoskeptic1968 trusts @jayanderson with -50 points
+[2025-05-11 20:57:35] WARNING: Checking tweet 1921776336038678643 from @ufoskeptic1968
+[2025-05-11 20:57:35] WARNING: Processed: @ufoskeptic1968 trusts @susangerbic with 60 points
+[2025-05-11 20:57:35] WARNING: Checking tweet 1921776153934606554 from @ufobeliever1947
+[2025-05-11 20:57:35] WARNING: Processed: @ufobeliever1947 trusts @MiddleofMayhem with -100 points
+[2025-05-11 20:57:35] WARNING: Checking tweet 1921775788518507008 from @ufobeliever1947
+[2025-05-11 20:57:35] WARNING: Processed: @ufobeliever1947 trusts @jayanderson with 40 points
+[2025-05-11 20:57:35] WARNING: Successfully saved 5 trust assignments (5 new/changed)
+[2025-05-11 20:57:35] WARNING: Collection complete!
+[2025-05-11 20:57:35] WARNING: - 5 trust assignments processed
+[2025-05-11 20:57:35] WARNING: - 2 users in trust network
+[2025-05-11 20:57:35] WARNING: - 15 total trust relationships
+[2025-05-11 21:07:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 21:07:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 03:57:36+00:00
+[2025-05-11 21:07:33] WARNING: Retrieving page 1...
+[2025-05-11 21:07:34] WARNING: Newest tweet is from: 2025-05-12 04:07:33+00:00
+[2025-05-11 21:07:34] WARNING: Reached stop point at tweet from 2025-05-12 03:57:36+00:00
+[2025-05-11 21:07:34] WARNING: Retrieved 3 new tweets on page 1
+[2025-05-11 21:07:34] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 21:07:34] WARNING: Updated last tweet timestamp to: Mon May 12 04:07:33 +0000 2025
+[2025-05-11 21:07:34] WARNING: Retrieved a total of 3 tweets across 1 pages
+[2025-05-11 21:07:34] WARNING: Processing 3 tweets for trust commands
+[2025-05-11 21:07:34] WARNING: Checking tweet 1921779254003429525 from @ufobeliever1947
+[2025-05-11 21:07:34] WARNING: Processed: @ufobeliever1947 trusts @likeitmatters3 with -40 points
+[2025-05-11 21:07:34] WARNING: Checking tweet 1921778019892396079 from @ufoskeptic1968
+[2025-05-11 21:07:34] WARNING: Processed: @ufoskeptic1968 trusts @JeremyCorbell with -40 points
+[2025-05-11 21:07:34] WARNING: Checking tweet 1921777438880665810 from @ufoskeptic1968
+[2025-05-11 21:07:34] WARNING: Processed: @ufoskeptic1968 trusts @jamescfox with -15 points
+[2025-05-11 21:07:34] WARNING: Successfully saved 3 trust assignments (3 new/changed)
+[2025-05-11 21:07:34] WARNING: Collection complete!
+[2025-05-11 21:07:34] WARNING: - 3 trust assignments processed
+[2025-05-11 21:07:34] WARNING: - 2 users in trust network
+[2025-05-11 21:07:34] WARNING: - 18 total trust relationships
+[2025-05-11 21:17:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 21:17:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 04:07:33+00:00
+[2025-05-11 21:17:33] WARNING: Retrieving page 1...
+[2025-05-11 21:17:34] WARNING: Newest tweet is from: 2025-05-12 04:14:09+00:00
+[2025-05-11 21:17:34] WARNING: Reached stop point at tweet from 2025-05-12 04:07:33+00:00
+[2025-05-11 21:17:34] WARNING: Retrieved 4 new tweets on page 1
+[2025-05-11 21:17:34] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 21:17:34] WARNING: Updated last tweet timestamp to: Mon May 12 04:14:09 +0000 2025
+[2025-05-11 21:17:34] WARNING: Retrieved a total of 4 tweets across 1 pages
+[2025-05-11 21:17:34] WARNING: Processing 4 tweets for trust commands
+[2025-05-11 21:17:34] WARNING: Checking tweet 1921780913047781882 from @ufobeliever1947
+[2025-05-11 21:17:34] WARNING: Processed: @ufobeliever1947 trusts @g_knapp with 90 points
+[2025-05-11 21:17:34] WARNING: Checking tweet 1921780249278202070 from @ufobeliever1947
+[2025-05-11 21:17:34] WARNING: Processed: @ufobeliever1947 trusts @rosscoulthart with 90 points
+[2025-05-11 21:17:34] WARNING: Checking tweet 1921780058462523718 from @ufobeliever1947
+[2025-05-11 21:17:34] WARNING: Processed: @ufobeliever1947 trusts @JeremyCorbell with 20 points
+[2025-05-11 21:17:34] WARNING: Checking tweet 1921779826165231880 from @ufobeliever1947
+[2025-05-11 21:17:34] WARNING: Processed: @ufobeliever1947 trusts @LueElizondo with 70 points
+[2025-05-11 21:17:34] WARNING: Successfully saved 4 trust assignments (4 new/changed)
+[2025-05-11 21:17:34] WARNING: Collection complete!
+[2025-05-11 21:17:34] WARNING: - 4 trust assignments processed
+[2025-05-11 21:17:34] WARNING: - 2 users in trust network
+[2025-05-11 21:17:34] WARNING: - 22 total trust relationships
+[2025-05-11 21:27:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 21:27:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 04:14:09+00:00
+[2025-05-11 21:27:33] WARNING: Retrieving page 1...
+[2025-05-11 21:27:34] WARNING: Newest tweet is from: 2025-05-12 04:21:02+00:00
+[2025-05-11 21:27:34] WARNING: Reached stop point at tweet from 2025-05-12 04:14:09+00:00
+[2025-05-11 21:27:34] WARNING: Retrieved 2 new tweets on page 1
+[2025-05-11 21:27:34] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 21:27:34] WARNING: Updated last tweet timestamp to: Mon May 12 04:21:02 +0000 2025
+[2025-05-11 21:27:34] WARNING: Retrieved a total of 2 tweets across 1 pages
+[2025-05-11 21:27:34] WARNING: Processing 2 tweets for trust commands
+[2025-05-11 21:27:34] WARNING: Checking tweet 1921782647891628531 from @ufoskeptic1968
+[2025-05-11 21:27:34] WARNING: Processed: @ufoskeptic1968 trusts @OSIRISUAP with 2 points
+[2025-05-11 21:27:34] WARNING: Checking tweet 1921782102585950461 from @ufoskeptic1968
+[2025-05-11 21:27:34] WARNING: Processed: @ufoskeptic1968 trusts @JonMajerowski with -30 points
+[2025-05-11 21:27:34] WARNING: Successfully saved 2 trust assignments (2 new/changed)
+[2025-05-11 21:27:34] WARNING: Collection complete!
+[2025-05-11 21:27:34] WARNING: - 2 trust assignments processed
+[2025-05-11 21:27:34] WARNING: - 2 users in trust network
+[2025-05-11 21:27:34] WARNING: - 24 total trust relationships
+[2025-05-11 21:37:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 21:37:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 04:21:02+00:00
+[2025-05-11 21:37:33] WARNING: Retrieving page 1...
+[2025-05-11 21:37:35] WARNING: Newest tweet is from: 2025-05-12 04:21:02+00:00
+[2025-05-11 21:37:35] WARNING: Reached stop point at tweet from 2025-05-12 04:21:02+00:00
+[2025-05-11 21:37:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 21:37:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 21:37:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 21:37:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-11 21:37:35] WARNING: Collection complete!
+[2025-05-11 21:37:35] WARNING: - 0 trust assignments processed
+[2025-05-11 21:37:35] WARNING: - 2 users in trust network
+[2025-05-11 21:37:35] WARNING: - 24 total trust relationships
+[2025-05-11 21:47:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 21:47:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 04:21:02+00:00
+[2025-05-11 21:47:33] WARNING: Retrieving page 1...
+[2025-05-11 21:47:34] WARNING: No tweets found on this page
+[2025-05-11 21:47:34] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 21:47:34] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-11 21:47:34] WARNING: Collection complete!
+[2025-05-11 21:47:34] WARNING: - 0 trust assignments processed
+[2025-05-11 21:47:34] WARNING: - 2 users in trust network
+[2025-05-11 21:47:34] WARNING: - 24 total trust relationships
+[2025-05-11 21:57:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 21:57:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 04:21:02+00:00
+[2025-05-11 21:57:33] WARNING: Retrieving page 1...
+[2025-05-11 21:57:34] WARNING: Newest tweet is from: 2025-05-12 04:56:02+00:00
+[2025-05-11 21:57:34] WARNING: Retrieved 4 new tweets on page 1
+[2025-05-11 21:57:36] WARNING: Retrieving page 2...
+[2025-05-11 21:57:38] WARNING: No tweets found on this page
+[2025-05-11 21:57:38] WARNING: Updated last tweet timestamp to: Mon May 12 04:56:02 +0000 2025
+[2025-05-11 21:57:38] WARNING: Retrieved a total of 4 tweets across 2 pages
+[2025-05-11 21:57:38] WARNING: Processing 4 tweets for trust commands
+[2025-05-11 21:57:38] WARNING: Checking tweet 1921791453262417944 from @ufoskeptic1968
+[2025-05-11 21:57:38] WARNING: Processed: @ufoskeptic1968 trusts @FettucineSplit with -20 points
+[2025-05-11 21:57:38] WARNING: Checking tweet 1921790996922122431 from @ufoskeptic1968
+[2025-05-11 21:57:38] WARNING: Processed: @ufoskeptic1968 trusts @Eyes_OnTheSkies with -20 points
+[2025-05-11 21:57:38] WARNING: Checking tweet 1921790440942002590 from @ufobeliever1947
+[2025-05-11 21:57:38] WARNING: Processed: @ufobeliever1947 trusts @ufoskeptic1968 with -100 points
+[2025-05-11 21:57:38] WARNING: Checking tweet 1921790342191280580 from @ufoskeptic1968
+[2025-05-11 21:57:38] WARNING: Processed: @ufoskeptic1968 trusts @ufobeliever1947 with -100 points
+[2025-05-11 21:57:38] WARNING: Successfully saved 4 trust assignments (4 new/changed)
+[2025-05-11 21:57:38] WARNING: Collection complete!
+[2025-05-11 21:57:38] WARNING: - 4 trust assignments processed
+[2025-05-11 21:57:38] WARNING: - 2 users in trust network
+[2025-05-11 21:57:38] WARNING: - 28 total trust relationships
+[2025-05-11 22:07:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 22:07:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 04:56:02+00:00
+[2025-05-11 22:07:33] WARNING: Retrieving page 1...
+[2025-05-11 22:07:34] WARNING: Newest tweet is from: 2025-05-12 04:56:02+00:00
+[2025-05-11 22:07:34] WARNING: Reached stop point at tweet from 2025-05-12 04:56:02+00:00
+[2025-05-11 22:07:34] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 22:07:34] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 22:07:34] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 22:07:34] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-11 22:07:34] WARNING: Collection complete!
+[2025-05-11 22:07:34] WARNING: - 0 trust assignments processed
+[2025-05-11 22:07:34] WARNING: - 2 users in trust network
+[2025-05-11 22:07:34] WARNING: - 28 total trust relationships
+[2025-05-11 22:17:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 22:17:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 04:56:02+00:00
+[2025-05-11 22:17:33] WARNING: Retrieving page 1...
+[2025-05-11 22:17:34] WARNING: Newest tweet is from: 2025-05-12 04:56:02+00:00
+[2025-05-11 22:17:34] WARNING: Reached stop point at tweet from 2025-05-12 04:56:02+00:00
+[2025-05-11 22:17:34] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 22:17:34] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 22:17:34] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 22:17:34] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-11 22:17:34] WARNING: Collection complete!
+[2025-05-11 22:17:34] WARNING: - 0 trust assignments processed
+[2025-05-11 22:17:34] WARNING: - 2 users in trust network
+[2025-05-11 22:17:34] WARNING: - 28 total trust relationships
+[2025-05-11 22:27:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 22:27:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 04:56:02+00:00
+[2025-05-11 22:27:33] WARNING: Retrieving page 1...
+[2025-05-11 22:27:34] WARNING: Newest tweet is from: 2025-05-12 05:24:44+00:00
+[2025-05-11 22:27:34] WARNING: Reached stop point at tweet from 2025-05-12 04:56:02+00:00
+[2025-05-11 22:27:34] WARNING: Retrieved 1 new tweets on page 1
+[2025-05-11 22:27:34] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 22:27:34] WARNING: Updated last tweet timestamp to: Mon May 12 05:24:44 +0000 2025
+[2025-05-11 22:27:34] WARNING: Retrieved a total of 1 tweets across 1 pages
+[2025-05-11 22:27:34] WARNING: Processing 1 tweets for trust commands
+[2025-05-11 22:27:34] WARNING: Checking tweet 1921798675430351295 from @ufoskeptic1968
+[2025-05-11 22:27:34] WARNING: Processed: @ufoskeptic1968 trusts @SnakePo9 with -25 points
+[2025-05-11 22:27:34] WARNING: Successfully saved 1 trust assignments (1 new/changed)
+[2025-05-11 22:27:34] WARNING: Collection complete!
+[2025-05-11 22:27:34] WARNING: - 1 trust assignments processed
+[2025-05-11 22:27:34] WARNING: - 2 users in trust network
+[2025-05-11 22:27:34] WARNING: - 29 total trust relationships
+[2025-05-11 22:37:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 22:37:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 05:24:44+00:00
+[2025-05-11 22:37:33] WARNING: Retrieving page 1...
+[2025-05-11 22:37:34] WARNING: Newest tweet is from: 2025-05-12 05:37:27+00:00
+[2025-05-11 22:37:34] WARNING: Reached stop point at tweet from 2025-05-12 05:24:44+00:00
+[2025-05-11 22:37:34] WARNING: Retrieved 1 new tweets on page 1
+[2025-05-11 22:37:34] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 22:37:34] WARNING: Updated last tweet timestamp to: Mon May 12 05:37:27 +0000 2025
+[2025-05-11 22:37:34] WARNING: Retrieved a total of 1 tweets across 1 pages
+[2025-05-11 22:37:34] WARNING: Processing 1 tweets for trust commands
+[2025-05-11 22:37:34] WARNING: Checking tweet 1921801875646541981 from @ufobeliever1947
+[2025-05-11 22:37:34] WARNING: Processed: @ufobeliever1947 trusts @ChrisUKSharp with 80 points
+[2025-05-11 22:37:34] WARNING: Successfully saved 1 trust assignments (1 new/changed)
+[2025-05-11 22:37:34] WARNING: Collection complete!
+[2025-05-11 22:37:34] WARNING: - 1 trust assignments processed
+[2025-05-11 22:37:34] WARNING: - 2 users in trust network
+[2025-05-11 22:37:34] WARNING: - 30 total trust relationships
+[2025-05-11 22:47:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 22:47:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 05:37:27+00:00
+[2025-05-11 22:47:33] WARNING: Retrieving page 1...
+[2025-05-11 22:47:34] WARNING: Newest tweet is from: 2025-05-12 05:38:05+00:00
+[2025-05-11 22:47:34] WARNING: Reached stop point at tweet from 2025-05-12 05:37:27+00:00
+[2025-05-11 22:47:34] WARNING: Retrieved 1 new tweets on page 1
+[2025-05-11 22:47:34] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 22:47:34] WARNING: Updated last tweet timestamp to: Mon May 12 05:38:05 +0000 2025
+[2025-05-11 22:47:34] WARNING: Retrieved a total of 1 tweets across 1 pages
+[2025-05-11 22:47:34] WARNING: Processing 1 tweets for trust commands
+[2025-05-11 22:47:34] WARNING: Checking tweet 1921802035625595190 from @ufobeliever1947
+[2025-05-11 22:47:34] WARNING: Processed: @ufobeliever1947 trusts @AskaPol_UAPs with 80 points
+[2025-05-11 22:47:34] WARNING: Successfully saved 1 trust assignments (1 new/changed)
+[2025-05-11 22:47:34] WARNING: Collection complete!
+[2025-05-11 22:47:34] WARNING: - 1 trust assignments processed
+[2025-05-11 22:47:34] WARNING: - 2 users in trust network
+[2025-05-11 22:47:34] WARNING: - 31 total trust relationships
+[2025-05-11 22:57:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 22:57:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 05:38:05+00:00
+[2025-05-11 22:57:33] WARNING: Retrieving page 1...
+[2025-05-11 22:57:34] WARNING: Newest tweet is from: 2025-05-12 05:38:05+00:00
+[2025-05-11 22:57:34] WARNING: Reached stop point at tweet from 2025-05-12 05:38:05+00:00
+[2025-05-11 22:57:34] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 22:57:34] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 22:57:34] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 22:57:34] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-11 22:57:34] WARNING: Collection complete!
+[2025-05-11 22:57:34] WARNING: - 0 trust assignments processed
+[2025-05-11 22:57:34] WARNING: - 2 users in trust network
+[2025-05-11 22:57:34] WARNING: - 31 total trust relationships
+[2025-05-11 23:05:14] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 23:05:14] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 05:38:05+00:00
+[2025-05-11 23:05:14] WARNING: Retrieving page 1...
+[2025-05-11 23:05:16] WARNING: Newest tweet is from: 2025-05-12 05:38:05+00:00
+[2025-05-11 23:05:16] WARNING: Reached stop point at tweet from 2025-05-12 05:38:05+00:00
+[2025-05-11 23:05:16] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 23:05:16] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 23:05:16] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 23:05:16] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-11 23:05:16] WARNING: Collection complete!
+[2025-05-11 23:05:16] WARNING: - 0 trust assignments processed
+[2025-05-11 23:05:16] WARNING: - 2 users in trust network
+[2025-05-11 23:05:16] WARNING: - 31 total trust relationships
+[2025-05-11 23:07:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 23:07:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 05:38:05+00:00
+[2025-05-11 23:07:33] WARNING: Retrieving page 1...
+[2025-05-11 23:07:34] WARNING: Newest tweet is from: 2025-05-12 05:38:05+00:00
+[2025-05-11 23:07:34] WARNING: Reached stop point at tweet from 2025-05-12 05:38:05+00:00
+[2025-05-11 23:07:34] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 23:07:34] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 23:07:34] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 23:07:34] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-11 23:07:34] WARNING: Collection complete!
+[2025-05-11 23:07:34] WARNING: - 0 trust assignments processed
+[2025-05-11 23:07:34] WARNING: - 2 users in trust network
+[2025-05-11 23:07:34] WARNING: - 31 total trust relationships
+[2025-05-11 23:17:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 23:17:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 05:38:05+00:00
+[2025-05-11 23:17:33] WARNING: Retrieving page 1...
+[2025-05-11 23:17:34] WARNING: Newest tweet is from: 2025-05-12 05:38:05+00:00
+[2025-05-11 23:17:34] WARNING: Reached stop point at tweet from 2025-05-12 05:38:05+00:00
+[2025-05-11 23:17:34] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 23:17:34] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 23:17:34] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 23:17:34] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-11 23:17:34] WARNING: Collection complete!
+[2025-05-11 23:17:34] WARNING: - 0 trust assignments processed
+[2025-05-11 23:17:34] WARNING: - 2 users in trust network
+[2025-05-11 23:17:34] WARNING: - 31 total trust relationships
