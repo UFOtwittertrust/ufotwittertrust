@@ -1,5 +1,5 @@
 // Trust system data
-// Auto-generated on 2025-05-11 22:57:36
+// Auto-generated on 2025-05-11 23:05:18
 // DO NOT EDIT MANUALLY
 
 const trustData = {
@@ -220,7 +220,7 @@ const trustData = {
     {
       "source": "ufobeliever1947",
       "target": "DanHaug6",
-      "value": 2.2449623614025622
+      "value": 2.244962361402562
     },
     {
       "source": "ufobeliever1947",
@@ -230,7 +230,7 @@ const trustData = {
     {
       "source": "ufobeliever1947",
       "target": "Halsrethink",
-      "value": 3.046734633332049
+      "value": 3.0467346333320484
     },
     {
       "source": "ufobeliever1947",
@@ -240,12 +240,12 @@ const trustData = {
     {
       "source": "ufobeliever1947",
       "target": "LueElizondo",
-      "value": 2.2449623614025622
+      "value": 2.244962361402562
     },
     {
       "source": "ufobeliever1947",
       "target": "MiddleofMayhem",
-      "value": -3.2070890877179465
+      "value": -3.207089087717945
     },
     {
       "source": "ufobeliever1947",
@@ -255,7 +255,7 @@ const trustData = {
     {
       "source": "ufobeliever1947",
       "target": "TheOfficialQF",
-      "value": 2.2449623614025622
+      "value": 2.244962361402562
     },
     {
       "source": "ufobeliever1947",
@@ -285,7 +285,7 @@ const trustData = {
     {
       "source": "ufobeliever1947",
       "target": "ufoskeptic1968",
-      "value": -3.2070890877179465
+      "value": -3.207089087717945
     },
     {
       "source": "ufoskeptic1968",
@@ -445,7 +445,7 @@ const trustData = {
       "ChrisUKSharp": 0.084562163914682,
       "DanHaug6": 0.08371953723032863,
       "GoodTroubleShow": 0.084562163914682,
-      "Halsrethink": 0.08582610394121208,
+      "Halsrethink": 0.08582610394121207,
       "JeremyCorbell": 0.07950640380856175,
       "LueElizondo": 0.08371953723032863,
       "TheOfficialQF": 0.08371953723032863,
