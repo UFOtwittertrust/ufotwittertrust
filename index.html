@@ -42,6 +42,11 @@
                             <input type="text" id="searchInput" class="form-control" placeholder="Search for a username...">
                         </div>
                         
+                        <p class="text-muted mb-3">
+                            Users are grouped into communities based on who trusts whom using an advanced detection algorithm that identifies natural clusters in the network. 
+                            For details on how communities are detected, see the <a href="how-it-works.html">How It Works</a> page.
+                        </p>
+                        
                         <table class="table table-striped table-hover">
                             <thead>
                                 <tr>
@@ -72,12 +77,16 @@
                     </div>
                     <div class="card-body">
                         <p>To assign trust to another Twitter user, tweet using this format (scores from 0 to 100, where 50 is neutral):</p>
+                        <p><strong>Standard command:</strong></p>
                         <pre><code>#ufotrust @username 80</code></pre>
                         <p>(assigns 80 trust points - strong trust)</p>
-                        <pre><code>#ufotrust @username 50</code></pre>
-                        <p>(assigns 50 points - neutral)</p>
-                        <pre><code>#ufotrust @username 20</code></pre>
-                        <p>(assigns 20 points - strong distrust)</p>
+                        <p><strong>When replying to a user (you can omit their @username in the command):</strong></p>
+                        <pre><code>@someuser That's insightful! #ufotrust 75</code></pre>
+                        <p>(assigns 75 trust points to @someuser)</p>
+                        <pre><code>#ufotrust 50</code></pre>
+                        <p>(in a reply, assigns 50 points - neutral - to the user being replied to)</p>
+                        <pre><code>#ufotrust 20</code></pre>
+                        <p>(in a reply, assigns 20 points - strong distrust - to the user being replied to)</p>
                         <div class="alert alert-info">
                             <strong>Note:</strong> Your trust ratings (0-100) are automatically normalized for influence in the network. 50 is neutral, scores above 50 indicate trust, and scores below 50 indicate distrust.
                         </div>

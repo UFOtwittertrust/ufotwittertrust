@@ -72,3 +72,16 @@ a.twitter-link:hover {
     display: flex;
     gap: 10px;
 }
+
+/* Add styles for visualization legend */
+.legend-marker {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.visualization-legend {
+    font-size: 0.9rem;
+}

@@ -1,0 +1,64 @@
+[2025-05-11 17:49:54] Starting Twitter Trust System update process...
+[2025-05-11 17:49:54] Update frequency set to: 10 minutes
+[2025-05-11 17:49:54] Collecting trust assignments from Twitter...
+[2025-05-11 17:29:56] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 17:29:56] WARNING: No previous timestamp found. Looking back 60 minutes to: 2025-05-11 16:29:56.037529
+[2025-05-11 17:29:56] WARNING: Retrieving page 1...
+[2025-05-11 17:29:57] WARNING: Newest tweet is from: 2013-12-21 19:29:18+00:00
+[2025-05-11 17:29:57] WARNING: Error parsing tweet time: can't compare offset-naive and offset-aware datetimes
+[2025-05-11 17:29:57] WARNING: Retrieved 1 new tweets on page 1
+[2025-05-11 17:29:59] WARNING: Retrieving page 2...
+[2025-05-11 17:30:03] WARNING: No tweets found on this page
+[2025-05-11 17:30:03] WARNING: Updated last tweet timestamp to: Sat Dec 21 19:29:18 +0000 2013
+[2025-05-11 17:30:03] WARNING: Retrieved a total of 1 tweets across 2 pages
+[2025-05-11 17:30:03] WARNING: Processing 1 tweets for trust commands
+[2025-05-11 17:30:03] WARNING: Checking tweet 414477698107318272 from @CoraxSays
+[2025-05-11 17:30:03] WARNING: No trust commands found in tweet 414477698107318272
+[2025-05-11 17:30:03] WARNING: Successfully saved 0 trust assignments (0 new/changed)
+[2025-05-11 17:30:03] WARNING: Collection complete!
+[2025-05-11 17:30:03] WARNING: - 0 trust assignments processed
+[2025-05-11 17:30:03] WARNING: - 0 users in trust network
+[2025-05-11 17:30:03] WARNING: - 0 total trust relationships
+[2025-05-11 17:39:56] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 17:39:56] WARNING: Will collect tweets until reaching previous timestamp: 2013-12-21 19:29:18+00:00
+[2025-05-11 17:39:56] WARNING: Retrieving page 1...
+[2025-05-11 17:39:57] WARNING: Newest tweet is from: 2013-12-21 19:29:18+00:00
+[2025-05-11 17:39:57] WARNING: Reached stop point at tweet from 2013-12-21 19:29:18+00:00
+[2025-05-11 17:39:57] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 17:39:57] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 17:39:57] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 17:39:57] WARNING: No new tweets found with trust commands
+[2025-05-11 17:39:57] WARNING: Collection complete!
+[2025-05-11 17:39:57] WARNING: - 0 trust assignments processed
+[2025-05-11 17:39:57] WARNING: - 0 users in trust network
+[2025-05-11 17:39:57] WARNING: - 0 total trust relationships
+[2025-05-11 17:49:56] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-11 17:49:56] WARNING: Will collect tweets until reaching previous timestamp: 2013-12-21 19:29:18+00:00
+[2025-05-11 17:49:56] WARNING: Retrieving page 1...
+[2025-05-11 17:49:57] WARNING: Newest tweet is from: 2013-12-21 19:29:18+00:00
+[2025-05-11 17:49:57] WARNING: Reached stop point at tweet from 2013-12-21 19:29:18+00:00
+[2025-05-11 17:49:57] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-11 17:49:57] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-11 17:49:57] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-11 17:49:57] WARNING: No new tweets found with trust commands
+[2025-05-11 17:49:57] WARNING: Collection complete!
+[2025-05-11 17:49:57] WARNING: - 0 trust assignments processed
+[2025-05-11 17:49:57] WARNING: - 0 users in trust network
+[2025-05-11 17:49:57] WARNING: - 0 total trust relationships
+[2025-05-11 17:49:57] Calculating trust scores from collected data...
+[2025-05-11 17:30:05] WARNING: === Starting Trust Score Calculation ===
+[2025-05-11 17:30:05] WARNING: Starting trust score calculation...
+[2025-05-11 17:30:05] WARNING: Found 0 users in the trust network
+[2025-05-11 17:30:05] WARNING: No users found in trust assignments
+[2025-05-11 17:30:05] WARNING: Trust calculation failed.
+[2025-05-11 17:39:59] WARNING: === Starting Trust Score Calculation ===
+[2025-05-11 17:39:59] WARNING: Starting trust score calculation...
+[2025-05-11 17:39:59] WARNING: Found 0 users in the trust network
+[2025-05-11 17:39:59] WARNING: No users found in trust assignments
+[2025-05-11 17:39:59] WARNING: Trust calculation failed.
+[2025-05-11 17:49:59] WARNING: === Starting Trust Score Calculation ===
+[2025-05-11 17:49:59] WARNING: Starting trust score calculation...
+[2025-05-11 17:49:59] WARNING: Found 0 users in the trust network
+[2025-05-11 17:49:59] WARNING: No users found in trust assignments
+[2025-05-11 17:49:59] WARNING: Trust calculation failed.
+[2025-05-11 17:49:59] Error: Failed to generate data.js file

@@ -48,7 +48,7 @@ def load_config():
                 },
                 "trust_calculation": {
                     "rating_range": {
-                        "min": -100,
+                        "min": 0,
                         "max": 100
                     },
                     "normalization": "l2",
@@ -240,7 +240,7 @@ def process_tweets():
     tweets = search_tweets_with_pagination(query, trust_data, config)
     
     if not tweets:
-        logger.warning("No new tweets found with trust commands")
+        logger.warning("No new tweets found with trust commands. Exiting without error.")
         return 0
     
     logger.warning(f"Processing {len(tweets)} tweets for trust commands")
@@ -249,47 +249,56 @@ def process_tweets():
     new_assignments = 0
     
     # Get regex pattern with configurable range
-    min_rating = config["trust_calculation"]["rating_range"].get("min", -100)
+    min_rating = config["trust_calculation"]["rating_range"].get("min", 0)
     max_rating = config["trust_calculation"]["rating_range"].get("max", 100)
     
     # Regex pattern to match trust assignments
-    # Default: #ufotrust @username +70 or #ufotrust @username -30
-    #trust_pattern = r'#ufotrust\s+@(\w+)\s+([+-]?\d{1,3})'
-    trust_pattern = r'#ufotrust\s+@([A-Za-z0-9_]+)\s+([+-]?\d+(?:\.\d+)?)'
-
+    trust_pattern_with_user = r'#ufotrust\s+@([A-Za-z0-9_]+)\s+([0-9]{1,3}(?:\.\d+)?)' # For #ufotrust @user score
+    trust_pattern_reply = r'#ufotrust\s+([0-9]{1,3}(?:\.\d+)?)' # For #ufotrust score (in a reply)
 
     # Process each tweet
     for tweet in tweets:
         if tweet.get("type") != "tweet":
             continue
-            
-        # Get the tweet text and author
         text = tweet.get("text", "")
         author = tweet.get("screen_name", "")
         tweet_id = tweet.get("tweet_id", "unknown")
-        
+        in_reply_to_screen_name = None
+        # Check if it's a reply from user_mentions (best guess if direct field not available)
+        # A more robust way is to get 'in_reply_to_screen_name' directly from tweet object if API provides it.
+        if tweet.get('entities') and tweet['entities'].get('user_mentions'):
+            mentions = tweet['entities']['user_mentions']
+            if mentions and text.startswith(f"@{mentions[0]['screen_name']}"):
+                 # Check if the first mention is at the beginning of the tweet text
+                if mentions[0]['indices'][0] == 0:
+                    in_reply_to_screen_name = mentions[0]['screen_name']
+
         if not author or not text:
             continue
-        
         logger.warning(f"Checking tweet {tweet_id} from @{author}")
         
-        # Extract trust assignments using regex
-        matches = re.findall(trust_pattern, text, re.IGNORECASE)
-        
+        matches = re.findall(trust_pattern_with_user, text, re.IGNORECASE)
+        target_username_from_reply = False
+
+        if not matches and in_reply_to_screen_name:
+            reply_matches = re.findall(trust_pattern_reply, text, re.IGNORECASE)
+            if reply_matches:
+                # Convert reply_matches to the same structure as matches
+                matches = [(in_reply_to_screen_name, val) for val in reply_matches]
+                target_username_from_reply = True # Flag to know this was a reply-based target
+                logger.warning(f"Found reply-based trust command in tweet {tweet_id} to @{in_reply_to_screen_name}")
+
         if not matches:
             logger.warning(f"No trust commands found in tweet {tweet_id}")
             continue
-            
         # Process each match
         for match in matches:
             target_username = match[0]
             try:
-                trust_value = int(match[1])
-                
-                # Limit trust value to configured range
+                trust_value = float(match[1] if not target_username_from_reply else match[1]) # match[1] for with_user, match for reply
                 trust_value = max(min_rating, min(max_rating, trust_value))
-            except ValueError:
-                logger.warning(f"Invalid trust value in tweet {tweet_id}: {match[1]}")
+            except (ValueError, IndexError) as e: # Added IndexError for reply case
+                logger.warning(f"Invalid trust value or match structure in tweet {tweet_id}: {match} - Error: {e}")
                 continue
             
             # Skip if author is trying to trust themselves
@@ -311,7 +320,7 @@ def process_tweets():
                 
             trust_data["assignments"][author][target_username] = trust_value
             processed_count += 1
-            logger.warning(f"Processed: @{author} trusts @{target_username} with {trust_value} points")
+            logger.warning(f"Processed: @{author} trusts @{target_username} with {trust_value} points (0=distrust, 50=neutral, 100=trust)")
     
     # Update timestamp with time
     trust_data["last_updated"] = datetime.now().strftime("%B %d, %Y %I:%M %p")
@@ -339,7 +348,7 @@ def main():
         for user, targets in trust_data["assignments"].items():
             assignments_count += len(targets)
         
-        logger.warning(f"Collection complete!")
+        logger.warning("Collection complete!")
         logger.warning(f"- {processed} trust assignments processed")
         logger.warning(f"- {total_users} users in trust network")
         logger.warning(f"- {assignments_count} total trust relationships")

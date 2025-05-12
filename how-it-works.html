@@ -73,9 +73,12 @@
                         
                         <div class="example-box p-3 mb-4 border rounded">
                             <p><strong>Assigning Trust/Distrust (0-100 Scale, 50 is Neutral):</strong></p>
+                            <p>Standard command:</p>
                             <p class="text-primary"><code>#ufotrust @username 80</code> (assigns 80 points - strong trust)</p>
-                            <p class="text-primary"><code>#ufotrust @username 50</code> (assigns 50 points - neutral)</p>
-                            <p class="text-primary"><code>#ufotrust @username 20</code> (assigns 20 points - strong distrust)</p>
+                            <p>If replying to a user, you can omit their @username in the command:</p>
+                            <p class="text-primary"><code>@someuser Great point! #ufotrust 75</code> (assigns 75 points to @someuser)</p>
+                            <p class="text-primary"><code>#ufotrust 50</code> (in a reply, assigns 50 points - neutral - to the user being replied to)</p>
+                            <p class="text-primary"><code>#ufotrust 20</code> (in a reply, assigns 20 points - strong distrust - to the user being replied to)</p>
                         </div>
                         
                         <div class="alert alert-info">
@@ -100,6 +103,21 @@
                             The trust network naturally forms communities of users who trust each other more than they trust 
                             outsiders. These communities often align with shared interests or perspectives.
                         </p>
+                        
+                        <div class="alert alert-info mb-3">
+                            <h5>Enhanced Community Detection</h5>
+                            <p>The UFO Trust System uses an advanced community detection method that:</p>
+                            <ul>
+                                <li><strong>Identifies Natural Clusters:</strong> Automatically detects communities based on who trusts whom, without requiring a predefined number of communities.</li>
+                                <li><strong>Handles Isolated Users:</strong> Intelligently assigns users with few or no positive connections to appropriate communities based on a combination of:
+                                    <ul>
+                                        <li>Direct trust relationships (who trusts them and who they trust)</li>
+                                        <li>Distrust patterns (applying the "enemy of my enemy" principle from structural balance theory)</li>
+                                    </ul>
+                                </li>
+                                <li><strong>Recognizes Community Structure:</strong> Creates more coherent communities that reflect the natural divisions in the UFO/UAP discussion space.</li>
+                            </ul>
+                        </div>
                         
                         <h3>Viewing Scores by Community</h3>
                         <p>

@@ -24,7 +24,16 @@ The UFO Trust System is an experimental, decentralized reputation system for Twi
     *   The system also identifies **communities** within the network based on positive trust relationships.
     *   **Community-specific trust scores** are calculated, reflecting how trusted a user is *within* their own detected community.
 
-4.  **Visualization & Access:**
+4.  **Advanced Community Detection:**
+    *   The system uses an enhanced community detection algorithm based on the Louvain method and structural balance theory.
+    *   **Core Communities:** First, natural communities are detected based on who trusts whom, without specifying a fixed number of communities in advance.
+    *   **Handling Isolated Users:** Users with no positive trust connections are intelligently assigned to communities based on:
+        *   Who trusts them (if anyone)
+        *   Who they trust (if anyone)
+        *   Who distrusts them (applying the "enemy of my enemy" principle)
+    *   This approach recognizes that the UFO/UAP community naturally clusters into belief-aligned groups without forcing artificial divisions.
+
+5.  **Visualization & Access:**
     *   The processed data, including global scores, community assignments, and community-specific scores, is made available on a public website (GitHub Pages).
     *   The website features:
         *   A **Rankings Table:** Displays users sorted by their global trust score. Includes a dropdown to view scores from a specific community's perspective.
@@ -33,9 +42,10 @@ The UFO Trust System is an experimental, decentralized reputation system for Twi
 ## Features
 
 *   **Decentralized Trust:** Trust is assigned by individual users, not a central authority.
-*   **New 0-100 Scoring Scale:** Intuitive scale where 50 is neutral, 0 is maximum distrust, and 100 is maximum        maximum trust.
+*   **New 0-100 Scoring Scale:** Intuitive scale where 50 is neutral, 0 is maximum distrust, and 100 is maximum trust.
 *   **Global Trust Scores:** Overall reputation within the entire network.
-*   **Community Detection:** Identifies clusters of users who trust each other.
+*   **Community Detection:** Identifies natural clusters of users who trust each other.
+*   **Smart Isolated User Handling:** Uses both positive and negative relationships to place users in appropriate communities.
 *   **Community-Perspective Scores:** Allows viewing trust scores from within a specific community, revealing local influencers.
 *   **Dynamic Network Visualization:** Interactive graph showing users and their trust links.
 *   **Normalized Influence:** User ratings are normalized to ensure fair influence.
@@ -44,22 +54,31 @@ The UFO Trust System is an experimental, decentralized reputation system for Twi
 
 To assign trust or distrust to a Twitter/X user, post a tweet with the following format:
 
+**Standard Command:**
 `#ufotrust @target_username <score>`
+
+**When Replying to a User (optional @username in command):**
+If your tweet is a direct reply to someone, you can omit their `@target_username` from the `#ufotrust` command. The system will automatically assign the score to the user you are replying to.
+
+`#ufotrust <score>` (when used in a reply tweet)
 
 **Examples:**
 
-*   To strongly trust `@exampleuser`:
+*   To strongly trust `@exampleuser` (standard command):
     `#ufotrust @exampleuser 90`
-*   To express neutrality towards `@anotheruser`:
-    `#ufotrust @anotheruser 50`
-*   To strongly distrust `@thirduser`:
-    `#ufotrust @thirduser 10`
+*   Replying to `@anotheruser` and assigning them strong trust (implicit target):
+    `@anotheruser That's a great point! #ufotrust 85`
+*   Replying to `@thirduser` and assigning them neutrality (implicit target):
+    `@thirduser Interesting. #ufotrust 50`
+*   Replying to `@fourthuser` and assigning them strong distrust (implicit target):
+    `@fourthuser I disagree. #ufotrust 15`
 
-Remember to use a score between 0 and 100.
+Remember to use a score between 0 and 100 (0=max distrust, 50=neutral, 100=max trust).
 
 ## Technical Details
 
 *   **Backend:** Python scripts for data collection (Twitter API via RapidAPI) and score calculation (NumPy, NetworkX).
+*   **Community Detection:** Louvain modularity optimization on the positive-trust subgraph, with structural balance theory applied for isolated nodes.
 *   **Automation:** PowerShell scripts for scheduling updates.
 *   **Frontend:** HTML, CSS, JavaScript, Bootstrap, D3.js for visualization.
 *   **Hosting:** GitHub Pages for the website, GitHub Actions for CI/CD (potentially).
