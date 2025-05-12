@@ -71,14 +71,15 @@
                         <h3>How to Participate</h3>
                     </div>
                     <div class="card-body">
-                        <p>To assign trust to another Twitter user, tweet using this format:</p>
-                        <pre><code>#ufotrust @username +70</code></pre>
-                        <p>(assigns 70 trust points)</p>
-                        <p>To assign distrust, use a negative value:</p>
-                        <pre><code>#ufotrust @username -30</code></pre>
-                        <p>(assigns 30 distrust points)</p>
+                        <p>To assign trust to another Twitter user, tweet using this format (scores from 0 to 100, where 50 is neutral):</p>
+                        <pre><code>#ufotrust @username 80</code></pre>
+                        <p>(assigns 80 trust points - strong trust)</p>
+                        <pre><code>#ufotrust @username 50</code></pre>
+                        <p>(assigns 50 points - neutral)</p>
+                        <pre><code>#ufotrust @username 20</code></pre>
+                        <p>(assigns 20 points - strong distrust)</p>
                         <div class="alert alert-info">
-                            <strong>Note:</strong> Your trust ratings are automatically normalized to ensure fair influence in the network. There is no fixed trust budget.
+                            <strong>Note:</strong> Your trust ratings (0-100) are automatically normalized for influence in the network. 50 is neutral, scores above 50 indicate trust, and scores below 50 indicate distrust.
                         </div>
                     </div>
                 </div>

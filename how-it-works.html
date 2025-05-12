@@ -48,8 +48,8 @@
                         <h3>Key Features</h3>
                         <ul>
                             <li>
-                                <strong>Simple Rating System:</strong> Rate any Twitter user from -100 (complete distrust) 
-                                to +100 (complete trust).
+                                <strong>Simple Rating System:</strong> Rate any Twitter user from 0 (complete distrust) 
+                                to 100 (complete trust), with 50 being neutral.
                             </li>
                             <li>
                                 <strong>Normalized Trust Assignments:</strong> Your ratings are automatically normalized using L2 normalization 
@@ -72,17 +72,14 @@
                         <p>Assigning trust is as simple as tweeting with the right format:</p>
                         
                         <div class="example-box p-3 mb-4 border rounded">
-                            <p><strong>To assign trust:</strong></p>
-                            <p class="text-primary"><code>#ufotrust @username +70</code></p>
-                            <p>This assigns 70 trust points to the specified user.</p>
-                            
-                            <p><strong>To assign distrust:</strong></p>
-                            <p class="text-primary"><code>#ufotrust @username -30</code></p>
-                            <p>This assigns 30 distrust points to the specified user.</p>
+                            <p><strong>Assigning Trust/Distrust (0-100 Scale, 50 is Neutral):</strong></p>
+                            <p class="text-primary"><code>#ufotrust @username 80</code> (assigns 80 points - strong trust)</p>
+                            <p class="text-primary"><code>#ufotrust @username 50</code> (assigns 50 points - neutral)</p>
+                            <p class="text-primary"><code>#ufotrust @username 20</code> (assigns 20 points - strong distrust)</p>
                         </div>
                         
                         <div class="alert alert-info">
-                            <strong>Remember:</strong> Ratings range from -100 (complete distrust) to +100 (complete trust). Your ratings are automatically normalized to ensure fair influence in the network.
+                            <strong>Remember:</strong> Ratings range from 0 (complete distrust) to 100 (complete trust), with 50 as neutral. Your ratings are automatically normalized for influence.
                         </div>
                         
                         <h3>Trust Score Calculation</h3>
@@ -103,6 +100,17 @@
                             The trust network naturally forms communities of users who trust each other more than they trust 
                             outsiders. These communities often align with shared interests or perspectives.
                         </p>
+                        
+                        <h3>Viewing Scores by Community</h3>
+                        <p>
+                            You can view trust scores from different perspectives:
+                        </p>
+                        <ul>
+                            <li><strong>Global Scores:</strong> The default view, showing overall trust scores in the entire network.</li>
+                            <li><strong>Community-Specific Scores:</strong> Use the dropdown menu available on the 'Rankings' page and the 'Network' visualization page to select a community. 
+                                The scores (and node sizes in the network) will then reflect trust relationships *within* that selected community only. This helps you see who is influential or trusted locally within a specific group.
+                            </li>
+                        </ul>
                         
                         <h3>FAQ</h3>
                         <div class="accordion" id="faqAccordion">
