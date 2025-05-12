@@ -2,5071 +2,5477 @@ const temporalTrustData = {
   "nodes": [
     {
       "id": "likeitmatters3",
-      "name": "likeitmatters3"
+      "name": "likeitmatters3",
+      "community": 1,
+      "score": 90.0
     },
     {
       "id": "keeptxtx",
-      "name": "keeptxtx"
+      "name": "keeptxtx",
+      "community": 5,
+      "score": 28.125
     },
     {
       "id": "JustXAshton",
-      "name": "JustXAshton"
-    },
-    {
-      "id": "et_alien_uap",
-      "name": "et_alien_uap"
-    },
-    {
-      "id": "MiddleOfMayhem",
-      "name": "MiddleOfMayhem"
-    },
-    {
-      "id": "OSIRISUAP",
-      "name": "OSIRISUAP"
+      "name": "JustXAshton",
+      "community": 14,
+      "score": 21.428571428571427
     },
     {
       "id": "AeroTech_Space",
-      "name": "AeroTech_Space"
+      "name": "AeroTech_Space",
+      "community": 11,
+      "score": 52.5
+    },
+    {
+      "id": "MiddleOfMayhem",
+      "name": "MiddleOfMayhem",
+      "community": 2,
+      "score": 52.5
+    },
+    {
+      "id": "et_alien_uap",
+      "name": "et_alien_uap",
+      "community": 3,
+      "score": 43.0
     },
     {
       "id": "The_Astral_",
-      "name": "The_Astral_"
+      "name": "The_Astral_",
+      "community": 13,
+      "score": 57.5
     },
     {
       "id": "FlyaEther33",
-      "name": "FlyaEther33"
+      "name": "FlyaEther33",
+      "community": 11,
+      "score": 9.166666666666666
     },
     {
-      "id": "TheProjectUnity",
-      "name": "TheProjectUnity"
-    },
-    {
-      "id": "ChaoticGood42_",
-      "name": "ChaoticGood42_"
+      "id": "OSIRISUAP",
+      "name": "OSIRISUAP",
+      "community": 4,
+      "score": 85.0
     },
     {
       "id": "VettedPodcast",
-      "name": "VettedPodcast"
+      "name": "VettedPodcast",
+      "community": 6,
+      "score": 37.0
     },
     {
-      "id": "bryceduncan13",
-      "name": "bryceduncan13"
-    },
-    {
-      "id": "UAPJames",
-      "name": "UAPJames"
+      "id": "TheProjectUnity",
+      "name": "TheProjectUnity",
+      "community": 1,
+      "score": 41.0
     },
     {
       "id": "MickWest",
-      "name": "MickWest"
-    },
-    {
-      "id": "RedPandaKoala",
-      "name": "RedPandaKoala"
-    },
-    {
-      "id": "ADelarge60",
-      "name": "ADelarge60"
-    },
-    {
-      "id": "RealArea503",
-      "name": "RealArea503"
-    },
-    {
-      "id": "LueElizondo",
-      "name": "LueElizondo"
+      "name": "MickWest",
+      "community": 9,
+      "score": 22.142857142857142
     },
     {
       "id": "implicateflow",
-      "name": "implicateflow"
+      "name": "implicateflow",
+      "community": 13,
+      "score": 12.0
     },
     {
-      "id": "Gandalf_ElPulpo",
-      "name": "Gandalf_ElPulpo"
+      "id": "bryceduncan13",
+      "name": "bryceduncan13",
+      "community": 5,
+      "score": 67.5
     },
     {
-      "id": "GiavedoniEric",
-      "name": "GiavedoniEric"
+      "id": "ChaoticGood42_",
+      "name": "ChaoticGood42_",
+      "community": 1,
+      "score": 10.0
     },
     {
-      "id": "goodmorningufo",
-      "name": "goodmorningufo"
+      "id": "LueElizondo",
+      "name": "LueElizondo",
+      "community": 3,
+      "score": 56.0
     },
     {
-      "id": "DarkstarIE",
-      "name": "DarkstarIE"
+      "id": "UAPJames",
+      "name": "UAPJames",
+      "community": 6,
+      "score": 32.0
     },
     {
-      "id": "horror__guy",
-      "name": "horror__guy"
-    },
-    {
-      "id": "ParaN_rmal",
-      "name": "ParaN_rmal"
+      "id": "RedPandaKoala",
+      "name": "RedPandaKoala",
+      "community": 5,
+      "score": 10.0
     },
     {
       "id": "darkjournalist",
-      "name": "darkjournalist"
+      "name": "darkjournalist",
+      "community": 14,
+      "score": 44.0
     },
     {
-      "id": "Docneuroeo",
-      "name": "Docneuroeo"
+      "id": "ADelarge60",
+      "name": "ADelarge60",
+      "community": 11,
+      "score": 10.0
     },
     {
-      "id": "TUPACABRA2",
-      "name": "TUPACABRA2"
+      "id": "Gandalf_ElPulpo",
+      "name": "Gandalf_ElPulpo",
+      "community": 13,
+      "score": 46.42857142857143
+    },
+    {
+      "id": "GiavedoniEric",
+      "name": "GiavedoniEric",
+      "community": 5,
+      "score": 10.0
+    },
+    {
+      "id": "goodmorningufo",
+      "name": "goodmorningufo",
+      "community": 6,
+      "score": 21.25
+    },
+    {
+      "id": "RealArea503",
+      "name": "RealArea503",
+      "community": 2,
+      "score": 11.666666666666666
     },
     {
       "id": "19k0011",
-      "name": "19k0011"
+      "name": "19k0011",
+      "community": 1,
+      "score": 14.0
     },
     {
-      "id": "michaelshermer",
-      "name": "michaelshermer"
+      "id": "TUPACABRA2",
+      "name": "TUPACABRA2",
+      "community": 9,
+      "score": 33.333333333333336
     },
     {
-      "id": "XExcalibur333",
-      "name": "XExcalibur333"
+      "id": "horror__guy",
+      "name": "horror__guy",
+      "community": 11,
+      "score": 10.0
     },
     {
-      "id": "JonestechDev",
-      "name": "JonestechDev"
-    },
-    {
-      "id": "SPOOOKYUFO",
-      "name": "SPOOOKYUFO"
+      "id": "ParaN_rmal",
+      "name": "ParaN_rmal",
+      "community": 5,
+      "score": 15.0
     },
     {
       "id": "disgustipated42",
-      "name": "disgustipated42"
+      "name": "disgustipated42",
+      "community": 6,
+      "score": 56.25
     },
     {
-      "id": "UAPReportingCnt",
-      "name": "UAPReportingCnt"
-    },
-    {
-      "id": "DeJaVu2U2",
-      "name": "DeJaVu2U2"
-    },
-    {
-      "id": "Deepneuron",
-      "name": "Deepneuron"
+      "id": "DarkstarIE",
+      "name": "DarkstarIE",
+      "community": 11,
+      "score": 42.5
     },
     {
       "id": "Gchan45591268",
-      "name": "Gchan45591268"
+      "name": "Gchan45591268",
+      "community": 1,
+      "score": 6.833333333333333
     },
     {
-      "id": "AnxWhisperer",
-      "name": "AnxWhisperer"
+      "id": "michaelshermer",
+      "name": "michaelshermer",
+      "community": 7,
+      "score": 30.714285714285715
     },
     {
-      "id": "wow36932525",
-      "name": "wow36932525"
+      "id": "Docneuroeo",
+      "name": "Docneuroeo",
+      "community": 8,
+      "score": 28.75
     },
     {
-      "id": "LehtoFiles",
-      "name": "LehtoFiles"
+      "id": "XExcalibur333",
+      "name": "XExcalibur333",
+      "community": 14,
+      "score": 43.333333333333336
     },
     {
-      "id": "LibertyUAP",
-      "name": "LibertyUAP"
-    },
-    {
-      "id": "TurtleOfTime12",
-      "name": "TurtleOfTime12"
-    },
-    {
-      "id": "Baptiste_Fri",
-      "name": "Baptiste_Fri"
-    },
-    {
-      "id": "PostDisclosure",
-      "name": "PostDisclosure"
-    },
-    {
-      "id": "combatinsight",
-      "name": "combatinsight"
-    },
-    {
-      "id": "OMApproach",
-      "name": "OMApproach"
-    },
-    {
-      "id": "randomtweetor",
-      "name": "randomtweetor"
-    },
-    {
-      "id": "69Skoal69",
-      "name": "69Skoal69"
-    },
-    {
-      "id": "CourtneyLeffall",
-      "name": "CourtneyLeffall"
+      "id": "SPOOOKYUFO",
+      "name": "SPOOOKYUFO",
+      "community": 4,
+      "score": 15.0
     },
     {
       "id": "planethunter56",
-      "name": "planethunter56"
+      "name": "planethunter56",
+      "community": 6,
+      "score": 51.666666666666664
     },
     {
-      "id": "devgru1980mi",
-      "name": "devgru1980mi"
+      "id": "LibertyUAP",
+      "name": "LibertyUAP",
+      "community": 6,
+      "score": 14.0
+    },
+    {
+      "id": "wow36932525",
+      "name": "wow36932525",
+      "community": 6,
+      "score": 46.666666666666664
+    },
+    {
+      "id": "LehtoFiles",
+      "name": "LehtoFiles",
+      "community": 3,
+      "score": 45.0
+    },
+    {
+      "id": "BobMcGwier_N4HY",
+      "name": "BobMcGwier_N4HY",
+      "community": 3,
+      "score": 48.333333333333336
+    },
+    {
+      "id": "Deepneuron",
+      "name": "Deepneuron",
+      "community": 3,
+      "score": 40.0
     },
     {
       "id": "NickMadrid16",
-      "name": "NickMadrid16"
+      "name": "NickMadrid16",
+      "community": 10,
+      "score": 62.0
     },
     {
-      "id": "ThisGuyCTE",
-      "name": "ThisGuyCTE"
+      "id": "DeJaVu2U2",
+      "name": "DeJaVu2U2",
+      "community": 13,
+      "score": 10.0
     },
     {
-      "id": "el_kowalsky",
-      "name": "el_kowalsky"
-    },
-    {
-      "id": "zcichy",
-      "name": "zcichy"
-    },
-    {
-      "id": "LuAngeles",
-      "name": "LuAngeles"
-    },
-    {
-      "id": "StevenCambian",
-      "name": "StevenCambian"
-    },
-    {
-      "id": "EricBurlison",
-      "name": "EricBurlison"
-    },
-    {
-      "id": "DrAtsabNikcuf",
-      "name": "DrAtsabNikcuf"
-    },
-    {
-      "id": "Jim87504388",
-      "name": "Jim87504388"
+      "id": "TurtleOfTime12",
+      "name": "TurtleOfTime12",
+      "community": 8,
+      "score": 10.0
     },
     {
       "id": "Ekklectico",
-      "name": "Ekklectico"
+      "name": "Ekklectico",
+      "community": 13,
+      "score": 33.333333333333336
     },
     {
-      "id": "DocAlienista",
-      "name": "DocAlienista"
+      "id": "CourtneyLeffall",
+      "name": "CourtneyLeffall",
+      "community": 8,
+      "score": 69.0
     },
     {
-      "id": "FettuccineSplit",
-      "name": "FettuccineSplit"
+      "id": "JoseACaravaca",
+      "name": "JoseACaravaca",
+      "community": 4,
+      "score": 30.0
     },
     {
-      "id": "GrantLavac",
-      "name": "GrantLavac"
+      "id": "randomtweetor",
+      "name": "randomtweetor",
+      "community": 5,
+      "score": 58.333333333333336
     },
     {
-      "id": "ufoofinterest",
-      "name": "ufoofinterest"
+      "id": "69Skoal69",
+      "name": "69Skoal69",
+      "community": 14,
+      "score": 48.75
     },
     {
-      "id": "kingdom_pioneer",
-      "name": "kingdom_pioneer"
+      "id": "JonestechDev",
+      "name": "JonestechDev",
+      "community": 9,
+      "score": 56.42857142857143
     },
     {
-      "id": "Marc_La_Rock",
-      "name": "Marc_La_Rock"
+      "id": "EricBurlison",
+      "name": "EricBurlison",
+      "community": 6,
+      "score": 27.5
+    },
+    {
+      "id": "AnxWhisperer",
+      "name": "AnxWhisperer",
+      "community": 3,
+      "score": 26.0
+    },
+    {
+      "id": "devgru1980mi",
+      "name": "devgru1980mi",
+      "community": 6,
+      "score": 12.5
+    },
+    {
+      "id": "el_kowalsky",
+      "name": "el_kowalsky",
+      "community": 5,
+      "score": 8.0
+    },
+    {
+      "id": "zcichy",
+      "name": "zcichy",
+      "community": 7,
+      "score": 31.25
+    },
+    {
+      "id": "Baptiste_Fri",
+      "name": "Baptiste_Fri",
+      "community": 10,
+      "score": 42.30769230769231
+    },
+    {
+      "id": "PostDisclosure",
+      "name": "PostDisclosure",
+      "community": 6,
+      "score": 47.5
     },
     {
       "id": "cinematicfever",
-      "name": "cinematicfever"
+      "name": "cinematicfever",
+      "community": 10,
+      "score": 30.0
     },
     {
-      "id": "Btc4thepeople",
-      "name": "Btc4thepeople"
+      "id": "FettuccineSplit",
+      "name": "FettuccineSplit",
+      "community": 11,
+      "score": 15.0
     },
     {
-      "id": "0mega_Point",
-      "name": "0mega_Point"
+      "id": "Marc_La_Rock",
+      "name": "Marc_La_Rock",
+      "community": 1,
+      "score": 15.0
     },
     {
-      "id": "K8568088581417",
-      "name": "K8568088581417"
+      "id": "StevenCambian",
+      "name": "StevenCambian",
+      "community": 8,
+      "score": 40.0
     },
     {
-      "id": "ChrisUKSharp",
-      "name": "ChrisUKSharp"
-    },
-    {
-      "id": "WolfShieldRam",
-      "name": "WolfShieldRam"
-    },
-    {
-      "id": "z28mjt79",
-      "name": "z28mjt79"
+      "id": "ThisGuyCTE",
+      "name": "ThisGuyCTE",
+      "community": 1,
+      "score": 37.5
     },
     {
       "id": "issaufo",
-      "name": "issaufo"
+      "name": "issaufo",
+      "community": 10,
+      "score": 20.0
     },
     {
-      "id": "shotdownmind",
-      "name": "shotdownmind"
-    },
-    {
-      "id": "JoeyIsntMyName",
-      "name": "JoeyIsntMyName"
-    },
-    {
-      "id": "ImminentDisclsr",
-      "name": "ImminentDisclsr"
-    },
-    {
-      "id": "s36371222",
-      "name": "s36371222"
-    },
-    {
-      "id": "Shwinnx",
-      "name": "Shwinnx"
-    },
-    {
-      "id": "possiblygnostic",
-      "name": "possiblygnostic"
-    },
-    {
-      "id": "ArdamirofArda",
-      "name": "ArdamirofArda"
-    },
-    {
-      "id": "arrowbombadil",
-      "name": "arrowbombadil"
-    },
-    {
-      "id": "UFODebrief",
-      "name": "UFODebrief"
-    },
-    {
-      "id": "TheUAPShow",
-      "name": "TheUAPShow"
-    },
-    {
-      "id": "AAWSAPRocky",
-      "name": "AAWSAPRocky"
-    },
-    {
-      "id": "gdechico2",
-      "name": "gdechico2"
-    },
-    {
-      "id": "GoodTroubleShow",
-      "name": "GoodTroubleShow"
+      "id": "Btc4thepeople",
+      "name": "Btc4thepeople",
+      "community": 14,
+      "score": 32.5
     },
     {
       "id": "HighPeaks77",
-      "name": "HighPeaks77"
+      "name": "HighPeaks77",
+      "community": 10,
+      "score": 22.5
     },
     {
-      "id": "AllPlanets",
-      "name": "AllPlanets"
+      "id": "shotdownmind",
+      "name": "shotdownmind",
+      "community": 9,
+      "score": 55.0
+    },
+    {
+      "id": "Jim87504388",
+      "name": "Jim87504388",
+      "community": 6,
+      "score": 18.333333333333332
+    },
+    {
+      "id": "LuAngeles",
+      "name": "LuAngeles",
+      "community": 4,
+      "score": 11.25
+    },
+    {
+      "id": "GrantLavac",
+      "name": "GrantLavac",
+      "community": 7,
+      "score": 71.66666666666667
+    },
+    {
+      "id": "combatinsight",
+      "name": "combatinsight",
+      "community": 14,
+      "score": 38.333333333333336
+    },
+    {
+      "id": "K8568088581417",
+      "name": "K8568088581417",
+      "community": 8,
+      "score": 60.833333333333336
+    },
+    {
+      "id": "0mega_Point",
+      "name": "0mega_Point",
+      "community": 9,
+      "score": 53.57142857142857
+    },
+    {
+      "id": "DocAlienista",
+      "name": "DocAlienista",
+      "community": 13,
+      "score": 57.5
+    },
+    {
+      "id": "UAPReportingCnt",
+      "name": "UAPReportingCnt",
+      "community": 7,
+      "score": 42.5
+    },
+    {
+      "id": "WolfShieldRam",
+      "name": "WolfShieldRam",
+      "community": 7,
+      "score": 18.333333333333332
+    },
+    {
+      "id": "ChrisUKSharp",
+      "name": "ChrisUKSharp",
+      "community": 11,
+      "score": 22.5
+    },
+    {
+      "id": "ufoofinterest",
+      "name": "ufoofinterest",
+      "community": 5,
+      "score": 51.0
+    },
+    {
+      "id": "z28mjt79",
+      "name": "z28mjt79",
+      "community": 9,
+      "score": 11.666666666666666
+    },
+    {
+      "id": "kingdom_pioneer",
+      "name": "kingdom_pioneer",
+      "community": 6,
+      "score": 40.833333333333336
+    },
+    {
+      "id": "DrAtsabNikcuf",
+      "name": "DrAtsabNikcuf",
+      "community": 6,
+      "score": 21.666666666666668
+    },
+    {
+      "id": "UFODebrief",
+      "name": "UFODebrief",
+      "community": 14,
+      "score": 13.333333333333334
+    },
+    {
+      "id": "Truthpolex",
+      "name": "Truthpolex",
+      "community": 10,
+      "score": 41.0
+    },
+    {
+      "id": "yourfriendSOMMI",
+      "name": "yourfriendSOMMI",
+      "community": 11,
+      "score": 19.444444444444443
+    },
+    {
+      "id": "JoeyIsntMyName",
+      "name": "JoeyIsntMyName",
+      "community": 11,
+      "score": 16.666666666666668
+    },
+    {
+      "id": "ArdamirofArda",
+      "name": "ArdamirofArda",
+      "community": 5,
+      "score": 50.0
+    },
+    {
+      "id": "GoodTroubleShow",
+      "name": "GoodTroubleShow",
+      "community": 6,
+      "score": 32.142857142857146
     },
     {
       "id": "wouilisam",
-      "name": "wouilisam"
-    },
-    {
-      "id": "FLVinny",
-      "name": "FLVinny"
-    },
-    {
-      "id": "wiel_jade",
-      "name": "wiel_jade"
+      "name": "wouilisam",
+      "community": 13,
+      "score": 19.285714285714285
     },
     {
       "id": "InTheShed4",
-      "name": "InTheShed4"
+      "name": "InTheShed4",
+      "community": 6,
+      "score": 41.875
     },
     {
-      "id": "SimulatedLion",
-      "name": "SimulatedLion"
-    },
-    {
-      "id": "GemaLozan",
-      "name": "GemaLozan"
-    },
-    {
-      "id": "RyanSprague51",
-      "name": "RyanSprague51"
-    },
-    {
-      "id": "JonMajerowski",
-      "name": "JonMajerowski"
-    },
-    {
-      "id": "Casual_Lynx",
-      "name": "Casual_Lynx"
-    },
-    {
-      "id": "UFOCollage",
-      "name": "UFOCollage"
-    },
-    {
-      "id": "FeeFiFoFum1995",
-      "name": "FeeFiFoFum1995"
-    },
-    {
-      "id": "TimeCommandHQ",
-      "name": "TimeCommandHQ"
+      "id": "s36371222",
+      "name": "s36371222",
+      "community": 7,
+      "score": 32.5
     },
     {
       "id": "MFungi369",
-      "name": "MFungi369"
-    },
-    {
-      "id": "BlueshiftRadio",
-      "name": "BlueshiftRadio"
-    },
-    {
-      "id": "Dalerob62",
-      "name": "Dalerob62"
-    },
-    {
-      "id": "GabeTruthseeker",
-      "name": "GabeTruthseeker"
-    },
-    {
-      "id": "HoverBrothers",
-      "name": "HoverBrothers"
-    },
-    {
-      "id": "GeologicalSETI",
-      "name": "GeologicalSETI"
-    },
-    {
-      "id": "GodSawUs",
-      "name": "GodSawUs"
-    },
-    {
-      "id": "LMG_PRODUCTION",
-      "name": "LMG_PRODUCTION"
-    },
-    {
-      "id": "dave_beaty",
-      "name": "dave_beaty"
-    },
-    {
-      "id": "opngate",
-      "name": "opngate"
-    },
-    {
-      "id": "WhoshotyaCo",
-      "name": "WhoshotyaCo"
-    },
-    {
-      "id": "bennibennasi01",
-      "name": "bennibennasi01"
-    },
-    {
-      "id": "DStateRespTeam",
-      "name": "DStateRespTeam"
-    },
-    {
-      "id": "KnightsGloryy",
-      "name": "KnightsGloryy"
-    },
-    {
-      "id": "serpoprojectaus",
-      "name": "serpoprojectaus"
-    },
-    {
-      "id": "3xceptional1886",
-      "name": "3xceptional1886"
+      "name": "MFungi369",
+      "community": 8,
+      "score": 14.0
     },
     {
       "id": "revistaANOCERO",
-      "name": "revistaANOCERO"
+      "name": "revistaANOCERO",
+      "community": 7,
+      "score": 55.0
+    },
+    {
+      "id": "arrowbombadil",
+      "name": "arrowbombadil",
+      "community": 7,
+      "score": 10.0
+    },
+    {
+      "id": "JonMajerowski",
+      "name": "JonMajerowski",
+      "community": 10,
+      "score": 33.333333333333336
+    },
+    {
+      "id": "GemaLozan",
+      "name": "GemaLozan",
+      "community": 1,
+      "score": 26.25
+    },
+    {
+      "id": "TheUAPShow",
+      "name": "TheUAPShow",
+      "community": 6,
+      "score": 52.5
+    },
+    {
+      "id": "AllPlanets",
+      "name": "AllPlanets",
+      "community": 11,
+      "score": 66.66666666666667
+    },
+    {
+      "id": "AAWSAPRocky",
+      "name": "AAWSAPRocky",
+      "community": 9,
+      "score": 56.25
+    },
+    {
+      "id": "Shwinnx",
+      "name": "Shwinnx",
+      "community": 9,
+      "score": 12.5
+    },
+    {
+      "id": "Casual_Lynx",
+      "name": "Casual_Lynx",
+      "community": 3,
+      "score": 10.0
+    },
+    {
+      "id": "wiel_jade",
+      "name": "wiel_jade",
+      "community": 13,
+      "score": 66.66666666666667
+    },
+    {
+      "id": "FLVinny",
+      "name": "FLVinny",
+      "community": 11,
+      "score": 10.0
+    },
+    {
+      "id": "gdechico2",
+      "name": "gdechico2",
+      "community": 9,
+      "score": 22.5
+    },
+    {
+      "id": "possiblygnostic",
+      "name": "possiblygnostic",
+      "community": 8,
+      "score": 29.0
+    },
+    {
+      "id": "ImminentDisclsr",
+      "name": "ImminentDisclsr",
+      "community": 3,
+      "score": 17.5
+    },
+    {
+      "id": "GabeTruthseeker",
+      "name": "GabeTruthseeker",
+      "community": 13,
+      "score": 40.0
+    },
+    {
+      "id": "bennibennasi01",
+      "name": "bennibennasi01",
+      "community": 14,
+      "score": 45.0
+    },
+    {
+      "id": "TimeCommandHQ",
+      "name": "TimeCommandHQ",
+      "community": 9,
+      "score": 30.0
+    },
+    {
+      "id": "dave_beaty",
+      "name": "dave_beaty",
+      "community": 9,
+      "score": 34.166666666666664
+    },
+    {
+      "id": "GeologicalSETI",
+      "name": "GeologicalSETI",
+      "community": 1,
+      "score": 45.0
     },
     {
       "id": "OEFTF11",
-      "name": "OEFTF11"
+      "name": "OEFTF11",
+      "community": 8,
+      "score": 38.0
     },
     {
-      "id": "MizzMisanthrope",
-      "name": "MizzMisanthrope"
+      "id": "LMG_PRODUCTION",
+      "name": "LMG_PRODUCTION",
+      "community": 11,
+      "score": 25.0
     },
     {
-      "id": "Truthistruth369",
-      "name": "Truthistruth369"
+      "id": "WhoshotyaCo",
+      "name": "WhoshotyaCo",
+      "community": 5,
+      "score": 25.714285714285715
     },
     {
-      "id": "JettRink1956",
-      "name": "JettRink1956"
+      "id": "opngate",
+      "name": "opngate",
+      "community": 13,
+      "score": 50.0
     },
     {
-      "id": "Knoxcat55",
-      "name": "Knoxcat55"
-    },
-    {
-      "id": "SmartlyUneducat",
-      "name": "SmartlyUneducat"
-    },
-    {
-      "id": "FILIUM_PATRIS",
-      "name": "FILIUM_PATRIS"
-    },
-    {
-      "id": "billynboys23",
-      "name": "billynboys23"
-    },
-    {
-      "id": "fringequest",
-      "name": "fringequest"
-    },
-    {
-      "id": "alextopol",
-      "name": "alextopol"
-    },
-    {
-      "id": "serpopro",
-      "name": "serpopro"
-    },
-    {
-      "id": "SomewhereSkies",
-      "name": "SomewhereSkies"
-    },
-    {
-      "id": "AdamGenesisEden",
-      "name": "AdamGenesisEden"
+      "id": "KnightsGloryy",
+      "name": "KnightsGloryy",
+      "community": 14,
+      "score": 30.0
     },
     {
       "id": "DCharles30",
-      "name": "DCharles30"
+      "name": "DCharles30",
+      "community": 5,
+      "score": 10.0
+    },
+    {
+      "id": "AdamGenesisEden",
+      "name": "AdamGenesisEden",
+      "community": 12,
+      "score": 36.0
+    },
+    {
+      "id": "UFOCollage",
+      "name": "UFOCollage",
+      "community": 10,
+      "score": 20.0
+    },
+    {
+      "id": "serpoprojectaus",
+      "name": "serpoprojectaus",
+      "community": 6,
+      "score": 46.111111111111114
+    },
+    {
+      "id": "SmartlyUneducat",
+      "name": "SmartlyUneducat",
+      "community": 5,
+      "score": 10.0
+    },
+    {
+      "id": "DStateRespTeam",
+      "name": "DStateRespTeam",
+      "community": 7,
+      "score": 13.333333333333334
+    },
+    {
+      "id": "JettRink1956",
+      "name": "JettRink1956",
+      "community": 12,
+      "score": 22.5
+    },
+    {
+      "id": "SimulatedLion",
+      "name": "SimulatedLion",
+      "community": 9,
+      "score": 13.333333333333334
+    },
+    {
+      "id": "fringequest",
+      "name": "fringequest",
+      "community": 7,
+      "score": 11.0
+    },
+    {
+      "id": "alextopol",
+      "name": "alextopol",
+      "community": 12,
+      "score": 13.333333333333334
+    },
+    {
+      "id": "MizzMisanthrope",
+      "name": "MizzMisanthrope",
+      "community": 5,
+      "score": 14.0
+    },
+    {
+      "id": "Knoxcat55",
+      "name": "Knoxcat55",
+      "community": 1,
+      "score": 15.0
+    },
+    {
+      "id": "serpopro",
+      "name": "serpopro",
+      "community": 7,
+      "score": 26.0
     },
     {
       "id": "L_Y_E_S_H",
-      "name": "L_Y_E_S_H"
+      "name": "L_Y_E_S_H",
+      "community": 13,
+      "score": 22.5
+    },
+    {
+      "id": "3xceptional1886",
+      "name": "3xceptional1886",
+      "community": 5,
+      "score": 42.5
+    },
+    {
+      "id": "BlueshiftRadio",
+      "name": "BlueshiftRadio",
+      "community": 14,
+      "score": 46.25
+    },
+    {
+      "id": "billynboys23",
+      "name": "billynboys23",
+      "community": 5,
+      "score": 30.0
+    },
+    {
+      "id": "FeeFiFoFum1995",
+      "name": "FeeFiFoFum1995",
+      "community": 7,
+      "score": 36.666666666666664
+    },
+    {
+      "id": "GodSawUs",
+      "name": "GodSawUs",
+      "community": 9,
+      "score": 23.333333333333332
+    },
+    {
+      "id": "Dalerob62",
+      "name": "Dalerob62",
+      "community": 10,
+      "score": 7.0
+    },
+    {
+      "id": "SomewhereSkies",
+      "name": "SomewhereSkies",
+      "community": 6,
+      "score": 51.666666666666664
+    },
+    {
+      "id": "RyanSprague51",
+      "name": "RyanSprague51",
+      "community": 13,
+      "score": 33.333333333333336
+    },
+    {
+      "id": "FILIUM_PATRIS",
+      "name": "FILIUM_PATRIS",
+      "community": 9,
+      "score": 19.444444444444443
     },
     {
       "id": "TheScottyRaby",
-      "name": "TheScottyRaby"
-    },
-    {
-      "id": "VictorG_45",
-      "name": "VictorG_45"
-    },
-    {
-      "id": "TST___Radio",
-      "name": "TST___Radio"
+      "name": "TheScottyRaby",
+      "community": 5,
+      "score": 45.833333333333336
     },
     {
       "id": "b4cktoreality",
-      "name": "b4cktoreality"
+      "name": "b4cktoreality",
+      "community": 7,
+      "score": 32.5
     },
     {
-      "id": "missj75",
-      "name": "missj75"
-    },
-    {
-      "id": "KelanderthalMan",
-      "name": "KelanderthalMan"
-    },
-    {
-      "id": "RobHeatherly1",
-      "name": "RobHeatherly1"
-    },
-    {
-      "id": "DotherowDa71497",
-      "name": "DotherowDa71497"
-    },
-    {
-      "id": "Salahald1n",
-      "name": "Salahald1n"
-    },
-    {
-      "id": "MichelVan4",
-      "name": "MichelVan4"
+      "id": "HoverBrothers",
+      "name": "HoverBrothers",
+      "community": 7,
+      "score": 17.0
     },
     {
       "id": "DynomiteBizQuit",
-      "name": "DynomiteBizQuit"
+      "name": "DynomiteBizQuit",
+      "community": 6,
+      "score": 26.666666666666668
+    },
+    {
+      "id": "Salahald1n",
+      "name": "Salahald1n",
+      "community": 3,
+      "score": 35.0
+    },
+    {
+      "id": "TST___Radio",
+      "name": "TST___Radio",
+      "community": 11,
+      "score": 15.0
+    },
+    {
+      "id": "VictorG_45",
+      "name": "VictorG_45",
+      "community": 14,
+      "score": 25.0
+    },
+    {
+      "id": "KelanderthalMan",
+      "name": "KelanderthalMan",
+      "community": 8,
+      "score": 12.5
+    },
+    {
+      "id": "Truthistruth369",
+      "name": "Truthistruth369",
+      "community": 14,
+      "score": 10.0
+    },
+    {
+      "id": "DotherowDa71497",
+      "name": "DotherowDa71497",
+      "community": 12,
+      "score": 11.666666666666666
+    },
+    {
+      "id": "missj75",
+      "name": "missj75",
+      "community": 5,
+      "score": 11.0
     },
     {
       "id": "htTweets",
-      "name": "htTweets"
+      "name": "htTweets",
+      "community": 10,
+      "score": 11.666666666666666
+    },
+    {
+      "id": "RobHeatherly1",
+      "name": "RobHeatherly1",
+      "community": 11,
+      "score": 50.0
+    },
+    {
+      "id": "MichelVan4",
+      "name": "MichelVan4",
+      "community": 4,
+      "score": 10.0
     },
     {
       "id": "grok",
-      "name": "grok"
+      "name": "grok",
+      "community": 10,
+      "score": 35.0
     }
   ],
   "links": [
     {
-      "source": "UAPReportingCnt",
-      "target": "fringequest",
-      "trust": 75,
-      "timestamp": 1744452246
-    },
-    {
-      "source": "DrAtsabNikcuf",
-      "target": "DocAlienista",
-      "trust": 75,
-      "timestamp": 1744453398
-    },
-    {
-      "source": "ADelarge60",
-      "target": "serpoprojectaus",
-      "trust": 10,
-      "timestamp": 1744454847
-    },
-    {
-      "source": "Deepneuron",
-      "target": "Truthistruth369",
-      "trust": 10,
-      "timestamp": 1744457599
-    },
-    {
-      "source": "implicateflow",
-      "target": "CourtneyLeffall",
-      "trust": 10,
-      "timestamp": 1744458740
-    },
-    {
-      "source": "Knoxcat55",
-      "target": "ChrisUKSharp",
-      "trust": 5,
-      "timestamp": 1744459288
-    },
-    {
-      "source": "InTheShed4",
-      "target": "The_Astral_",
-      "trust": 70,
-      "timestamp": 1744463435
-    },
-    {
-      "source": "GeologicalSETI",
-      "target": "AllPlanets",
-      "trust": 85,
-      "timestamp": 1744466627
-    },
-    {
-      "source": "ArdamirofArda",
-      "target": "XExcalibur333",
-      "trust": 60,
-      "timestamp": 1744469133
-    },
-    {
-      "source": "MiddleOfMayhem",
-      "target": "DynomiteBizQuit",
-      "trust": 10,
-      "timestamp": 1744470392
-    },
-    {
-      "source": "fringequest",
-      "target": "HighPeaks77",
-      "trust": 10,
-      "timestamp": 1744479792
-    },
-    {
-      "source": "UFOCollage",
-      "target": "Casual_Lynx",
-      "trust": 10,
-      "timestamp": 1744487047
-    },
-    {
-      "source": "MichelVan4",
+      "source": "JettRink1956",
       "target": "Shwinnx",
-      "trust": 10,
-      "timestamp": 1744488706
-    },
-    {
-      "source": "Gchan45591268",
-      "target": "ChrisUKSharp",
-      "trust": 0,
-      "timestamp": 1744489123
-    },
-    {
-      "source": "InTheShed4",
-      "target": "wow36932525",
-      "trust": 95,
-      "timestamp": 1744490714
-    },
-    {
-      "source": "JonestechDev",
-      "target": "SmartlyUneducat",
-      "trust": 65,
-      "timestamp": 1744491089
-    },
-    {
-      "source": "revistaANOCERO",
-      "target": "RobHeatherly1",
-      "trust": 70,
-      "timestamp": 1744495393
-    },
-    {
-      "source": "AllPlanets",
-      "target": "possiblygnostic",
-      "trust": 5,
-      "timestamp": 1744495530
-    },
-    {
-      "source": "TheProjectUnity",
-      "target": "dave_beaty",
-      "trust": 85,
-      "timestamp": 1744498733
-    },
-    {
-      "source": "Jim87504388",
-      "target": "opngate",
-      "trust": 10,
-      "timestamp": 1744498775
-    },
-    {
-      "source": "MickWest",
-      "target": "DynomiteBizQuit",
-      "trust": 10,
-      "timestamp": 1744506710
-    },
-    {
-      "source": "MickWest",
-      "target": "FettuccineSplit",
-      "trust": 70,
-      "timestamp": 1744508160
-    },
-    {
-      "source": "devgru1980mi",
-      "target": "Salahald1n",
-      "trust": 10,
-      "timestamp": 1744513362
-    },
-    {
-      "source": "horror__guy",
-      "target": "bennibennasi01",
-      "trust": 10,
-      "timestamp": 1744514239
-    },
-    {
-      "source": "Deepneuron",
-      "target": "htTweets",
-      "trust": 70,
-      "timestamp": 1744515196
-    },
-    {
-      "source": "DarkstarIE",
-      "target": "b4cktoreality",
-      "trust": 10,
-      "timestamp": 1744515775
-    },
-    {
-      "source": "bennibennasi01",
-      "target": "Btc4thepeople",
-      "trust": 10,
-      "timestamp": 1744517908
-    },
-    {
-      "source": "FILIUM_PATRIS",
-      "target": "htTweets",
-      "trust": 10,
-      "timestamp": 1744518840
-    },
-    {
-      "source": "RobHeatherly1",
-      "target": "UFODebrief",
-      "trust": 10,
-      "timestamp": 1744519777
-    },
-    {
-      "source": "ufoofinterest",
-      "target": "el_kowalsky",
-      "trust": 10,
-      "timestamp": 1744536986
-    },
-    {
-      "source": "VettedPodcast",
-      "target": "kingdom_pioneer",
-      "trust": 10,
-      "timestamp": 1744537310
-    },
-    {
-      "source": "19k0011",
-      "target": "ParaN_rmal",
-      "trust": 15,
-      "timestamp": 1744539869
-    },
-    {
-      "source": "randomtweetor",
-      "target": "bennibennasi01",
       "trust": 20,
-      "timestamp": 1744546057
-    },
-    {
-      "source": "keeptxtx",
-      "target": "et_alien_uap",
-      "trust": 20,
-      "timestamp": 1744547349
-    },
-    {
-      "source": "DarkstarIE",
-      "target": "ImminentDisclsr",
-      "trust": 90,
-      "timestamp": 1744551047
-    },
-    {
-      "source": "Gandalf_ElPulpo",
-      "target": "Baptiste_Fri",
-      "trust": 85,
-      "timestamp": 1744552087
-    },
-    {
-      "source": "DotherowDa71497",
-      "target": "Truthistruth369",
-      "trust": 85,
-      "timestamp": 1744565945
-    },
-    {
-      "source": "serpopro",
-      "target": "LibertyUAP",
-      "trust": 20,
-      "timestamp": 1744566226
-    },
-    {
-      "source": "OSIRISUAP",
-      "target": "Salahald1n",
-      "trust": 10,
-      "timestamp": 1744566562
-    },
-    {
-      "source": "planethunter56",
-      "target": "GabeTruthseeker",
-      "trust": 60,
-      "timestamp": 1744566787
-    },
-    {
-      "source": "WolfShieldRam",
-      "target": "UFOCollage",
-      "trust": 10,
-      "timestamp": 1744570541
-    },
-    {
-      "source": "DarkstarIE",
-      "target": "likeitmatters3",
-      "trust": 85,
-      "timestamp": 1744577149
-    },
-    {
-      "source": "dave_beaty",
-      "target": "DynomiteBizQuit",
-      "trust": 15,
-      "timestamp": 1744577816
-    },
-    {
-      "source": "TheProjectUnity",
-      "target": "UFOCollage",
-      "trust": 5,
-      "timestamp": 1744581094
-    },
-    {
-      "source": "horror__guy",
-      "target": "alextopol",
-      "trust": 10,
-      "timestamp": 1744583062
-    },
-    {
-      "source": "PostDisclosure",
-      "target": "Gandalf_ElPulpo",
-      "trust": 85,
-      "timestamp": 1744584141
-    },
-    {
-      "source": "LMG_PRODUCTION",
-      "target": "wow36932525",
-      "trust": 5,
-      "timestamp": 1744585385
-    },
-    {
-      "source": "LibertyUAP",
-      "target": "RyanSprague51",
-      "trust": 10,
-      "timestamp": 1744587593
-    },
-    {
-      "source": "DCharles30",
-      "target": "Baptiste_Fri",
-      "trust": 20,
-      "timestamp": 1744590817
-    },
-    {
-      "source": "GeologicalSETI",
-      "target": "CourtneyLeffall",
-      "trust": 75,
-      "timestamp": 1744594979
-    },
-    {
-      "source": "SPOOOKYUFO",
-      "target": "LibertyUAP",
-      "trust": 10,
-      "timestamp": 1744612321
-    },
-    {
-      "source": "gdechico2",
-      "target": "SPOOOKYUFO",
-      "trust": 5,
-      "timestamp": 1744614031
-    },
-    {
-      "source": "Gandalf_ElPulpo",
-      "target": "keeptxtx",
-      "trust": 60,
-      "timestamp": 1744615617
-    },
-    {
-      "source": "AnxWhisperer",
-      "target": "NickMadrid16",
-      "trust": 90,
-      "timestamp": 1744619705
-    },
-    {
-      "source": "DStateRespTeam",
-      "target": "serpoprojectaus",
-      "trust": 10,
-      "timestamp": 1744619706
-    },
-    {
-      "source": "RealArea503",
-      "target": "KelanderthalMan",
-      "trust": 10,
-      "timestamp": 1744628127
-    },
-    {
-      "source": "AdamGenesisEden",
-      "target": "FlyaEther33",
-      "trust": 5,
-      "timestamp": 1744637495
-    },
-    {
-      "source": "OMApproach",
-      "target": "UFODebrief",
-      "trust": 20,
-      "timestamp": 1744649912
-    },
-    {
-      "source": "Ekklectico",
-      "target": "z28mjt79",
-      "trust": 10,
-      "timestamp": 1744652640
-    },
-    {
-      "source": "LehtoFiles",
-      "target": "RealArea503",
-      "trust": 10,
-      "timestamp": 1744654202
-    },
-    {
-      "source": "disgustipated42",
-      "target": "SomewhereSkies",
-      "trust": 70,
-      "timestamp": 1744662334
-    },
-    {
-      "source": "19k0011",
-      "target": "keeptxtx",
-      "trust": 20,
-      "timestamp": 1744665916
-    },
-    {
-      "source": "ParaN_rmal",
-      "target": "PostDisclosure",
-      "trust": 70,
-      "timestamp": 1744667562
-    },
-    {
-      "source": "TST___Radio",
-      "target": "keeptxtx",
-      "trust": 20,
-      "timestamp": 1744668101
-    },
-    {
-      "source": "MiddleOfMayhem",
-      "target": "Ekklectico",
-      "trust": 10,
-      "timestamp": 1744671807
-    },
-    {
-      "source": "DocAlienista",
-      "target": "issaufo",
-      "trust": 10,
-      "timestamp": 1744684581
-    },
-    {
-      "source": "DeJaVu2U2",
-      "target": "JonMajerowski",
-      "trust": 10,
-      "timestamp": 1744684595
-    },
-    {
-      "source": "arrowbombadil",
-      "target": "UAPJames",
-      "trust": 20,
-      "timestamp": 1744687589
-    },
-    {
-      "source": "KnightsGloryy",
-      "target": "issaufo",
-      "trust": 10,
-      "timestamp": 1744690729
-    },
-    {
-      "source": "bryceduncan13",
-      "target": "StevenCambian",
-      "trust": 10,
-      "timestamp": 1744691090
-    },
-    {
-      "source": "Gchan45591268",
-      "target": "horror__guy",
-      "trust": 100,
-      "timestamp": 1744693280
-    },
-    {
-      "source": "NickMadrid16",
-      "target": "AnxWhisperer",
-      "trust": 90,
-      "timestamp": 1744693302
-    },
-    {
-      "source": "Baptiste_Fri",
-      "target": "RobHeatherly1",
-      "trust": 75,
-      "timestamp": 1744695084
-    },
-    {
-      "source": "opngate",
-      "target": "Gchan45591268",
-      "trust": 20,
-      "timestamp": 1744696073
-    },
-    {
-      "source": "bryceduncan13",
-      "target": "UAPJames",
-      "trust": 5,
-      "timestamp": 1744696621
-    },
-    {
-      "source": "wow36932525",
-      "target": "The_Astral_",
-      "trust": 90,
-      "timestamp": 1744698683
-    },
-    {
-      "source": "AAWSAPRocky",
-      "target": "ArdamirofArda",
-      "trust": 20,
-      "timestamp": 1744702979
-    },
-    {
-      "source": "TUPACABRA2",
-      "target": "combatinsight",
-      "trust": 20,
-      "timestamp": 1744704216
-    },
-    {
-      "source": "shotdownmind",
-      "target": "19k0011",
-      "trust": 75,
-      "timestamp": 1744711955
-    },
-    {
-      "source": "FlyaEther33",
-      "target": "SimulatedLion",
-      "trust": 100,
-      "timestamp": 1744712740
-    },
-    {
-      "source": "OMApproach",
-      "target": "darkjournalist",
-      "trust": 10,
-      "timestamp": 1744712885
-    },
-    {
-      "source": "el_kowalsky",
-      "target": "goodmorningufo",
-      "trust": 10,
-      "timestamp": 1744713474
-    },
-    {
-      "source": "The_Astral_",
-      "target": "OEFTF11",
-      "trust": 20,
-      "timestamp": 1744717083
-    },
-    {
-      "source": "PostDisclosure",
-      "target": "el_kowalsky",
-      "trust": 10,
-      "timestamp": 1744717275
-    },
-    {
-      "source": "ArdamirofArda",
-      "target": "AdamGenesisEden",
-      "trust": 90,
-      "timestamp": 1744720289
-    },
-    {
-      "source": "LMG_PRODUCTION",
-      "target": "cinematicfever",
-      "trust": 85,
-      "timestamp": 1744722210
-    },
-    {
-      "source": "z28mjt79",
-      "target": "DotherowDa71497",
-      "trust": 100,
-      "timestamp": 1744724465
-    },
-    {
-      "source": "OMApproach",
-      "target": "DeJaVu2U2",
-      "trust": 15,
-      "timestamp": 1744725295
-    },
-    {
-      "source": "goodmorningufo",
-      "target": "0mega_Point",
-      "trust": 70,
-      "timestamp": 1744727839
-    },
-    {
-      "source": "ParaN_rmal",
-      "target": "RobHeatherly1",
-      "trust": 20,
-      "timestamp": 1744736779
-    },
-    {
-      "source": "billynboys23",
-      "target": "KelanderthalMan",
-      "trust": 5,
-      "timestamp": 1744739505
-    },
-    {
-      "source": "AnxWhisperer",
-      "target": "OEFTF11",
-      "trust": 20,
-      "timestamp": 1744744299
-    },
-    {
-      "source": "shotdownmind",
-      "target": "69Skoal69",
-      "trust": 85,
-      "timestamp": 1744746985
-    },
-    {
-      "source": "Knoxcat55",
-      "target": "FLVinny",
-      "trust": 90,
-      "timestamp": 1744747809
-    },
-    {
-      "source": "wow36932525",
-      "target": "Gchan45591268",
-      "trust": 10,
-      "timestamp": 1744748982
-    },
-    {
-      "source": "missj75",
-      "target": "TST___Radio",
-      "trust": 20,
-      "timestamp": 1744749991
-    },
-    {
-      "source": "VictorG_45",
-      "target": "19k0011",
-      "trust": 20,
-      "timestamp": 1744750558
-    },
-    {
-      "source": "MFungi369",
-      "target": "WolfShieldRam",
-      "trust": 15,
-      "timestamp": 1744750741
-    },
-    {
-      "source": "arrowbombadil",
-      "target": "SimulatedLion",
-      "trust": 10,
-      "timestamp": 1744752411
-    },
-    {
-      "source": "BlueshiftRadio",
-      "target": "UAPReportingCnt",
-      "trust": 10,
-      "timestamp": 1744756737
-    },
-    {
-      "source": "alextopol",
-      "target": "Marc_La_Rock",
-      "trust": 10,
-      "timestamp": 1744759067
-    },
-    {
-      "source": "Jim87504388",
-      "target": "SmartlyUneducat",
-      "trust": 10,
-      "timestamp": 1744761400
-    },
-    {
-      "source": "wouilisam",
-      "target": "GabeTruthseeker",
-      "trust": 60,
-      "timestamp": 1744762780
-    },
-    {
-      "source": "WhoshotyaCo",
-      "target": "VictorG_45",
-      "trust": 10,
-      "timestamp": 1744763532
-    },
-    {
-      "source": "z28mjt79",
-      "target": "WhoshotyaCo",
-      "trust": 10,
-      "timestamp": 1744764415
-    },
-    {
-      "source": "disgustipated42",
-      "target": "AllPlanets",
-      "trust": 10,
-      "timestamp": 1744764425
-    },
-    {
-      "source": "arrowbombadil",
-      "target": "Knoxcat55",
-      "trust": 15,
-      "timestamp": 1744766573
-    },
-    {
-      "source": "LibertyUAP",
-      "target": "AdamGenesisEden",
-      "trust": 10,
-      "timestamp": 1744769551
-    },
-    {
-      "source": "bennibennasi01",
-      "target": "JustXAshton",
-      "trust": 10,
-      "timestamp": 1744776907
-    },
-    {
-      "source": "MizzMisanthrope",
-      "target": "DStateRespTeam",
-      "trust": 10,
-      "timestamp": 1744781681
-    },
-    {
-      "source": "Casual_Lynx",
-      "target": "FettuccineSplit",
-      "trust": 10,
-      "timestamp": 1744782726
-    },
-    {
-      "source": "TST___Radio",
-      "target": "gdechico2",
-      "trust": 10,
-      "timestamp": 1744786743
-    },
-    {
-      "source": "ThisGuyCTE",
-      "target": "disgustipated42",
-      "trust": 10,
-      "timestamp": 1744787492
-    },
-    {
-      "source": "LueElizondo",
-      "target": "s36371222",
-      "trust": 20,
-      "timestamp": 1744790702
-    },
-    {
-      "source": "grok",
-      "target": "bennibennasi01",
-      "trust": 15,
-      "timestamp": 1744792787
-    },
-    {
-      "source": "Docneuroeo",
-      "target": "FlyaEther33",
-      "trust": 90,
-      "timestamp": 1744799217
-    },
-    {
-      "source": "TST___Radio",
-      "target": "SomewhereSkies",
-      "trust": 20,
-      "timestamp": 1744801944
-    },
-    {
-      "source": "TheScottyRaby",
-      "target": "revistaANOCERO",
-      "trust": 10,
-      "timestamp": 1744805322
-    },
-    {
-      "source": "zcichy",
-      "target": "DeJaVu2U2",
-      "trust": 10,
-      "timestamp": 1744810923
-    },
-    {
-      "source": "likeitmatters3",
-      "target": "LuAngeles",
-      "trust": 90,
-      "timestamp": 1744823467
-    },
-    {
-      "source": "alextopol",
-      "target": "z28mjt79",
-      "trust": 10,
-      "timestamp": 1744826191
-    },
-    {
-      "source": "SomewhereSkies",
-      "target": "TheUAPShow",
-      "trust": 70,
-      "timestamp": 1744827529
-    },
-    {
-      "source": "bryceduncan13",
-      "target": "TheUAPShow",
-      "trust": 5,
-      "timestamp": 1744828902
-    },
-    {
-      "source": "3xceptional1886",
-      "target": "UAPJames",
-      "trust": 60,
-      "timestamp": 1744829939
-    },
-    {
-      "source": "EricBurlison",
-      "target": "VettedPodcast",
-      "trust": 75,
-      "timestamp": 1744835057
-    },
-    {
-      "source": "JustXAshton",
-      "target": "RedPandaKoala",
-      "trust": 10,
-      "timestamp": 1744835385
-    },
-    {
-      "source": "cinematicfever",
-      "target": "et_alien_uap",
-      "trust": 20,
-      "timestamp": 1744835853
-    },
-    {
-      "source": "69Skoal69",
-      "target": "L_Y_E_S_H",
-      "trust": 10,
-      "timestamp": 1744839282
-    },
-    {
-      "source": "UFODebrief",
-      "target": "likeitmatters3",
-      "trust": 85,
-      "timestamp": 1744846222
-    },
-    {
-      "source": "cinematicfever",
-      "target": "FeeFiFoFum1995",
-      "trust": 10,
-      "timestamp": 1744850429
-    },
-    {
-      "source": "Casual_Lynx",
-      "target": "JettRink1956",
-      "trust": 10,
-      "timestamp": 1744851881
-    },
-    {
-      "source": "Btc4thepeople",
-      "target": "ParaN_rmal",
-      "trust": 20,
-      "timestamp": 1744866987
-    },
-    {
-      "source": "LMG_PRODUCTION",
-      "target": "SomewhereSkies",
-      "trust": 5,
-      "timestamp": 1744869144
-    },
-    {
-      "source": "OEFTF11",
-      "target": "alextopol",
-      "trust": 10,
-      "timestamp": 1744872153
-    },
-    {
-      "source": "htTweets",
-      "target": "AnxWhisperer",
-      "trust": 100,
-      "timestamp": 1744875771
-    },
-    {
-      "source": "RedPandaKoala",
-      "target": "AAWSAPRocky",
-      "trust": 60,
-      "timestamp": 1744885911
-    },
-    {
-      "source": "GiavedoniEric",
-      "target": "LibertyUAP",
-      "trust": 10,
-      "timestamp": 1744887930
-    },
-    {
-      "source": "TheUAPShow",
-      "target": "DotherowDa71497",
-      "trust": 10,
-      "timestamp": 1744888541
-    },
-    {
-      "source": "HoverBrothers",
-      "target": "GrantLavac",
-      "trust": 90,
-      "timestamp": 1744890157
-    },
-    {
-      "source": "DrAtsabNikcuf",
-      "target": "AnxWhisperer",
-      "trust": 70,
-      "timestamp": 1744890182
-    },
-    {
-      "source": "billynboys23",
-      "target": "LueElizondo",
-      "trust": 10,
-      "timestamp": 1744892711
-    },
-    {
-      "source": "z28mjt79",
-      "target": "JonestechDev",
-      "trust": 20,
-      "timestamp": 1744895577
-    },
-    {
-      "source": "RobHeatherly1",
-      "target": "JonMajerowski",
-      "trust": 10,
-      "timestamp": 1744903395
-    },
-    {
-      "source": "MichelVan4",
-      "target": "TheUAPShow",
-      "trust": 10,
-      "timestamp": 1744910338
-    },
-    {
-      "source": "Ekklectico",
-      "target": "GiavedoniEric",
-      "trust": 10,
-      "timestamp": 1744914986
-    },
-    {
-      "source": "HoverBrothers",
-      "target": "keeptxtx",
-      "trust": 10,
-      "timestamp": 1744918968
-    },
-    {
-      "source": "GodSawUs",
-      "target": "InTheShed4",
-      "trust": 75,
-      "timestamp": 1744919133
-    },
-    {
-      "source": "GiavedoniEric",
-      "target": "combatinsight",
-      "trust": 50,
-      "timestamp": 1744920690
-    },
-    {
-      "source": "UAPReportingCnt",
-      "target": "DrAtsabNikcuf",
-      "trust": 70,
-      "timestamp": 1744923925
-    },
-    {
-      "source": "Salahald1n",
-      "target": "el_kowalsky",
-      "trust": 100,
-      "timestamp": 1744924647
-    },
-    {
-      "source": "JoeyIsntMyName",
-      "target": "wouilisam",
-      "trust": 20,
-      "timestamp": 1744927654
-    },
-    {
-      "source": "arrowbombadil",
-      "target": "FlyaEther33",
-      "trust": 80,
-      "timestamp": 1744932058
-    },
-    {
-      "source": "UFODebrief",
-      "target": "DeJaVu2U2",
-      "trust": 15,
-      "timestamp": 1744938692
-    },
-    {
-      "source": "et_alien_uap",
-      "target": "el_kowalsky",
-      "trust": 10,
-      "timestamp": 1744939674
-    },
-    {
-      "source": "NickMadrid16",
-      "target": "TheScottyRaby",
-      "trust": 10,
-      "timestamp": 1744940560
-    },
-    {
-      "source": "RyanSprague51",
-      "target": "AeroTech_Space",
-      "trust": 10,
-      "timestamp": 1744942502
-    },
-    {
-      "source": "L_Y_E_S_H",
-      "target": "DarkstarIE",
-      "trust": 10,
-      "timestamp": 1744942656
-    },
-    {
-      "source": "The_Astral_",
-      "target": "shotdownmind",
-      "trust": 70,
-      "timestamp": 1744950089
-    },
-    {
-      "source": "TurtleOfTime12",
-      "target": "TimeCommandHQ",
-      "trust": 10,
-      "timestamp": 1744951365
-    },
-    {
-      "source": "issaufo",
-      "target": "TheUAPShow",
-      "trust": 10,
-      "timestamp": 1744953103
-    },
-    {
-      "source": "HoverBrothers",
-      "target": "L_Y_E_S_H",
-      "trust": 5,
-      "timestamp": 1744958071
-    },
-    {
-      "source": "LueElizondo",
-      "target": "MichelVan4",
-      "trust": 10,
-      "timestamp": 1744961974
-    },
-    {
-      "source": "horror__guy",
-      "target": "StevenCambian",
-      "trust": 10,
-      "timestamp": 1744966271
-    },
-    {
-      "source": "michaelshermer",
-      "target": "RedPandaKoala",
-      "trust": 10,
-      "timestamp": 1744972232
-    },
-    {
-      "source": "htTweets",
-      "target": "issaufo",
-      "trust": 60,
-      "timestamp": 1744972306
-    },
-    {
-      "source": "TheScottyRaby",
-      "target": "AdamGenesisEden",
-      "trust": 95,
-      "timestamp": 1744977987
-    },
-    {
-      "source": "JustXAshton",
-      "target": "likeitmatters3",
-      "trust": 95,
-      "timestamp": 1744979301
-    },
-    {
-      "source": "UFOCollage",
-      "target": "L_Y_E_S_H",
-      "trust": 70,
-      "timestamp": 1744980879
-    },
-    {
-      "source": "Deepneuron",
-      "target": "MizzMisanthrope",
-      "trust": 20,
-      "timestamp": 1744985819
-    },
-    {
-      "source": "GrantLavac",
-      "target": "DarkstarIE",
-      "trust": 10,
-      "timestamp": 1744987882
-    },
-    {
-      "source": "OMApproach",
-      "target": "GeologicalSETI",
-      "trust": 10,
-      "timestamp": 1744990716
-    },
-    {
-      "source": "goodmorningufo",
-      "target": "wow36932525",
-      "trust": 75,
-      "timestamp": 1744993526
-    },
-    {
-      "source": "SomewhereSkies",
-      "target": "CourtneyLeffall",
-      "trust": 50,
-      "timestamp": 1744996274
-    },
-    {
-      "source": "Casual_Lynx",
-      "target": "JoeyIsntMyName",
-      "trust": 10,
-      "timestamp": 1745003948
-    },
-    {
-      "source": "opngate",
-      "target": "Jim87504388",
-      "trust": 10,
-      "timestamp": 1745007534
-    },
-    {
-      "source": "ImminentDisclsr",
-      "target": "et_alien_uap",
-      "trust": 75,
-      "timestamp": 1745007769
-    },
-    {
-      "source": "WhoshotyaCo",
-      "target": "OSIRISUAP",
-      "trust": 10,
-      "timestamp": 1745012275
-    },
-    {
-      "source": "HoverBrothers",
-      "target": "darkjournalist",
-      "trust": 90,
-      "timestamp": 1745013489
-    },
-    {
-      "source": "RealArea503",
-      "target": "FettuccineSplit",
-      "trust": 10,
-      "timestamp": 1745016707
-    },
-    {
-      "source": "FLVinny",
-      "target": "serpoprojectaus",
-      "trust": 10,
-      "timestamp": 1745018579
-    },
-    {
-      "source": "goodmorningufo",
-      "target": "gdechico2",
-      "trust": 10,
-      "timestamp": 1745020301
-    },
-    {
-      "source": "CourtneyLeffall",
-      "target": "UFOCollage",
-      "trust": 10,
-      "timestamp": 1745026111
-    },
-    {
-      "source": "Gchan45591268",
-      "target": "SimulatedLion",
-      "trust": 0,
-      "timestamp": 1745030608
-    },
-    {
-      "source": "BlueshiftRadio",
-      "target": "NickMadrid16",
-      "trust": 10,
-      "timestamp": 1745032987
-    },
-    {
-      "source": "Docneuroeo",
-      "target": "ChrisUKSharp",
-      "trust": 10,
-      "timestamp": 1745033596
-    },
-    {
-      "source": "wiel_jade",
-      "target": "GemaLozan",
-      "trust": 75,
-      "timestamp": 1745035504
-    },
-    {
-      "source": "implicateflow",
-      "target": "69Skoal69",
-      "trust": 10,
-      "timestamp": 1745043410
-    },
-    {
-      "source": "grok",
-      "target": "ufoofinterest",
-      "trust": 90,
-      "timestamp": 1745043480
-    },
-    {
-      "source": "DarkstarIE",
-      "target": "TUPACABRA2",
-      "trust": 10,
-      "timestamp": 1745045365
-    },
-    {
-      "source": "PostDisclosure",
-      "target": "StevenCambian",
-      "trust": 10,
-      "timestamp": 1745053039
-    },
-    {
-      "source": "Deepneuron",
-      "target": "b4cktoreality",
-      "trust": 10,
-      "timestamp": 1745065007
-    },
-    {
-      "source": "XExcalibur333",
-      "target": "MichelVan4",
-      "trust": 10,
-      "timestamp": 1745071066
-    },
-    {
-      "source": "TheUAPShow",
-      "target": "grok",
-      "trust": 75,
-      "timestamp": 1745072004
-    },
-    {
-      "source": "SPOOOKYUFO",
-      "target": "69Skoal69",
-      "trust": 10,
-      "timestamp": 1745072524
-    },
-    {
-      "source": "LueElizondo",
-      "target": "EricBurlison",
-      "trust": 60,
-      "timestamp": 1745076866
-    },
-    {
-      "source": "DrAtsabNikcuf",
-      "target": "darkjournalist",
-      "trust": 10,
-      "timestamp": 1745082033
-    },
-    {
-      "source": "DeJaVu2U2",
-      "target": "CourtneyLeffall",
-      "trust": 20,
-      "timestamp": 1745082671
+      "timestamp": 1744458158
     },
     {
       "source": "FettuccineSplit",
-      "target": "TimeCommandHQ",
-      "trust": 75,
-      "timestamp": 1745085072
+      "target": "19k0011",
+      "trust": 20,
+      "timestamp": 1744461219
     },
     {
-      "source": "shotdownmind",
-      "target": "alextopol",
-      "trust": 70,
-      "timestamp": 1745087576
+      "source": "Truthpolex",
+      "target": "3xceptional1886",
+      "trust": 40,
+      "timestamp": 1744464043
     },
     {
-      "source": "ADelarge60",
-      "target": "ParaN_rmal",
+      "source": "GrantLavac",
+      "target": "JonMajerowski",
       "trust": 10,
-      "timestamp": 1745088037
+      "timestamp": 1744465997
     },
     {
-      "source": "RyanSprague51",
-      "target": "TimeCommandHQ",
-      "trust": 70,
-      "timestamp": 1745090820
+      "source": "UAPReportingCnt",
+      "target": "bryceduncan13",
+      "trust": 15,
+      "timestamp": 1744466597
     },
     {
-      "source": "likeitmatters3",
-      "target": "0mega_Point",
+      "source": "FlyaEther33",
+      "target": "FettuccineSplit",
       "trust": 10,
-      "timestamp": 1745095275
-    },
-    {
-      "source": "HighPeaks77",
-      "target": "ChrisUKSharp",
-      "trust": 90,
-      "timestamp": 1745095853
+      "timestamp": 1744466893
     },
     {
       "source": "RedPandaKoala",
-      "target": "GodSawUs",
-      "trust": 10,
-      "timestamp": 1745102472
-    },
-    {
-      "source": "GoodTroubleShow",
-      "target": "Casual_Lynx",
-      "trust": 10,
-      "timestamp": 1745110420
-    },
-    {
-      "source": "The_Astral_",
-      "target": "19k0011",
-      "trust": 20,
-      "timestamp": 1745123827
-    },
-    {
-      "source": "arrowbombadil",
-      "target": "Marc_La_Rock",
-      "trust": 10,
-      "timestamp": 1745142735
-    },
-    {
-      "source": "AdamGenesisEden",
       "target": "3xceptional1886",
-      "trust": 15,
-      "timestamp": 1745143283
-    },
-    {
-      "source": "z28mjt79",
-      "target": "TurtleOfTime12",
-      "trust": 0,
-      "timestamp": 1745143756
-    },
-    {
-      "source": "possiblygnostic",
-      "target": "devgru1980mi",
       "trust": 10,
-      "timestamp": 1745146054
-    },
-    {
-      "source": "opngate",
-      "target": "Truthistruth369",
-      "trust": 10,
-      "timestamp": 1745147322
-    },
-    {
-      "source": "0mega_Point",
-      "target": "TUPACABRA2",
-      "trust": 25,
-      "timestamp": 1745149482
-    },
-    {
-      "source": "CourtneyLeffall",
-      "target": "wiel_jade",
-      "trust": 60,
-      "timestamp": 1745152218
-    },
-    {
-      "source": "Dalerob62",
-      "target": "michaelshermer",
-      "trust": 10,
-      "timestamp": 1745155901
-    },
-    {
-      "source": "GodSawUs",
-      "target": "possiblygnostic",
-      "trust": 20,
-      "timestamp": 1745157777
-    },
-    {
-      "source": "FLVinny",
-      "target": "darkjournalist",
-      "trust": 5,
-      "timestamp": 1745165510
-    },
-    {
-      "source": "devgru1980mi",
-      "target": "fringequest",
-      "trust": 20,
-      "timestamp": 1745166050
-    },
-    {
-      "source": "dave_beaty",
-      "target": "69Skoal69",
-      "trust": 15,
-      "timestamp": 1745168719
-    },
-    {
-      "source": "el_kowalsky",
-      "target": "et_alien_uap",
-      "trust": 0,
-      "timestamp": 1745169703
-    },
-    {
-      "source": "revistaANOCERO",
-      "target": "BlueshiftRadio",
-      "trust": 100,
-      "timestamp": 1745171641
-    },
-    {
-      "source": "likeitmatters3",
-      "target": "LehtoFiles",
-      "trust": 10,
-      "timestamp": 1745178483
-    },
-    {
-      "source": "serpoprojectaus",
-      "target": "TheUAPShow",
-      "trust": 20,
-      "timestamp": 1745182183
-    },
-    {
-      "source": "K8568088581417",
-      "target": "gdechico2",
-      "trust": 10,
-      "timestamp": 1745183474
-    },
-    {
-      "source": "GoodTroubleShow",
-      "target": "AdamGenesisEden",
-      "trust": 10,
-      "timestamp": 1745183760
-    },
-    {
-      "source": "RealArea503",
-      "target": "JonestechDev",
-      "trust": 10,
-      "timestamp": 1745189218
-    },
-    {
-      "source": "serpoprojectaus",
-      "target": "Jim87504388",
-      "trust": 10,
-      "timestamp": 1745192462
-    },
-    {
-      "source": "VettedPodcast",
-      "target": "AnxWhisperer",
-      "trust": 90,
-      "timestamp": 1745193364
-    },
-    {
-      "source": "GodSawUs",
-      "target": "UFODebrief",
-      "trust": 20,
-      "timestamp": 1745203770
-    },
-    {
-      "source": "cinematicfever",
-      "target": "RobHeatherly1",
-      "trust": 20,
-      "timestamp": 1745206654
-    },
-    {
-      "source": "HighPeaks77",
-      "target": "AAWSAPRocky",
-      "trust": 20,
-      "timestamp": 1745207516
-    },
-    {
-      "source": "LueElizondo",
-      "target": "WhoshotyaCo",
-      "trust": 10,
-      "timestamp": 1745211124
-    },
-    {
-      "source": "randomtweetor",
-      "target": "LMG_PRODUCTION",
-      "trust": 10,
-      "timestamp": 1745215828
-    },
-    {
-      "source": "TurtleOfTime12",
-      "target": "et_alien_uap",
-      "trust": 5,
-      "timestamp": 1745217156
-    },
-    {
-      "source": "planethunter56",
-      "target": "DStateRespTeam",
-      "trust": 10,
-      "timestamp": 1745217429
-    },
-    {
-      "source": "LuAngeles",
-      "target": "Btc4thepeople",
-      "trust": 10,
-      "timestamp": 1745220620
-    },
-    {
-      "source": "JonMajerowski",
-      "target": "htTweets",
-      "trust": 80,
-      "timestamp": 1745225337
-    },
-    {
-      "source": "WhoshotyaCo",
-      "target": "GrantLavac",
-      "trust": 90,
-      "timestamp": 1745225951
-    },
-    {
-      "source": "19k0011",
-      "target": "LuAngeles",
-      "trust": 20,
-      "timestamp": 1745228067
-    },
-    {
-      "source": "AllPlanets",
-      "target": "The_Astral_",
-      "trust": 10,
-      "timestamp": 1745229964
-    },
-    {
-      "source": "MickWest",
-      "target": "JonestechDev",
-      "trust": 75,
-      "timestamp": 1745230986
-    },
-    {
-      "source": "3xceptional1886",
-      "target": "FLVinny",
-      "trust": 20,
-      "timestamp": 1745238637
-    },
-    {
-      "source": "RobHeatherly1",
-      "target": "VettedPodcast",
-      "trust": 10,
-      "timestamp": 1745240295
-    },
-    {
-      "source": "The_Astral_",
-      "target": "KelanderthalMan",
-      "trust": 25,
-      "timestamp": 1745240606
-    },
-    {
-      "source": "MFungi369",
-      "target": "DocAlienista",
-      "trust": 10,
-      "timestamp": 1745240726
+      "timestamp": 1744469195
     },
     {
       "source": "implicateflow",
+      "target": "UAPJames",
+      "trust": 5,
+      "timestamp": 1744475232
+    },
+    {
+      "source": "MizzMisanthrope",
+      "target": "bennibennasi01",
+      "trust": 10,
+      "timestamp": 1744477065
+    },
+    {
+      "source": "XExcalibur333",
+      "target": "MFungi369",
+      "trust": 10,
+      "timestamp": 1744477256
+    },
+    {
+      "source": "RobHeatherly1",
+      "target": "3xceptional1886",
+      "trust": 10,
+      "timestamp": 1744480654
+    },
+    {
+      "source": "JoeyIsntMyName",
+      "target": "dave_beaty",
+      "trust": 20,
+      "timestamp": 1744484738
+    },
+    {
+      "source": "DCharles30",
+      "target": "TurtleOfTime12",
+      "trust": 10,
+      "timestamp": 1744492513
+    },
+    {
+      "source": "GabeTruthseeker",
+      "target": "Shwinnx",
+      "trust": 20,
+      "timestamp": 1744493641
+    },
+    {
+      "source": "TUPACABRA2",
+      "target": "Dalerob62",
+      "trust": 10,
+      "timestamp": 1744495288
+    },
+    {
+      "source": "JoeyIsntMyName",
+      "target": "FettuccineSplit",
+      "trust": 20,
+      "timestamp": 1744496975
+    },
+    {
+      "source": "DotherowDa71497",
+      "target": "AnxWhisperer",
+      "trust": 5,
+      "timestamp": 1744499685
+    },
+    {
+      "source": "JettRink1956",
+      "target": "VettedPodcast",
+      "trust": 10,
+      "timestamp": 1744501738
+    },
+    {
+      "source": "Casual_Lynx",
+      "target": "dave_beaty",
+      "trust": 10,
+      "timestamp": 1744503374
+    },
+    {
+      "source": "MizzMisanthrope",
+      "target": "Btc4thepeople",
+      "trust": 10,
+      "timestamp": 1744506894
+    },
+    {
+      "source": "JonMajerowski",
+      "target": "AllPlanets",
+      "trust": 20,
+      "timestamp": 1744507047
+    },
+    {
+      "source": "DocAlienista",
+      "target": "HoverBrothers",
+      "trust": 10,
+      "timestamp": 1744508220
+    },
+    {
+      "source": "goodmorningufo",
       "target": "ParaN_rmal",
       "trust": 10,
-      "timestamp": 1745241249
+      "timestamp": 1744514707
     },
     {
-      "source": "DeJaVu2U2",
-      "target": "htTweets",
+      "source": "19k0011",
+      "target": "TurtleOfTime12",
       "trust": 10,
-      "timestamp": 1745246433
+      "timestamp": 1744515887
     },
     {
-      "source": "AllPlanets",
-      "target": "issaufo",
-      "trust": 10,
-      "timestamp": 1745252672
-    },
-    {
-      "source": "EricBurlison",
-      "target": "MiddleOfMayhem",
+      "source": "PostDisclosure",
+      "target": "RobHeatherly1",
       "trust": 75,
-      "timestamp": 1745254800
+      "timestamp": 1744521853
     },
     {
-      "source": "InTheShed4",
+      "source": "DarkstarIE",
+      "target": "FlyaEther33",
+      "trust": 10,
+      "timestamp": 1744523239
+    },
+    {
+      "source": "JonestechDev",
+      "target": "Jim87504388",
+      "trust": 10,
+      "timestamp": 1744524604
+    },
+    {
+      "source": "missj75",
+      "target": "Jim87504388",
+      "trust": 10,
+      "timestamp": 1744526984
+    },
+    {
+      "source": "darkjournalist",
+      "target": "kingdom_pioneer",
+      "trust": 5,
+      "timestamp": 1744527326
+    },
+    {
+      "source": "DynomiteBizQuit",
+      "target": "Deepneuron",
+      "trust": 10,
+      "timestamp": 1744535697
+    },
+    {
+      "source": "randomtweetor",
+      "target": "el_kowalsky",
+      "trust": 10,
+      "timestamp": 1744536886
+    },
+    {
+      "source": "BlueshiftRadio",
+      "target": "Knoxcat55",
+      "trust": 10,
+      "timestamp": 1744538842
+    },
+    {
+      "source": "ADelarge60",
+      "target": "RealArea503",
+      "trust": 10,
+      "timestamp": 1744542082
+    },
+    {
+      "source": "VettedPodcast",
+      "target": "NickMadrid16",
+      "trust": 70,
+      "timestamp": 1744543088
+    },
+    {
+      "source": "ufoofinterest",
+      "target": "TheScottyRaby",
+      "trust": 80,
+      "timestamp": 1744544043
+    },
+    {
+      "source": "UAPReportingCnt",
+      "target": "keeptxtx",
+      "trust": 60,
+      "timestamp": 1744549094
+    },
+    {
+      "source": "3xceptional1886",
+      "target": "goodmorningufo",
+      "trust": 60,
+      "timestamp": 1744550331
+    },
+    {
+      "source": "ufoofinterest",
+      "target": "JustXAshton",
+      "trust": 10,
+      "timestamp": 1744550411
+    },
+    {
+      "source": "RedPandaKoala",
+      "target": "ufoofinterest",
+      "trust": 70,
+      "timestamp": 1744552495
+    },
+    {
+      "source": "ArdamirofArda",
+      "target": "69Skoal69",
+      "trust": 85,
+      "timestamp": 1744552756
+    },
+    {
+      "source": "HighPeaks77",
       "target": "DCharles30",
-      "trust": 20,
-      "timestamp": 1745256925
-    },
-    {
-      "source": "MizzMisanthrope",
-      "target": "bryceduncan13",
-      "trust": 20,
-      "timestamp": 1745273664
-    },
-    {
-      "source": "bennibennasi01",
-      "target": "FeeFiFoFum1995",
-      "trust": 90,
-      "timestamp": 1745279924
-    },
-    {
-      "source": "LehtoFiles",
-      "target": "combatinsight",
       "trust": 10,
-      "timestamp": 1745280040
-    },
-    {
-      "source": "issaufo",
-      "target": "EricBurlison",
-      "trust": 10,
-      "timestamp": 1745285546
-    },
-    {
-      "source": "K8568088581417",
-      "target": "Marc_La_Rock",
-      "trust": 85,
-      "timestamp": 1745287184
-    },
-    {
-      "source": "wow36932525",
-      "target": "RealArea503",
-      "trust": 10,
-      "timestamp": 1745290894
-    },
-    {
-      "source": "et_alien_uap",
-      "target": "StevenCambian",
-      "trust": 10,
-      "timestamp": 1745297396
-    },
-    {
-      "source": "ImminentDisclsr",
-      "target": "likeitmatters3",
-      "trust": 85,
-      "timestamp": 1745299126
-    },
-    {
-      "source": "GabeTruthseeker",
-      "target": "GrantLavac",
-      "trust": 20,
-      "timestamp": 1745299315
-    },
-    {
-      "source": "Truthistruth369",
-      "target": "TheProjectUnity",
-      "trust": 10,
-      "timestamp": 1745300356
-    },
-    {
-      "source": "3xceptional1886",
-      "target": "HoverBrothers",
-      "trust": 20,
-      "timestamp": 1745305458
-    },
-    {
-      "source": "GemaLozan",
-      "target": "FILIUM_PATRIS",
-      "trust": 20,
-      "timestamp": 1745306679
-    },
-    {
-      "source": "LehtoFiles",
-      "target": "KnightsGloryy",
-      "trust": 10,
-      "timestamp": 1745314190
-    },
-    {
-      "source": "FeeFiFoFum1995",
-      "target": "zcichy",
-      "trust": 10,
-      "timestamp": 1745314320
-    },
-    {
-      "source": "LuAngeles",
-      "target": "VictorG_45",
-      "trust": 10,
-      "timestamp": 1745329273
-    },
-    {
-      "source": "GabeTruthseeker",
-      "target": "TheScottyRaby",
-      "trust": 10,
-      "timestamp": 1745335538
-    },
-    {
-      "source": "69Skoal69",
-      "target": "AAWSAPRocky",
-      "trust": 60,
-      "timestamp": 1745343505
-    },
-    {
-      "source": "Marc_La_Rock",
-      "target": "s36371222",
-      "trust": 10,
-      "timestamp": 1745349944
-    },
-    {
-      "source": "The_Astral_",
-      "target": "TST___Radio",
-      "trust": 60,
-      "timestamp": 1745353484
-    },
-    {
-      "source": "combatinsight",
-      "target": "JustXAshton",
-      "trust": 75,
-      "timestamp": 1745355844
-    },
-    {
-      "source": "bennibennasi01",
-      "target": "Ekklectico",
-      "trust": 10,
-      "timestamp": 1745357523
-    },
-    {
-      "source": "wiel_jade",
-      "target": "NickMadrid16",
-      "trust": 60,
-      "timestamp": 1745360005
-    },
-    {
-      "source": "UFOCollage",
-      "target": "Gandalf_ElPulpo",
-      "trust": 85,
-      "timestamp": 1745360100
-    },
-    {
-      "source": "goodmorningufo",
-      "target": "DrAtsabNikcuf",
-      "trust": 20,
-      "timestamp": 1745362593
-    },
-    {
-      "source": "DCharles30",
-      "target": "serpoprojectaus",
-      "trust": 60,
-      "timestamp": 1745372057
-    },
-    {
-      "source": "missj75",
-      "target": "Salahald1n",
-      "trust": 10,
-      "timestamp": 1745374879
-    },
-    {
-      "source": "serpopro",
-      "target": "BlueshiftRadio",
-      "trust": 75,
-      "timestamp": 1745381741
-    },
-    {
-      "source": "SomewhereSkies",
-      "target": "missj75",
-      "trust": 10,
-      "timestamp": 1745382193
-    },
-    {
-      "source": "SmartlyUneducat",
-      "target": "ArdamirofArda",
-      "trust": 10,
-      "timestamp": 1745383370
-    },
-    {
-      "source": "JonestechDev",
-      "target": "Truthistruth369",
-      "trust": 15,
-      "timestamp": 1745384546
-    },
-    {
-      "source": "ImminentDisclsr",
-      "target": "b4cktoreality",
-      "trust": 10,
-      "timestamp": 1745389146
-    },
-    {
-      "source": "AAWSAPRocky",
-      "target": "MichelVan4",
-      "trust": 10,
-      "timestamp": 1745390067
-    },
-    {
-      "source": "serpoprojectaus",
-      "target": "GeologicalSETI",
-      "trust": 20,
-      "timestamp": 1745390755
-    },
-    {
-      "source": "ChaoticGood42_",
-      "target": "arrowbombadil",
-      "trust": 10,
-      "timestamp": 1745394096
-    },
-    {
-      "source": "Knoxcat55",
-      "target": "TheUAPShow",
-      "trust": 5,
-      "timestamp": 1745396832
-    },
-    {
-      "source": "SimulatedLion",
-      "target": "AnxWhisperer",
-      "trust": 10,
-      "timestamp": 1745398311
-    },
-    {
-      "source": "OMApproach",
-      "target": "XExcalibur333",
-      "trust": 10,
-      "timestamp": 1745401073
-    },
-    {
-      "source": "b4cktoreality",
-      "target": "DotherowDa71497",
-      "trust": 10,
-      "timestamp": 1745401533
-    },
-    {
-      "source": "serpoprojectaus",
-      "target": "combatinsight",
-      "trust": 70,
-      "timestamp": 1745404058
+      "timestamp": 1744555770
     },
     {
       "source": "billynboys23",
-      "target": "combatinsight",
-      "trust": 10,
-      "timestamp": 1745404848
-    },
-    {
-      "source": "DeJaVu2U2",
-      "target": "MFungi369",
-      "trust": 10,
-      "timestamp": 1745411943
-    },
-    {
-      "source": "SmartlyUneducat",
-      "target": "LMG_PRODUCTION",
-      "trust": 10,
-      "timestamp": 1745414859
-    },
-    {
-      "source": "MFungi369",
-      "target": "MizzMisanthrope",
-      "trust": 20,
-      "timestamp": 1745416595
-    },
-    {
-      "source": "19k0011",
-      "target": "ChrisUKSharp",
-      "trust": 20,
-      "timestamp": 1745417485
-    },
-    {
-      "source": "Docneuroeo",
-      "target": "shotdownmind",
-      "trust": 70,
-      "timestamp": 1745418545
-    },
-    {
-      "source": "darkjournalist",
-      "target": "combatinsight",
-      "trust": 85,
-      "timestamp": 1745422130
-    },
-    {
-      "source": "MiddleOfMayhem",
-      "target": "AllPlanets",
-      "trust": 95,
-      "timestamp": 1745423496
-    },
-    {
-      "source": "L_Y_E_S_H",
-      "target": "LMG_PRODUCTION",
-      "trust": 10,
-      "timestamp": 1745429781
-    },
-    {
-      "source": "UAPReportingCnt",
-      "target": "StevenCambian",
-      "trust": 10,
-      "timestamp": 1745431800
-    },
-    {
-      "source": "Docneuroeo",
-      "target": "AnxWhisperer",
-      "trust": 10,
-      "timestamp": 1745434549
-    },
-    {
-      "source": "Truthistruth369",
-      "target": "ImminentDisclsr",
-      "trust": 70,
-      "timestamp": 1745435526
-    },
-    {
-      "source": "FlyaEther33",
-      "target": "CourtneyLeffall",
-      "trust": 20,
-      "timestamp": 1745438793
-    },
-    {
-      "source": "Ekklectico",
-      "target": "JettRink1956",
-      "trust": 60,
-      "timestamp": 1745440940
-    },
-    {
-      "source": "K8568088581417",
-      "target": "FLVinny",
-      "trust": 10,
-      "timestamp": 1745443804
-    },
-    {
-      "source": "Jim87504388",
-      "target": "Knoxcat55",
-      "trust": 10,
-      "timestamp": 1745446268
-    },
-    {
-      "source": "BlueshiftRadio",
-      "target": "OMApproach",
-      "trust": 10,
-      "timestamp": 1745448190
-    },
-    {
-      "source": "ChrisUKSharp",
-      "target": "Deepneuron",
-      "trust": 85,
-      "timestamp": 1745454975
-    },
-    {
-      "source": "keeptxtx",
-      "target": "TST___Radio",
-      "trust": 20,
-      "timestamp": 1745455344
-    },
-    {
-      "source": "el_kowalsky",
-      "target": "JustXAshton",
-      "trust": 10,
-      "timestamp": 1745467242
-    },
-    {
-      "source": "Gchan45591268",
-      "target": "FettuccineSplit",
-      "trust": 0,
-      "timestamp": 1745469390
-    },
-    {
-      "source": "WolfShieldRam",
-      "target": "Gchan45591268",
-      "trust": 10,
-      "timestamp": 1745476956
-    },
-    {
-      "source": "0mega_Point",
-      "target": "JonestechDev",
-      "trust": 75,
-      "timestamp": 1745477704
-    },
-    {
-      "source": "Btc4thepeople",
-      "target": "Ekklectico",
-      "trust": 20,
-      "timestamp": 1745478474
-    },
-    {
-      "source": "OEFTF11",
-      "target": "Baptiste_Fri",
-      "trust": 20,
-      "timestamp": 1745479269
-    },
-    {
-      "source": "b4cktoreality",
-      "target": "InTheShed4",
-      "trust": 20,
-      "timestamp": 1745481045
-    },
-    {
-      "source": "LehtoFiles",
-      "target": "L_Y_E_S_H",
-      "trust": 70,
-      "timestamp": 1745486438
-    },
-    {
-      "source": "XExcalibur333",
-      "target": "TheUAPShow",
-      "trust": 10,
-      "timestamp": 1745487119
-    },
-    {
-      "source": "Shwinnx",
-      "target": "AllPlanets",
-      "trust": 10,
-      "timestamp": 1745488702
-    },
-    {
-      "source": "ThisGuyCTE",
-      "target": "JoeyIsntMyName",
-      "trust": 20,
-      "timestamp": 1745492477
-    },
-    {
-      "source": "Shwinnx",
-      "target": "LueElizondo",
-      "trust": 65,
-      "timestamp": 1745495299
-    },
-    {
-      "source": "JettRink1956",
-      "target": "grok",
-      "trust": 25,
-      "timestamp": 1745505081
-    },
-    {
-      "source": "GoodTroubleShow",
-      "target": "UAPJames",
-      "trust": 90,
-      "timestamp": 1745507361
-    },
-    {
-      "source": "Baptiste_Fri",
-      "target": "RedPandaKoala",
-      "trust": 60,
-      "timestamp": 1745508814
-    },
-    {
-      "source": "NickMadrid16",
-      "target": "goodmorningufo",
-      "trust": 20,
-      "timestamp": 1745509486
-    },
-    {
-      "source": "TUPACABRA2",
-      "target": "DStateRespTeam",
-      "trust": 10,
-      "timestamp": 1745514887
-    },
-    {
-      "source": "FlyaEther33",
-      "target": "ChrisUKSharp",
-      "trust": 10,
-      "timestamp": 1745519085
-    },
-    {
-      "source": "RobHeatherly1",
-      "target": "TurtleOfTime12",
-      "trust": 5,
-      "timestamp": 1745519284
-    },
-    {
-      "source": "Gandalf_ElPulpo",
-      "target": "b4cktoreality",
-      "trust": 10,
-      "timestamp": 1745524058
-    },
-    {
-      "source": "XExcalibur333",
-      "target": "RedPandaKoala",
-      "trust": 10,
-      "timestamp": 1745525808
-    },
-    {
-      "source": "combatinsight",
-      "target": "MizzMisanthrope",
-      "trust": 20,
-      "timestamp": 1745526113
-    },
-    {
-      "source": "19k0011",
-      "target": "Baptiste_Fri",
-      "trust": 20,
-      "timestamp": 1745528273
-    },
-    {
-      "source": "GabeTruthseeker",
-      "target": "michaelshermer",
-      "trust": 15,
-      "timestamp": 1745530324
-    },
-    {
-      "source": "BlueshiftRadio",
-      "target": "GeologicalSETI",
-      "trust": 100,
-      "timestamp": 1745539216
-    },
-    {
-      "source": "Shwinnx",
-      "target": "MFungi369",
-      "trust": 10,
-      "timestamp": 1745540745
-    },
-    {
-      "source": "issaufo",
-      "target": "The_Astral_",
-      "trust": 10,
-      "timestamp": 1745545249
-    },
-    {
-      "source": "ufoofinterest",
-      "target": "DocAlienista",
-      "trust": 20,
-      "timestamp": 1745546898
-    },
-    {
-      "source": "FILIUM_PATRIS",
-      "target": "UFOCollage",
-      "trust": 10,
-      "timestamp": 1745553236
-    },
-    {
-      "source": "zcichy",
-      "target": "SPOOOKYUFO",
-      "trust": 10,
-      "timestamp": 1745554390
-    },
-    {
-      "source": "s36371222",
-      "target": "LehtoFiles",
-      "trust": 10,
-      "timestamp": 1745555921
-    },
-    {
-      "source": "0mega_Point",
-      "target": "LMG_PRODUCTION",
-      "trust": 20,
-      "timestamp": 1745559898
-    },
-    {
-      "source": "KnightsGloryy",
-      "target": "LuAngeles",
-      "trust": 10,
-      "timestamp": 1745559954
-    },
-    {
-      "source": "FILIUM_PATRIS",
-      "target": "GemaLozan",
-      "trust": 20,
-      "timestamp": 1745559957
-    },
-    {
-      "source": "UFODebrief",
-      "target": "OSIRISUAP",
-      "trust": 20,
-      "timestamp": 1745577936
-    },
-    {
-      "source": "FILIUM_PATRIS",
-      "target": "SmartlyUneducat",
-      "trust": 10,
-      "timestamp": 1745578073
-    },
-    {
-      "source": "OSIRISUAP",
       "target": "DarkstarIE",
       "trust": 10,
-      "timestamp": 1745578154
-    },
-    {
-      "source": "AeroTech_Space",
-      "target": "alextopol",
-      "trust": 10,
-      "timestamp": 1745579761
-    },
-    {
-      "source": "devgru1980mi",
-      "target": "randomtweetor",
-      "trust": 20,
-      "timestamp": 1745585527
-    },
-    {
-      "source": "FLVinny",
-      "target": "cinematicfever",
-      "trust": 10,
-      "timestamp": 1745587668
-    },
-    {
-      "source": "UAPJames",
-      "target": "randomtweetor",
-      "trust": 10,
-      "timestamp": 1745597184
-    },
-    {
-      "source": "RyanSprague51",
-      "target": "ParaN_rmal",
-      "trust": 20,
-      "timestamp": 1745600186
-    },
-    {
-      "source": "KelanderthalMan",
-      "target": "combatinsight",
-      "trust": 10,
-      "timestamp": 1745600310
-    },
-    {
-      "source": "KelanderthalMan",
-      "target": "wouilisam",
-      "trust": 10,
-      "timestamp": 1745606691
-    },
-    {
-      "source": "DCharles30",
-      "target": "TST___Radio",
-      "trust": 10,
-      "timestamp": 1745606717
-    },
-    {
-      "source": "GabeTruthseeker",
-      "target": "DarkstarIE",
-      "trust": 25,
-      "timestamp": 1745608973
-    },
-    {
-      "source": "UAPJames",
-      "target": "darkjournalist",
-      "trust": 10,
-      "timestamp": 1745609577
-    },
-    {
-      "source": "ThisGuyCTE",
-      "target": "LMG_PRODUCTION",
-      "trust": 10,
-      "timestamp": 1745616876
-    },
-    {
-      "source": "WolfShieldRam",
-      "target": "wouilisam",
-      "trust": 10,
-      "timestamp": 1745618380
-    },
-    {
-      "source": "WhoshotyaCo",
-      "target": "disgustipated42",
-      "trust": 10,
-      "timestamp": 1745619134
-    },
-    {
-      "source": "GeologicalSETI",
-      "target": "AeroTech_Space",
-      "trust": 90,
-      "timestamp": 1745619218
-    },
-    {
-      "source": "GodSawUs",
-      "target": "Baptiste_Fri",
-      "trust": 60,
-      "timestamp": 1745623476
-    },
-    {
-      "source": "CourtneyLeffall",
-      "target": "InTheShed4",
-      "trust": 40,
-      "timestamp": 1745625039
-    },
-    {
-      "source": "darkjournalist",
-      "target": "FlyaEther33",
-      "trust": 90,
-      "timestamp": 1745625642
-    },
-    {
-      "source": "TheUAPShow",
-      "target": "billynboys23",
-      "trust": 10,
-      "timestamp": 1745629049
-    },
-    {
-      "source": "69Skoal69",
-      "target": "Deepneuron",
-      "trust": 10,
-      "timestamp": 1745632765
-    },
-    {
-      "source": "DStateRespTeam",
-      "target": "FlyaEther33",
-      "trust": 20,
-      "timestamp": 1745638768
-    },
-    {
-      "source": "UAPJames",
-      "target": "KelanderthalMan",
-      "trust": 10,
-      "timestamp": 1745641968
-    },
-    {
-      "source": "s36371222",
-      "target": "GiavedoniEric",
-      "trust": 5,
-      "timestamp": 1745650008
-    },
-    {
-      "source": "ParaN_rmal",
-      "target": "InTheShed4",
-      "trust": 10,
-      "timestamp": 1745655772
-    },
-    {
-      "source": "JustXAshton",
-      "target": "LuAngeles",
-      "trust": 10,
-      "timestamp": 1745658754
-    },
-    {
-      "source": "keeptxtx",
-      "target": "ImminentDisclsr",
-      "trust": 80,
-      "timestamp": 1745659221
-    },
-    {
-      "source": "MizzMisanthrope",
-      "target": "htTweets",
-      "trust": 10,
-      "timestamp": 1745659438
-    },
-    {
-      "source": "StevenCambian",
-      "target": "WhoshotyaCo",
-      "trust": 100,
-      "timestamp": 1745659581
-    },
-    {
-      "source": "DocAlienista",
-      "target": "ADelarge60",
-      "trust": 20,
-      "timestamp": 1745667664
-    },
-    {
-      "source": "JustXAshton",
-      "target": "billynboys23",
-      "trust": 85,
-      "timestamp": 1745670223
-    },
-    {
-      "source": "TimeCommandHQ",
-      "target": "VictorG_45",
-      "trust": 10,
-      "timestamp": 1745672117
-    },
-    {
-      "source": "MiddleOfMayhem",
-      "target": "GiavedoniEric",
-      "trust": 10,
-      "timestamp": 1745675428
-    },
-    {
-      "source": "michaelshermer",
-      "target": "KnightsGloryy",
-      "trust": 10,
-      "timestamp": 1745677343
-    },
-    {
-      "source": "b4cktoreality",
-      "target": "Docneuroeo",
-      "trust": 90,
-      "timestamp": 1745680989
-    },
-    {
-      "source": "AnxWhisperer",
-      "target": "keeptxtx",
-      "trust": 60,
-      "timestamp": 1745685180
-    },
-    {
-      "source": "VictorG_45",
-      "target": "KnightsGloryy",
-      "trust": 60,
-      "timestamp": 1745700546
-    },
-    {
-      "source": "wouilisam",
-      "target": "ADelarge60",
-      "trust": 10,
-      "timestamp": 1745704660
-    },
-    {
-      "source": "BlueshiftRadio",
-      "target": "et_alien_uap",
-      "trust": 10,
-      "timestamp": 1745704814
-    },
-    {
-      "source": "ChrisUKSharp",
-      "target": "billynboys23",
-      "trust": 10,
-      "timestamp": 1745707340
-    },
-    {
-      "source": "Gchan45591268",
-      "target": "3xceptional1886",
-      "trust": 10,
-      "timestamp": 1745708976
-    },
-    {
-      "source": "et_alien_uap",
-      "target": "AeroTech_Space",
-      "trust": 10,
-      "timestamp": 1745714282
-    },
-    {
-      "source": "SomewhereSkies",
-      "target": "HighPeaks77",
-      "trust": 70,
-      "timestamp": 1745715752
-    },
-    {
-      "source": "zcichy",
-      "target": "GiavedoniEric",
-      "trust": 10,
-      "timestamp": 1745718050
-    },
-    {
-      "source": "DStateRespTeam",
-      "target": "TheUAPShow",
-      "trust": 20,
-      "timestamp": 1745727691
-    },
-    {
-      "source": "AdamGenesisEden",
-      "target": "gdechico2",
-      "trust": 5,
-      "timestamp": 1745728129
-    },
-    {
-      "source": "TheProjectUnity",
-      "target": "VettedPodcast",
-      "trust": 10,
-      "timestamp": 1745732202
-    },
-    {
-      "source": "Truthistruth369",
-      "target": "horror__guy",
-      "trust": 15,
-      "timestamp": 1745736318
-    },
-    {
-      "source": "TUPACABRA2",
-      "target": "LuAngeles",
-      "trust": 85,
-      "timestamp": 1745740198
-    },
-    {
-      "source": "DynomiteBizQuit",
-      "target": "possiblygnostic",
-      "trust": 10,
-      "timestamp": 1745742617
-    },
-    {
-      "source": "0mega_Point",
-      "target": "el_kowalsky",
-      "trust": 20,
-      "timestamp": 1745743334
-    },
-    {
-      "source": "ChrisUKSharp",
-      "target": "randomtweetor",
-      "trust": 10,
-      "timestamp": 1745751141
-    },
-    {
-      "source": "StevenCambian",
-      "target": "opngate",
-      "trust": 10,
-      "timestamp": 1745752614
-    },
-    {
-      "source": "TheScottyRaby",
-      "target": "Baptiste_Fri",
-      "trust": 5,
-      "timestamp": 1745754602
-    },
-    {
-      "source": "TurtleOfTime12",
-      "target": "LueElizondo",
-      "trust": 15,
-      "timestamp": 1745757165
-    },
-    {
-      "source": "ChrisUKSharp",
-      "target": "bennibennasi01",
-      "trust": 10,
-      "timestamp": 1745760602
-    },
-    {
-      "source": "FlyaEther33",
-      "target": "TimeCommandHQ",
-      "trust": 10,
-      "timestamp": 1745761842
-    },
-    {
-      "source": "et_alien_uap",
-      "target": "goodmorningufo",
-      "trust": 60,
-      "timestamp": 1745771043
-    },
-    {
-      "source": "darkjournalist",
-      "target": "GoodTroubleShow",
-      "trust": 5,
-      "timestamp": 1745777996
-    },
-    {
-      "source": "DotherowDa71497",
-      "target": "TimeCommandHQ",
-      "trust": 10,
-      "timestamp": 1745785934
-    },
-    {
-      "source": "KnightsGloryy",
-      "target": "FILIUM_PATRIS",
-      "trust": 10,
-      "timestamp": 1745794362
-    },
-    {
-      "source": "ufoofinterest",
-      "target": "randomtweetor",
-      "trust": 75,
-      "timestamp": 1745796482
-    },
-    {
-      "source": "Btc4thepeople",
-      "target": "kingdom_pioneer",
-      "trust": 20,
-      "timestamp": 1745798239
-    },
-    {
-      "source": "AAWSAPRocky",
-      "target": "DarkstarIE",
-      "trust": 60,
-      "timestamp": 1745798417
-    },
-    {
-      "source": "TurtleOfTime12",
-      "target": "gdechico2",
-      "trust": 10,
-      "timestamp": 1745800109
-    },
-    {
-      "source": "VettedPodcast",
-      "target": "serpoprojectaus",
-      "trust": 70,
-      "timestamp": 1745800683
-    },
-    {
-      "source": "SPOOOKYUFO",
-      "target": "Truthistruth369",
-      "trust": 10,
-      "timestamp": 1745805947
-    },
-    {
-      "source": "ParaN_rmal",
-      "target": "UAPReportingCnt",
-      "trust": 10,
-      "timestamp": 1745806025
-    },
-    {
-      "source": "Salahald1n",
-      "target": "19k0011",
-      "trust": 60,
-      "timestamp": 1745822193
-    },
-    {
-      "source": "JoeyIsntMyName",
-      "target": "Casual_Lynx",
-      "trust": 10,
-      "timestamp": 1745824811
-    },
-    {
-      "source": "DynomiteBizQuit",
-      "target": "0mega_Point",
-      "trust": 70,
-      "timestamp": 1745826552
-    },
-    {
-      "source": "DeJaVu2U2",
-      "target": "UAPReportingCnt",
-      "trust": 10,
-      "timestamp": 1745837969
-    },
-    {
-      "source": "MizzMisanthrope",
-      "target": "JonestechDev",
-      "trust": 60,
-      "timestamp": 1745840147
-    },
-    {
-      "source": "GodSawUs",
-      "target": "19k0011",
-      "trust": 25,
-      "timestamp": 1745844451
-    },
-    {
-      "source": "LibertyUAP",
-      "target": "JoeyIsntMyName",
-      "trust": 10,
-      "timestamp": 1745851554
-    },
-    {
-      "source": "wouilisam",
-      "target": "htTweets",
-      "trust": 75,
-      "timestamp": 1745851670
-    },
-    {
-      "source": "horror__guy",
-      "target": "VictorG_45",
-      "trust": 10,
-      "timestamp": 1745857450
-    },
-    {
-      "source": "wiel_jade",
-      "target": "InTheShed4",
-      "trust": 60,
-      "timestamp": 1745866564
-    },
-    {
-      "source": "kingdom_pioneer",
-      "target": "planethunter56",
-      "trust": 60,
-      "timestamp": 1745872704
-    },
-    {
-      "source": "MizzMisanthrope",
-      "target": "MichelVan4",
-      "trust": 10,
-      "timestamp": 1745874020
-    },
-    {
-      "source": "JettRink1956",
-      "target": "Deepneuron",
-      "trust": 10,
-      "timestamp": 1745879631
-    },
-    {
-      "source": "XExcalibur333",
-      "target": "wiel_jade",
-      "trust": 20,
-      "timestamp": 1745891290
-    },
-    {
-      "source": "JonMajerowski",
-      "target": "serpoprojectaus",
-      "trust": 75,
-      "timestamp": 1745895032
-    },
-    {
-      "source": "gdechico2",
-      "target": "Baptiste_Fri",
-      "trust": 10,
-      "timestamp": 1745895038
-    },
-    {
-      "source": "L_Y_E_S_H",
-      "target": "arrowbombadil",
-      "trust": 20,
-      "timestamp": 1745896850
-    },
-    {
-      "source": "GemaLozan",
-      "target": "wow36932525",
-      "trust": 60,
-      "timestamp": 1745897558
-    },
-    {
-      "source": "AeroTech_Space",
-      "target": "StevenCambian",
-      "trust": 85,
-      "timestamp": 1745899223
-    },
-    {
-      "source": "OSIRISUAP",
-      "target": "HighPeaks77",
-      "trust": 10,
-      "timestamp": 1745900698
-    },
-    {
-      "source": "AdamGenesisEden",
-      "target": "Gandalf_ElPulpo",
-      "trust": 5,
-      "timestamp": 1745901960
-    },
-    {
-      "source": "SimulatedLion",
-      "target": "KnightsGloryy",
-      "trust": 10,
-      "timestamp": 1745902273
-    },
-    {
-      "source": "possiblygnostic",
-      "target": "LuAngeles",
-      "trust": 10,
-      "timestamp": 1745904173
-    },
-    {
-      "source": "ufoofinterest",
-      "target": "Ekklectico",
-      "trust": 20,
-      "timestamp": 1745914496
-    },
-    {
-      "source": "Marc_La_Rock",
-      "target": "CourtneyLeffall",
-      "trust": 50,
-      "timestamp": 1745915081
-    },
-    {
-      "source": "CourtneyLeffall",
-      "target": "TheProjectUnity",
-      "trust": 10,
-      "timestamp": 1745915668
-    },
-    {
-      "source": "GoodTroubleShow",
-      "target": "GeologicalSETI",
-      "trust": 10,
-      "timestamp": 1745926576
-    },
-    {
-      "source": "GeologicalSETI",
-      "target": "19k0011",
-      "trust": 25,
-      "timestamp": 1745937390
-    },
-    {
-      "source": "GemaLozan",
-      "target": "NickMadrid16",
-      "trust": 60,
-      "timestamp": 1745938019
-    },
-    {
-      "source": "Shwinnx",
-      "target": "horror__guy",
-      "trust": 5,
-      "timestamp": 1745943152
-    },
-    {
-      "source": "bryceduncan13",
-      "target": "ChrisUKSharp",
-      "trust": 5,
-      "timestamp": 1745943679
-    },
-    {
-      "source": "TheProjectUnity",
-      "target": "OEFTF11",
-      "trust": 10,
-      "timestamp": 1745945652
-    },
-    {
-      "source": "RedPandaKoala",
-      "target": "LueElizondo",
-      "trust": 65,
-      "timestamp": 1745962295
-    },
-    {
-      "source": "GeologicalSETI",
-      "target": "ArdamirofArda",
-      "trust": 20,
-      "timestamp": 1745968561
-    },
-    {
-      "source": "SPOOOKYUFO",
-      "target": "SomewhereSkies",
-      "trust": 70,
-      "timestamp": 1745972696
-    },
-    {
-      "source": "LMG_PRODUCTION",
-      "target": "disgustipated42",
-      "trust": 5,
-      "timestamp": 1745973246
-    },
-    {
-      "source": "SimulatedLion",
-      "target": "MiddleOfMayhem",
-      "trust": 75,
-      "timestamp": 1745984366
-    },
-    {
-      "source": "likeitmatters3",
-      "target": "TST___Radio",
-      "trust": 10,
-      "timestamp": 1745986865
-    },
-    {
-      "source": "LuAngeles",
-      "target": "FeeFiFoFum1995",
-      "trust": 10,
-      "timestamp": 1745994055
-    },
-    {
-      "source": "AeroTech_Space",
-      "target": "disgustipated42",
-      "trust": 5,
-      "timestamp": 1745998243
-    },
-    {
-      "source": "DynomiteBizQuit",
-      "target": "DocAlienista",
-      "trust": 10,
-      "timestamp": 1746000671
-    },
-    {
-      "source": "JettRink1956",
-      "target": "billynboys23",
-      "trust": 10,
-      "timestamp": 1746002144
-    },
-    {
-      "source": "SmartlyUneducat",
-      "target": "OSIRISUAP",
-      "trust": 10,
-      "timestamp": 1746006267
-    },
-    {
-      "source": "Salahald1n",
-      "target": "Knoxcat55",
-      "trust": 10,
-      "timestamp": 1746008955
-    },
-    {
-      "source": "Truthistruth369",
-      "target": "LueElizondo",
-      "trust": 20,
-      "timestamp": 1746009786
-    },
-    {
-      "source": "LMG_PRODUCTION",
-      "target": "serpoprojectaus",
-      "trust": 10,
-      "timestamp": 1746025912
-    },
-    {
-      "source": "TUPACABRA2",
-      "target": "BlueshiftRadio",
-      "trust": 85,
-      "timestamp": 1746029627
-    },
-    {
-      "source": "dave_beaty",
-      "target": "issaufo",
-      "trust": 10,
-      "timestamp": 1746032304
-    },
-    {
-      "source": "JonestechDev",
-      "target": "TheScottyRaby",
-      "trust": 15,
-      "timestamp": 1746036973
-    },
-    {
-      "source": "HoverBrothers",
-      "target": "GoodTroubleShow",
-      "trust": 5,
-      "timestamp": 1746045152
-    },
-    {
-      "source": "gdechico2",
-      "target": "zcichy",
-      "trust": 10,
-      "timestamp": 1746048900
-    },
-    {
-      "source": "GoodTroubleShow",
-      "target": "missj75",
-      "trust": 75,
-      "timestamp": 1746051710
-    },
-    {
-      "source": "alextopol",
-      "target": "RyanSprague51",
-      "trust": 10,
-      "timestamp": 1746052178
-    },
-    {
-      "source": "TheUAPShow",
-      "target": "DarkstarIE",
-      "trust": 70,
-      "timestamp": 1746054589
-    },
-    {
-      "source": "GiavedoniEric",
-      "target": "StevenCambian",
-      "trust": 10,
-      "timestamp": 1746064171
-    },
-    {
-      "source": "Dalerob62",
-      "target": "likeitmatters3",
-      "trust": 20,
-      "timestamp": 1746072389
-    },
-    {
-      "source": "ArdamirofArda",
-      "target": "arrowbombadil",
-      "trust": 10,
-      "timestamp": 1746077427
-    },
-    {
-      "source": "wiel_jade",
-      "target": "HoverBrothers",
-      "trust": 10,
-      "timestamp": 1746078238
-    },
-    {
-      "source": "TheScottyRaby",
-      "target": "Gandalf_ElPulpo",
-      "trust": 10,
-      "timestamp": 1746082469
-    },
-    {
-      "source": "MichelVan4",
-      "target": "NickMadrid16",
-      "trust": 10,
-      "timestamp": 1746089810
-    },
-    {
-      "source": "MiddleOfMayhem",
-      "target": "HighPeaks77",
-      "trust": 5,
-      "timestamp": 1746090029
-    },
-    {
-      "source": "StevenCambian",
-      "target": "wouilisam",
-      "trust": 10,
-      "timestamp": 1746092058
-    },
-    {
-      "source": "ChaoticGood42_",
-      "target": "FeeFiFoFum1995",
-      "trust": 90,
-      "timestamp": 1746095194
-    },
-    {
-      "source": "TimeCommandHQ",
-      "target": "AdamGenesisEden",
-      "trust": 5,
-      "timestamp": 1746096002
-    },
-    {
-      "source": "Jim87504388",
-      "target": "FLVinny",
-      "trust": 10,
-      "timestamp": 1746098088
-    },
-    {
-      "source": "Baptiste_Fri",
-      "target": "disgustipated42",
-      "trust": 90,
-      "timestamp": 1746098912
-    },
-    {
-      "source": "UAPReportingCnt",
-      "target": "wow36932525",
-      "trust": 75,
-      "timestamp": 1746106851
-    },
-    {
-      "source": "GrantLavac",
-      "target": "gdechico2",
-      "trust": 10,
-      "timestamp": 1746111494
-    },
-    {
-      "source": "kingdom_pioneer",
-      "target": "gdechico2",
-      "trust": 10,
-      "timestamp": 1746115005
-    },
-    {
-      "source": "GrantLavac",
-      "target": "HoverBrothers",
-      "trust": 10,
-      "timestamp": 1746115731
-    },
-    {
-      "source": "OEFTF11",
-      "target": "MichelVan4",
-      "trust": 10,
-      "timestamp": 1746120151
-    },
-    {
-      "source": "JustXAshton",
-      "target": "Casual_Lynx",
-      "trust": 0,
-      "timestamp": 1746124072
-    },
-    {
-      "source": "GrantLavac",
-      "target": "OMApproach",
-      "trust": 10,
-      "timestamp": 1746126683
-    },
-    {
-      "source": "InTheShed4",
-      "target": "randomtweetor",
-      "trust": 10,
-      "timestamp": 1746126902
-    },
-    {
-      "source": "Docneuroeo",
-      "target": "Gchan45591268",
-      "trust": 10,
-      "timestamp": 1746129563
-    },
-    {
-      "source": "combatinsight",
-      "target": "horror__guy",
-      "trust": 10,
-      "timestamp": 1746134097
-    },
-    {
-      "source": "JonestechDev",
-      "target": "ADelarge60",
-      "trust": 70,
-      "timestamp": 1746139133
-    },
-    {
-      "source": "revistaANOCERO",
-      "target": "SimulatedLion",
-      "trust": 20,
-      "timestamp": 1746145064
-    },
-    {
-      "source": "VettedPodcast",
-      "target": "AllPlanets",
-      "trust": 10,
-      "timestamp": 1746151213
-    },
-    {
-      "source": "dave_beaty",
-      "target": "SmartlyUneducat",
-      "trust": 10,
-      "timestamp": 1746154608
-    },
-    {
-      "source": "billynboys23",
-      "target": "ArdamirofArda",
-      "trust": 10,
-      "timestamp": 1746154675
-    },
-    {
-      "source": "InTheShed4",
-      "target": "DStateRespTeam",
-      "trust": 10,
-      "timestamp": 1746161853
-    },
-    {
-      "source": "Salahald1n",
-      "target": "GabeTruthseeker",
-      "trust": 50,
-      "timestamp": 1746164590
-    },
-    {
-      "source": "Ekklectico",
-      "target": "LMG_PRODUCTION",
-      "trust": 10,
-      "timestamp": 1746165943
-    },
-    {
-      "source": "LuAngeles",
-      "target": "arrowbombadil",
-      "trust": 10,
-      "timestamp": 1746166207
-    },
-    {
-      "source": "FLVinny",
-      "target": "bryceduncan13",
-      "trust": 90,
-      "timestamp": 1746166992
-    },
-    {
-      "source": "UAPJames",
-      "target": "Jim87504388",
-      "trust": 10,
-      "timestamp": 1746174660
-    },
-    {
-      "source": "kingdom_pioneer",
-      "target": "TheUAPShow",
-      "trust": 75,
-      "timestamp": 1746175646
-    },
-    {
-      "source": "Knoxcat55",
-      "target": "3xceptional1886",
-      "trust": 60,
-      "timestamp": 1746183984
-    },
-    {
-      "source": "wow36932525",
-      "target": "KnightsGloryy",
-      "trust": 20,
-      "timestamp": 1746191981
-    },
-    {
-      "source": "JettRink1956",
-      "target": "MichelVan4",
-      "trust": 10,
-      "timestamp": 1746193057
-    },
-    {
-      "source": "DCharles30",
-      "target": "TurtleOfTime12",
-      "trust": 10,
-      "timestamp": 1746194839
-    },
-    {
-      "source": "MickWest",
-      "target": "The_Astral_",
-      "trust": 75,
-      "timestamp": 1746195959
-    },
-    {
-      "source": "gdechico2",
-      "target": "GodSawUs",
-      "trust": 10,
-      "timestamp": 1746198654
-    },
-    {
-      "source": "Ekklectico",
-      "target": "The_Astral_",
-      "trust": 60,
-      "timestamp": 1746198972
-    },
-    {
-      "source": "darkjournalist",
-      "target": "CourtneyLeffall",
-      "trust": 10,
-      "timestamp": 1746199005
-    },
-    {
-      "source": "Btc4thepeople",
-      "target": "AAWSAPRocky",
-      "trust": 60,
-      "timestamp": 1746200251
-    },
-    {
-      "source": "AllPlanets",
-      "target": "serpoprojectaus",
-      "trust": 70,
-      "timestamp": 1746204552
-    },
-    {
-      "source": "combatinsight",
-      "target": "OEFTF11",
-      "trust": 75,
-      "timestamp": 1746210543
-    },
-    {
-      "source": "K8568088581417",
-      "target": "TUPACABRA2",
-      "trust": 20,
-      "timestamp": 1746210918
-    },
-    {
-      "source": "EricBurlison",
-      "target": "combatinsight",
-      "trust": 50,
-      "timestamp": 1746212157
-    },
-    {
-      "source": "UFODebrief",
-      "target": "goodmorningufo",
-      "trust": 10,
-      "timestamp": 1746215257
-    },
-    {
-      "source": "shotdownmind",
-      "target": "K8568088581417",
-      "trust": 90,
-      "timestamp": 1746220392
-    },
-    {
-      "source": "VictorG_45",
-      "target": "htTweets",
-      "trust": 20,
-      "timestamp": 1746223090
-    },
-    {
-      "source": "FettuccineSplit",
-      "target": "RobHeatherly1",
-      "trust": 75,
-      "timestamp": 1746231130
-    },
-    {
-      "source": "JonMajerowski",
-      "target": "Deepneuron",
-      "trust": 80,
-      "timestamp": 1746233551
-    },
-    {
-      "source": "LueElizondo",
-      "target": "fringequest",
-      "trust": 20,
-      "timestamp": 1746240813
-    },
-    {
-      "source": "JonMajerowski",
-      "target": "b4cktoreality",
-      "trust": 10,
-      "timestamp": 1746241204
-    },
-    {
-      "source": "ThisGuyCTE",
-      "target": "cinematicfever",
-      "trust": 20,
-      "timestamp": 1746242922
-    },
-    {
-      "source": "Dalerob62",
-      "target": "b4cktoreality",
-      "trust": 10,
-      "timestamp": 1746246563
-    },
-    {
-      "source": "DrAtsabNikcuf",
-      "target": "Docneuroeo",
-      "trust": 10,
-      "timestamp": 1746251057
-    },
-    {
-      "source": "DotherowDa71497",
-      "target": "htTweets",
-      "trust": 5,
-      "timestamp": 1746260814
-    },
-    {
-      "source": "bryceduncan13",
-      "target": "69Skoal69",
-      "trust": 5,
-      "timestamp": 1746263040
-    },
-    {
-      "source": "MichelVan4",
-      "target": "VictorG_45",
-      "trust": 20,
-      "timestamp": 1746263678
-    },
-    {
-      "source": "ImminentDisclsr",
-      "target": "GoodTroubleShow",
-      "trust": 75,
-      "timestamp": 1746267961
-    },
-    {
-      "source": "MFungi369",
-      "target": "issaufo",
-      "trust": 10,
-      "timestamp": 1746271775
-    },
-    {
-      "source": "ChaoticGood42_",
-      "target": "RealArea503",
-      "trust": 10,
-      "timestamp": 1746273271
-    },
-    {
-      "source": "DCharles30",
-      "target": "LMG_PRODUCTION",
-      "trust": 10,
-      "timestamp": 1746273350
-    },
-    {
-      "source": "RedPandaKoala",
-      "target": "GoodTroubleShow",
-      "trust": 70,
-      "timestamp": 1746281639
-    },
-    {
-      "source": "fringequest",
-      "target": "Salahald1n",
-      "trust": 10,
-      "timestamp": 1746284327
-    },
-    {
-      "source": "fringequest",
-      "target": "VictorG_45",
-      "trust": 15,
-      "timestamp": 1746288036
-    },
-    {
-      "source": "MichelVan4",
-      "target": "Salahald1n",
-      "trust": 10,
-      "timestamp": 1746291874
-    },
-    {
-      "source": "MickWest",
-      "target": "UAPJames",
-      "trust": 70,
-      "timestamp": 1746296580
-    },
-    {
-      "source": "serpopro",
-      "target": "JustXAshton",
-      "trust": 10,
-      "timestamp": 1746297709
-    },
-    {
-      "source": "ThisGuyCTE",
-      "target": "el_kowalsky",
-      "trust": 10,
-      "timestamp": 1746300167
-    },
-    {
-      "source": "s36371222",
-      "target": "JettRink1956",
-      "trust": 75,
-      "timestamp": 1746301508
-    },
-    {
-      "source": "SimulatedLion",
-      "target": "Docneuroeo",
-      "trust": 100,
-      "timestamp": 1746307660
-    },
-    {
-      "source": "AnxWhisperer",
-      "target": "wow36932525",
-      "trust": 90,
-      "timestamp": 1746316852
-    },
-    {
-      "source": "NickMadrid16",
-      "target": "UFOCollage",
-      "trust": 70,
-      "timestamp": 1746317933
-    },
-    {
-      "source": "michaelshermer",
-      "target": "bennibennasi01",
-      "trust": 10,
-      "timestamp": 1746318800
-    },
-    {
-      "source": "possiblygnostic",
-      "target": "The_Astral_",
-      "trust": 10,
-      "timestamp": 1746323769
-    },
-    {
-      "source": "wiel_jade",
-      "target": "BlueshiftRadio",
-      "trust": 20,
-      "timestamp": 1746327760
-    },
-    {
-      "source": "LibertyUAP",
-      "target": "69Skoal69",
-      "trust": 10,
-      "timestamp": 1746339945
-    },
-    {
-      "source": "GiavedoniEric",
-      "target": "SPOOOKYUFO",
-      "trust": 90,
-      "timestamp": 1746351187
-    },
-    {
-      "source": "69Skoal69",
-      "target": "GeologicalSETI",
-      "trust": 15,
-      "timestamp": 1746351251
-    },
-    {
-      "source": "L_Y_E_S_H",
-      "target": "ThisGuyCTE",
-      "trust": 20,
-      "timestamp": 1746362130
-    },
-    {
-      "source": "JettRink1956",
-      "target": "ImminentDisclsr",
-      "trust": 20,
-      "timestamp": 1746364567
-    },
-    {
-      "source": "dave_beaty",
-      "target": "StevenCambian",
-      "trust": 10,
-      "timestamp": 1746365175
-    },
-    {
-      "source": "TurtleOfTime12",
-      "target": "Casual_Lynx",
-      "trust": 10,
-      "timestamp": 1746380725
-    },
-    {
-      "source": "KelanderthalMan",
-      "target": "Marc_La_Rock",
-      "trust": 90,
-      "timestamp": 1746384442
-    },
-    {
-      "source": "SomewhereSkies",
-      "target": "AnxWhisperer",
-      "trust": 75,
-      "timestamp": 1746386045
-    },
-    {
-      "source": "ChrisUKSharp",
-      "target": "OSIRISUAP",
-      "trust": 10,
-      "timestamp": 1746388391
-    },
-    {
-      "source": "DotherowDa71497",
-      "target": "BlueshiftRadio",
-      "trust": 85,
-      "timestamp": 1746390922
-    },
-    {
-      "source": "Marc_La_Rock",
-      "target": "TheScottyRaby",
-      "trust": 85,
-      "timestamp": 1746393130
-    },
-    {
-      "source": "Knoxcat55",
-      "target": "AdamGenesisEden",
-      "trust": 75,
-      "timestamp": 1746400375
-    },
-    {
-      "source": "UFOCollage",
-      "target": "VettedPodcast",
-      "trust": 90,
-      "timestamp": 1746405402
-    },
-    {
-      "source": "Baptiste_Fri",
-      "target": "Gchan45591268",
-      "trust": 10,
-      "timestamp": 1746411498
-    },
-    {
-      "source": "JoeyIsntMyName",
-      "target": "GeologicalSETI",
-      "trust": 75,
-      "timestamp": 1746412036
-    },
-    {
-      "source": "KnightsGloryy",
-      "target": "dave_beaty",
-      "trust": 90,
-      "timestamp": 1746413008
-    },
-    {
-      "source": "FettuccineSplit",
-      "target": "CourtneyLeffall",
-      "trust": 60,
-      "timestamp": 1746416625
-    },
-    {
-      "source": "s36371222",
-      "target": "The_Astral_",
-      "trust": 10,
-      "timestamp": 1746438372
-    },
-    {
-      "source": "GrantLavac",
-      "target": "Gchan45591268",
-      "trust": 0,
-      "timestamp": 1746438669
-    },
-    {
-      "source": "UAPReportingCnt",
-      "target": "goodmorningufo",
-      "trust": 60,
-      "timestamp": 1746445761
-    },
-    {
-      "source": "combatinsight",
-      "target": "AllPlanets",
-      "trust": 85,
-      "timestamp": 1746447540
-    },
-    {
-      "source": "revistaANOCERO",
-      "target": "Gandalf_ElPulpo",
-      "trust": 85,
-      "timestamp": 1746449254
-    },
-    {
-      "source": "Dalerob62",
-      "target": "kingdom_pioneer",
-      "trust": 10,
-      "timestamp": 1746453148
-    },
-    {
-      "source": "fringequest",
-      "target": "billynboys23",
-      "trust": 10,
-      "timestamp": 1746460467
-    },
-    {
-      "source": "JoeyIsntMyName",
-      "target": "fringequest",
-      "trust": 10,
-      "timestamp": 1746462133
-    },
-    {
-      "source": "Jim87504388",
-      "target": "GrantLavac",
-      "trust": 10,
-      "timestamp": 1746466371
-    },
-    {
-      "source": "KnightsGloryy",
-      "target": "TurtleOfTime12",
-      "trust": 5,
-      "timestamp": 1746466747
-    },
-    {
-      "source": "Btc4thepeople",
-      "target": "DarkstarIE",
-      "trust": 10,
-      "timestamp": 1746473585
-    },
-    {
-      "source": "devgru1980mi",
-      "target": "TUPACABRA2",
-      "trust": 20,
-      "timestamp": 1746477559
-    },
-    {
-      "source": "Gandalf_ElPulpo",
-      "target": "billynboys23",
-      "trust": 10,
-      "timestamp": 1746478025
-    },
-    {
-      "source": "disgustipated42",
-      "target": "EricBurlison",
-      "trust": 80,
-      "timestamp": 1746479731
-    },
-    {
-      "source": "SPOOOKYUFO",
-      "target": "ImminentDisclsr",
-      "trust": 60,
-      "timestamp": 1746479866
-    },
-    {
-      "source": "randomtweetor",
-      "target": "serpopro",
-      "trust": 10,
-      "timestamp": 1746487556
-    },
-    {
-      "source": "alextopol",
-      "target": "dave_beaty",
-      "trust": 15,
-      "timestamp": 1746499084
-    },
-    {
-      "source": "69Skoal69",
-      "target": "billynboys23",
-      "trust": 100,
-      "timestamp": 1746510268
-    },
-    {
-      "source": "b4cktoreality",
-      "target": "ufoofinterest",
-      "trust": 20,
-      "timestamp": 1746517430
-    },
-    {
-      "source": "RyanSprague51",
-      "target": "michaelshermer",
-      "trust": 10,
-      "timestamp": 1746520595
-    },
-    {
-      "source": "zcichy",
-      "target": "Ekklectico",
-      "trust": 10,
-      "timestamp": 1746521598
-    },
-    {
-      "source": "VictorG_45",
-      "target": "Dalerob62",
-      "trust": 10,
-      "timestamp": 1746522591
-    },
-    {
-      "source": "UAPJames",
-      "target": "69Skoal69",
-      "trust": 10,
-      "timestamp": 1746523718
-    },
-    {
-      "source": "opngate",
-      "target": "DStateRespTeam",
-      "trust": 60,
-      "timestamp": 1746530063
-    },
-    {
-      "source": "wouilisam",
-      "target": "3xceptional1886",
-      "trust": 60,
-      "timestamp": 1746533063
-    },
-    {
-      "source": "TST___Radio",
-      "target": "GabeTruthseeker",
-      "trust": 10,
-      "timestamp": 1746533238
-    },
-    {
-      "source": "VettedPodcast",
-      "target": "gdechico2",
-      "trust": 10,
-      "timestamp": 1746535933
-    },
-    {
-      "source": "ChaoticGood42_",
-      "target": "randomtweetor",
-      "trust": 10,
-      "timestamp": 1746538208
-    },
-    {
-      "source": "TheProjectUnity",
-      "target": "Docneuroeo",
-      "trust": 90,
-      "timestamp": 1746539486
-    },
-    {
-      "source": "WolfShieldRam",
-      "target": "ADelarge60",
-      "trust": 10,
-      "timestamp": 1746539594
-    },
-    {
-      "source": "FettuccineSplit",
-      "target": "SimulatedLion",
-      "trust": 10,
-      "timestamp": 1746540148
-    },
-    {
-      "source": "PostDisclosure",
-      "target": "ArdamirofArda",
-      "trust": 75,
-      "timestamp": 1746542580
-    },
-    {
-      "source": "FettuccineSplit",
-      "target": "19k0011",
-      "trust": 20,
-      "timestamp": 1746545760
-    },
-    {
-      "source": "RyanSprague51",
-      "target": "likeitmatters3",
-      "trust": 85,
-      "timestamp": 1746546141
-    },
-    {
-      "source": "serpopro",
-      "target": "serpoprojectaus",
-      "trust": 100,
-      "timestamp": 1746546792
-    },
-    {
-      "source": "devgru1980mi",
-      "target": "FeeFiFoFum1995",
-      "trust": 10,
-      "timestamp": 1746547192
-    },
-    {
-      "source": "FILIUM_PATRIS",
-      "target": "Docneuroeo",
-      "trust": 85,
-      "timestamp": 1746550632
-    },
-    {
-      "source": "el_kowalsky",
-      "target": "missj75",
-      "trust": 0,
-      "timestamp": 1746550646
-    },
-    {
-      "source": "HighPeaks77",
-      "target": "GemaLozan",
-      "trust": 30,
-      "timestamp": 1746552213
-    },
-    {
-      "source": "kingdom_pioneer",
-      "target": "WolfShieldRam",
-      "trust": 10,
-      "timestamp": 1746554698
-    },
-    {
-      "source": "JoeyIsntMyName",
-      "target": "FlyaEther33",
-      "trust": 10,
-      "timestamp": 1746558061
-    },
-    {
-      "source": "Casual_Lynx",
-      "target": "K8568088581417",
-      "trust": 10,
-      "timestamp": 1746560760
-    },
-    {
-      "source": "RealArea503",
-      "target": "SomewhereSkies",
-      "trust": 10,
-      "timestamp": 1746562612
-    },
-    {
-      "source": "planethunter56",
-      "target": "AeroTech_Space",
-      "trust": 10,
-      "timestamp": 1746564945
-    },
-    {
-      "source": "grok",
-      "target": "cinematicfever",
-      "trust": 10,
-      "timestamp": 1746576290
-    },
-    {
-      "source": "zcichy",
-      "target": "Deepneuron",
-      "trust": 10,
-      "timestamp": 1746580210
-    },
-    {
-      "source": "AdamGenesisEden",
-      "target": "DStateRespTeam",
-      "trust": 10,
-      "timestamp": 1746584599
-    },
-    {
-      "source": "missj75",
-      "target": "Shwinnx",
-      "trust": 5,
-      "timestamp": 1746595011
-    },
-    {
-      "source": "alextopol",
-      "target": "K8568088581417",
-      "trust": 10,
-      "timestamp": 1746602681
-    },
-    {
-      "source": "OEFTF11",
-      "target": "possiblygnostic",
-      "trust": 10,
-      "timestamp": 1746602720
-    },
-    {
-      "source": "StevenCambian",
-      "target": "RobHeatherly1",
-      "trust": 85,
-      "timestamp": 1746606211
-    },
-    {
-      "source": "DStateRespTeam",
-      "target": "Gandalf_ElPulpo",
-      "trust": 10,
-      "timestamp": 1746606662
-    },
-    {
-      "source": "issaufo",
-      "target": "ufoofinterest",
-      "trust": 70,
-      "timestamp": 1746610679
-    },
-    {
-      "source": "AnxWhisperer",
-      "target": "3xceptional1886",
-      "trust": 70,
-      "timestamp": 1746610848
-    },
-    {
-      "source": "TimeCommandHQ",
-      "target": "LehtoFiles",
-      "trust": 60,
-      "timestamp": 1746620273
-    },
-    {
-      "source": "WhoshotyaCo",
-      "target": "CourtneyLeffall",
-      "trust": 20,
-      "timestamp": 1746622377
-    },
-    {
-      "source": "horror__guy",
-      "target": "implicateflow",
-      "trust": 10,
-      "timestamp": 1746636575
-    },
-    {
-      "source": "keeptxtx",
-      "target": "JonMajerowski",
-      "trust": 60,
-      "timestamp": 1746649142
-    },
-    {
-      "source": "randomtweetor",
-      "target": "KelanderthalMan",
-      "trust": 75,
-      "timestamp": 1746655942
-    },
-    {
-      "source": "KelanderthalMan",
-      "target": "ImminentDisclsr",
-      "trust": 10,
-      "timestamp": 1746668570
-    },
-    {
-      "source": "s36371222",
-      "target": "dave_beaty",
-      "trust": 15,
-      "timestamp": 1746671998
-    },
-    {
-      "source": "Salahald1n",
-      "target": "gdechico2",
-      "trust": 20,
-      "timestamp": 1746674486
-    },
-    {
-      "source": "TheUAPShow",
-      "target": "LuAngeles",
-      "trust": 10,
-      "timestamp": 1746675765
-    },
-    {
-      "source": "DocAlienista",
-      "target": "LMG_PRODUCTION",
-      "trust": 10,
-      "timestamp": 1746677263
-    },
-    {
-      "source": "K8568088581417",
-      "target": "FILIUM_PATRIS",
-      "trust": 20,
-      "timestamp": 1746679969
-    },
-    {
-      "source": "DStateRespTeam",
-      "target": "TheProjectUnity",
-      "trust": 10,
-      "timestamp": 1746682118
-    },
-    {
-      "source": "TST___Radio",
-      "target": "alextopol",
-      "trust": 15,
-      "timestamp": 1746685414
-    },
-    {
-      "source": "Marc_La_Rock",
-      "target": "TheUAPShow",
-      "trust": 10,
-      "timestamp": 1746696644
-    },
-    {
-      "source": "AeroTech_Space",
-      "target": "UFODebrief",
-      "trust": 10,
-      "timestamp": 1746697064
-    },
-    {
-      "source": "ufoofinterest",
-      "target": "horror__guy",
-      "trust": 10,
-      "timestamp": 1746697869
-    },
-    {
-      "source": "et_alien_uap",
-      "target": "Knoxcat55",
-      "trust": 10,
-      "timestamp": 1746698387
-    },
-    {
-      "source": "VictorG_45",
-      "target": "LueElizondo",
-      "trust": 60,
-      "timestamp": 1746700002
-    },
-    {
-      "source": "OSIRISUAP",
-      "target": "combatinsight",
-      "trust": 10,
-      "timestamp": 1746700316
-    },
-    {
-      "source": "HighPeaks77",
-      "target": "zcichy",
-      "trust": 10,
-      "timestamp": 1746701864
-    },
-    {
-      "source": "cinematicfever",
-      "target": "GemaLozan",
-      "trust": 60,
-      "timestamp": 1746703181
-    },
-    {
-      "source": "TUPACABRA2",
-      "target": "SomewhereSkies",
-      "trust": 10,
-      "timestamp": 1746704109
-    },
-    {
-      "source": "billynboys23",
-      "target": "Shwinnx",
-      "trust": 5,
-      "timestamp": 1746705211
-    },
-    {
-      "source": "michaelshermer",
-      "target": "GiavedoniEric",
-      "trust": 5,
-      "timestamp": 1746714637
-    },
-    {
-      "source": "FeeFiFoFum1995",
-      "target": "FettuccineSplit",
-      "trust": 10,
-      "timestamp": 1746718637
-    },
-    {
-      "source": "Shwinnx",
-      "target": "Docneuroeo",
-      "trust": 15,
-      "timestamp": 1746723940
-    },
-    {
-      "source": "implicateflow",
-      "target": "Ekklectico",
-      "trust": 15,
-      "timestamp": 1746728219
-    },
-    {
-      "source": "disgustipated42",
-      "target": "InTheShed4",
-      "trust": 70,
-      "timestamp": 1746739578
-    },
-    {
-      "source": "JonMajerowski",
-      "target": "MFungi369",
-      "trust": 10,
-      "timestamp": 1746749163
-    },
-    {
-      "source": "AllPlanets",
-      "target": "Docneuroeo",
-      "trust": 90,
-      "timestamp": 1746752529
-    },
-    {
-      "source": "htTweets",
-      "target": "OEFTF11",
-      "trust": 30,
-      "timestamp": 1746757158
-    },
-    {
-      "source": "ArdamirofArda",
-      "target": "MichelVan4",
-      "trust": 10,
-      "timestamp": 1746757887
-    },
-    {
-      "source": "randomtweetor",
-      "target": "bryceduncan13",
-      "trust": 80,
-      "timestamp": 1746760742
-    },
-    {
-      "source": "0mega_Point",
-      "target": "disgustipated42",
-      "trust": 70,
-      "timestamp": 1746762011
-    },
-    {
-      "source": "Baptiste_Fri",
-      "target": "keeptxtx",
-      "trust": 70,
-      "timestamp": 1746762313
+      "timestamp": 1744557549
     },
     {
       "source": "z28mjt79",
-      "target": "alextopol",
+      "target": "FILIUM_PATRIS",
       "trust": 10,
-      "timestamp": 1746764980
-    },
-    {
-      "source": "SmartlyUneducat",
-      "target": "AeroTech_Space",
-      "trust": 10,
-      "timestamp": 1746766839
-    },
-    {
-      "source": "fringequest",
-      "target": "TST___Radio",
-      "trust": 15,
-      "timestamp": 1746771181
-    },
-    {
-      "source": "EricBurlison",
-      "target": "TUPACABRA2",
-      "trust": 20,
-      "timestamp": 1746773518
-    },
-    {
-      "source": "ArdamirofArda",
-      "target": "Gchan45591268",
-      "trust": 10,
-      "timestamp": 1746778270
-    },
-    {
-      "source": "michaelshermer",
-      "target": "Knoxcat55",
-      "trust": 10,
-      "timestamp": 1746778446
-    },
-    {
-      "source": "SmartlyUneducat",
-      "target": "ImminentDisclsr",
-      "trust": 10,
-      "timestamp": 1746784271
-    },
-    {
-      "source": "AAWSAPRocky",
-      "target": "3xceptional1886",
-      "trust": 60,
-      "timestamp": 1746786235
-    },
-    {
-      "source": "grok",
-      "target": "SmartlyUneducat",
-      "trust": 15,
-      "timestamp": 1746786648
-    },
-    {
-      "source": "GabeTruthseeker",
-      "target": "implicateflow",
-      "trust": 10,
-      "timestamp": 1746788940
-    },
-    {
-      "source": "SimulatedLion",
-      "target": "InTheShed4",
-      "trust": 20,
-      "timestamp": 1746789231
-    },
-    {
-      "source": "implicateflow",
-      "target": "disgustipated42",
-      "trust": 95,
-      "timestamp": 1746790074
-    },
-    {
-      "source": "htTweets",
-      "target": "TheUAPShow",
-      "trust": 100,
-      "timestamp": 1746790960
-    },
-    {
-      "source": "likeitmatters3",
-      "target": "TUPACABRA2",
-      "trust": 90,
-      "timestamp": 1746792708
-    },
-    {
-      "source": "darkjournalist",
-      "target": "z28mjt79",
-      "trust": 90,
-      "timestamp": 1746794840
-    },
-    {
-      "source": "revistaANOCERO",
-      "target": "Dalerob62",
-      "trust": 75,
-      "timestamp": 1746796769
-    },
-    {
-      "source": "Truthistruth369",
-      "target": "VettedPodcast",
-      "trust": 10,
-      "timestamp": 1746804451
-    },
-    {
-      "source": "shotdownmind",
-      "target": "DrAtsabNikcuf",
-      "trust": 20,
-      "timestamp": 1746806703
-    },
-    {
-      "source": "CourtneyLeffall",
-      "target": "TurtleOfTime12",
-      "trust": 10,
-      "timestamp": 1746808462
-    },
-    {
-      "source": "AeroTech_Space",
-      "target": "WolfShieldRam",
-      "trust": 5,
-      "timestamp": 1746810569
-    },
-    {
-      "source": "grok",
-      "target": "KelanderthalMan",
-      "trust": 75,
-      "timestamp": 1746813458
-    },
-    {
-      "source": "DynomiteBizQuit",
-      "target": "DarkstarIE",
-      "trust": 20,
-      "timestamp": 1746815331
-    },
-    {
-      "source": "FeeFiFoFum1995",
-      "target": "KnightsGloryy",
-      "trust": 10,
-      "timestamp": 1746822683
-    },
-    {
-      "source": "FlyaEther33",
-      "target": "AAWSAPRocky",
-      "trust": 100,
-      "timestamp": 1746823732
-    },
-    {
-      "source": "LehtoFiles",
-      "target": "serpopro",
-      "trust": 60,
-      "timestamp": 1746827019
-    },
-    {
-      "source": "wouilisam",
-      "target": "RobHeatherly1",
-      "trust": 10,
-      "timestamp": 1746831222
-    },
-    {
-      "source": "FeeFiFoFum1995",
-      "target": "JonMajerowski",
-      "trust": 10,
-      "timestamp": 1746831259
-    },
-    {
-      "source": "missj75",
-      "target": "FlyaEther33",
-      "trust": 75,
-      "timestamp": 1746832130
-    },
-    {
-      "source": "DocAlienista",
-      "target": "s36371222",
-      "trust": 15,
-      "timestamp": 1746833607
-    },
-    {
-      "source": "XExcalibur333",
-      "target": "DarkstarIE",
-      "trust": 10,
-      "timestamp": 1746835041
-    },
-    {
-      "source": "OSIRISUAP",
-      "target": "SimulatedLion",
-      "trust": 10,
-      "timestamp": 1746838119
-    },
-    {
-      "source": "ADelarge60",
-      "target": "ImminentDisclsr",
-      "trust": 10,
-      "timestamp": 1746839647
-    },
-    {
-      "source": "ImminentDisclsr",
-      "target": "DStateRespTeam",
-      "trust": 10,
-      "timestamp": 1746843879
-    },
-    {
-      "source": "EricBurlison",
-      "target": "revistaANOCERO",
-      "trust": 50,
-      "timestamp": 1746844550
-    },
-    {
-      "source": "DotherowDa71497",
-      "target": "MiddleOfMayhem",
-      "trust": 100,
-      "timestamp": 1746844923
-    },
-    {
-      "source": "possiblygnostic",
-      "target": "FeeFiFoFum1995",
-      "trust": 85,
-      "timestamp": 1746845739
-    },
-    {
-      "source": "FeeFiFoFum1995",
-      "target": "Docneuroeo",
-      "trust": 85,
-      "timestamp": 1746847980
-    },
-    {
-      "source": "RealArea503",
-      "target": "TurtleOfTime12",
-      "trust": 10,
-      "timestamp": 1746852637
-    },
-    {
-      "source": "el_kowalsky",
-      "target": "Truthistruth369",
-      "trust": 10,
-      "timestamp": 1746852734
-    },
-    {
-      "source": "planethunter56",
-      "target": "wiel_jade",
-      "trust": 60,
-      "timestamp": 1746854924
-    },
-    {
-      "source": "DocAlienista",
-      "target": "planethunter56",
-      "trust": 75,
-      "timestamp": 1746856807
-    },
-    {
-      "source": "ADelarge60",
-      "target": "XExcalibur333",
-      "trust": 10,
-      "timestamp": 1746857884
-    },
-    {
-      "source": "KelanderthalMan",
-      "target": "LuAngeles",
-      "trust": 10,
-      "timestamp": 1746859471
-    },
-    {
-      "source": "goodmorningufo",
-      "target": "Deepneuron",
-      "trust": 60,
-      "timestamp": 1746868412
-    },
-    {
-      "source": "RobHeatherly1",
-      "target": "Truthistruth369",
-      "trust": 5,
-      "timestamp": 1746875117
+      "timestamp": 1744563755
     },
     {
       "source": "StevenCambian",
-      "target": "TimeCommandHQ",
-      "trust": 10,
-      "timestamp": 1746881948
-    },
-    {
-      "source": "GiavedoniEric",
-      "target": "alextopol",
-      "trust": 50,
-      "timestamp": 1746883983
-    },
-    {
-      "source": "kingdom_pioneer",
       "target": "HighPeaks77",
-      "trust": 50,
-      "timestamp": 1746885789
+      "trust": 5,
+      "timestamp": 1744566177
     },
     {
-      "source": "DrAtsabNikcuf",
-      "target": "LMG_PRODUCTION",
+      "source": "Btc4thepeople",
+      "target": "HighPeaks77",
       "trust": 10,
-      "timestamp": 1746887008
+      "timestamp": 1744566298
     },
     {
-      "source": "UFODebrief",
-      "target": "Ekklectico",
-      "trust": 20,
-      "timestamp": 1746887869
+      "source": "shotdownmind",
+      "target": "MickWest",
+      "trust": 80,
+      "timestamp": 1744567032
     },
     {
       "source": "LibertyUAP",
-      "target": "19k0011",
-      "trust": 20,
-      "timestamp": 1746889276
-    },
-    {
-      "source": "ParaN_rmal",
       "target": "ADelarge60",
       "trust": 10,
-      "timestamp": 1746889742
+      "timestamp": 1744578573
     },
     {
-      "source": "serpopro",
-      "target": "SimulatedLion",
+      "source": "OSIRISUAP",
+      "target": "LuAngeles",
       "trust": 20,
-      "timestamp": 1746892638
+      "timestamp": 1744585679
     },
     {
-      "source": "cinematicfever",
-      "target": "serpoprojectaus",
-      "trust": 40,
-      "timestamp": 1746896584
+      "source": "Btc4thepeople",
+      "target": "htTweets",
+      "trust": 20,
+      "timestamp": 1744588922
     },
     {
-      "source": "HighPeaks77",
-      "target": "InTheShed4",
+      "source": "69Skoal69",
+      "target": "darkjournalist",
+      "trust": 100,
+      "timestamp": 1744589012
+    },
+    {
+      "source": "JoeyIsntMyName",
+      "target": "RobHeatherly1",
+      "trust": 75,
+      "timestamp": 1744590187
+    },
+    {
+      "source": "wiel_jade",
+      "target": "WolfShieldRam",
+      "trust": 20,
+      "timestamp": 1744596309
+    },
+    {
+      "source": "devgru1980mi",
+      "target": "issaufo",
+      "trust": 20,
+      "timestamp": 1744597242
+    },
+    {
+      "source": "GeologicalSETI",
+      "target": "TheProjectUnity",
+      "trust": 85,
+      "timestamp": 1744599956
+    },
+    {
+      "source": "et_alien_uap",
+      "target": "StevenCambian",
+      "trust": 10,
+      "timestamp": 1744602371
+    },
+    {
+      "source": "issaufo",
+      "target": "EricBurlison",
+      "trust": 10,
+      "timestamp": 1744602438
+    },
+    {
+      "source": "K8568088581417",
+      "target": "DrAtsabNikcuf",
+      "trust": 20,
+      "timestamp": 1744602618
+    },
+    {
+      "source": "kingdom_pioneer",
+      "target": "disgustipated42",
       "trust": 90,
-      "timestamp": 1746900887
+      "timestamp": 1744604037
     },
     {
-      "source": "L_Y_E_S_H",
-      "target": "s36371222",
-      "trust": 60,
-      "timestamp": 1746906676
-    },
-    {
-      "source": "TheScottyRaby",
-      "target": "LehtoFiles",
-      "trust": 5,
-      "timestamp": 1746914450
-    },
-    {
-      "source": "TimeCommandHQ",
-      "target": "missj75",
+      "source": "arrowbombadil",
+      "target": "HighPeaks77",
       "trust": 10,
-      "timestamp": 1746920458
-    },
-    {
-      "source": "opngate",
-      "target": "GabeTruthseeker",
-      "trust": 60,
-      "timestamp": 1746922826
-    },
-    {
-      "source": "AAWSAPRocky",
-      "target": "Gchan45591268",
-      "trust": 10,
-      "timestamp": 1746926465
+      "timestamp": 1744609832
     },
     {
       "source": "GemaLozan",
-      "target": "UAPReportingCnt",
-      "trust": 10,
-      "timestamp": 1746944419
+      "target": "BobMcGwier_N4HY",
+      "trust": 40,
+      "timestamp": 1744610568
     },
     {
-      "source": "ChaoticGood42_",
-      "target": "z28mjt79",
-      "trust": 10,
-      "timestamp": 1746946535
+      "source": "el_kowalsky",
+      "target": "bryceduncan13",
+      "trust": 100,
+      "timestamp": 1744616406
     },
     {
-      "source": "TimeCommandHQ",
-      "target": "ThisGuyCTE",
-      "trust": 10,
-      "timestamp": 1746951955
+      "source": "ParaN_rmal",
+      "target": "bryceduncan13",
+      "trust": 80,
+      "timestamp": 1744616604
     },
     {
-      "source": "gdechico2",
-      "target": "RobHeatherly1",
-      "trust": 90,
-      "timestamp": 1746953718
+      "source": "et_alien_uap",
+      "target": "horror__guy",
+      "trust": 10,
+      "timestamp": 1744618129
+    },
+    {
+      "source": "TheUAPShow",
+      "target": "InTheShed4",
+      "trust": 75,
+      "timestamp": 1744619574
+    },
+    {
+      "source": "GrantLavac",
+      "target": "MickWest",
+      "trust": 10,
+      "timestamp": 1744622494
+    },
+    {
+      "source": "Salahald1n",
+      "target": "EricBurlison",
+      "trust": 70,
+      "timestamp": 1744632121
+    },
+    {
+      "source": "issaufo",
+      "target": "TurtleOfTime12",
+      "trust": 10,
+      "timestamp": 1744636487
+    },
+    {
+      "source": "zcichy",
+      "target": "JonestechDev",
+      "trust": 75,
+      "timestamp": 1744639310
+    },
+    {
+      "source": "Docneuroeo",
+      "target": "goodmorningufo",
+      "trust": 10,
+      "timestamp": 1744640027
+    },
+    {
+      "source": "ADelarge60",
+      "target": "AeroTech_Space",
+      "trust": 100,
+      "timestamp": 1744647245
+    },
+    {
+      "source": "Deepneuron",
+      "target": "Ekklectico",
+      "trust": 60,
+      "timestamp": 1744650101
+    },
+    {
+      "source": "michaelshermer",
+      "target": "UAPJames",
+      "trust": 5,
+      "timestamp": 1744651597
     },
     {
       "source": "b4cktoreality",
-      "target": "GiavedoniEric",
+      "target": "grok",
       "trust": 10,
-      "timestamp": 1746955057
+      "timestamp": 1744654611
+    },
+    {
+      "source": "BlueshiftRadio",
+      "target": "Shwinnx",
+      "trust": 10,
+      "timestamp": 1744654638
+    },
+    {
+      "source": "TheUAPShow",
+      "target": "implicateflow",
+      "trust": 20,
+      "timestamp": 1744657828
+    },
+    {
+      "source": "EricBurlison",
+      "target": "TurtleOfTime12",
+      "trust": 10,
+      "timestamp": 1744660820
+    },
+    {
+      "source": "CourtneyLeffall",
+      "target": "issaufo",
+      "trust": 20,
+      "timestamp": 1744665083
+    },
+    {
+      "source": "0mega_Point",
+      "target": "FILIUM_PATRIS",
+      "trust": 75,
+      "timestamp": 1744666352
+    },
+    {
+      "source": "Casual_Lynx",
+      "target": "19k0011",
+      "trust": 10,
+      "timestamp": 1744666965
+    },
+    {
+      "source": "gdechico2",
+      "target": "JettRink1956",
+      "trust": 10,
+      "timestamp": 1744670540
+    },
+    {
+      "source": "SomewhereSkies",
+      "target": "GoodTroubleShow",
+      "trust": 90,
+      "timestamp": 1744673915
+    },
+    {
+      "source": "19k0011",
+      "target": "Ekklectico",
+      "trust": 20,
+      "timestamp": 1744678069
+    },
+    {
+      "source": "DocAlienista",
+      "target": "DynomiteBizQuit",
+      "trust": 10,
+      "timestamp": 1744683385
+    },
+    {
+      "source": "Jim87504388",
+      "target": "SomewhereSkies",
+      "trust": 70,
+      "timestamp": 1744688541
+    },
+    {
+      "source": "GrantLavac",
+      "target": "gdechico2",
+      "trust": 10,
+      "timestamp": 1744688616
+    },
+    {
+      "source": "TheScottyRaby",
+      "target": "DrAtsabNikcuf",
+      "trust": 5,
+      "timestamp": 1744697021
+    },
+    {
+      "source": "bennibennasi01",
+      "target": "FILIUM_PATRIS",
+      "trust": 10,
+      "timestamp": 1744699678
+    },
+    {
+      "source": "LibertyUAP",
+      "target": "TimeCommandHQ",
+      "trust": 10,
+      "timestamp": 1744702592
+    },
+    {
+      "source": "disgustipated42",
+      "target": "el_kowalsky",
+      "trust": 0,
+      "timestamp": 1744704765
+    },
+    {
+      "source": "AnxWhisperer",
+      "target": "Deepneuron",
+      "trust": 100,
+      "timestamp": 1744707960
+    },
+    {
+      "source": "Marc_La_Rock",
+      "target": "FeeFiFoFum1995",
+      "trust": 10,
+      "timestamp": 1744708455
+    },
+    {
+      "source": "wow36932525",
+      "target": "XExcalibur333",
+      "trust": 20,
+      "timestamp": 1744712910
+    },
+    {
+      "source": "HighPeaks77",
+      "target": "3xceptional1886",
+      "trust": 60,
+      "timestamp": 1744715851
+    },
+    {
+      "source": "et_alien_uap",
+      "target": "ChaoticGood42_",
+      "trust": 10,
+      "timestamp": 1744716650
+    },
+    {
+      "source": "ChrisUKSharp",
+      "target": "disgustipated42",
+      "trust": 90,
+      "timestamp": 1744717783
+    },
+    {
+      "source": "LueElizondo",
+      "target": "WolfShieldRam",
+      "trust": 10,
+      "timestamp": 1744718259
+    },
+    {
+      "source": "darkjournalist",
+      "target": "combatinsight",
+      "trust": 85,
+      "timestamp": 1744721244
+    },
+    {
+      "source": "revistaANOCERO",
+      "target": "GabeTruthseeker",
+      "trust": 50,
+      "timestamp": 1744723650
+    },
+    {
+      "source": "CourtneyLeffall",
+      "target": "UAPJames",
+      "trust": 30,
+      "timestamp": 1744726598
+    },
+    {
+      "source": "RedPandaKoala",
+      "target": "issaufo",
+      "trust": 10,
+      "timestamp": 1744734747
+    },
+    {
+      "source": "revistaANOCERO",
+      "target": "K8568088581417",
+      "trust": 75,
+      "timestamp": 1744735944
+    },
+    {
+      "source": "z28mjt79",
+      "target": "NickMadrid16",
+      "trust": 0,
+      "timestamp": 1744737426
+    },
+    {
+      "source": "DarkstarIE",
+      "target": "LMG_PRODUCTION",
+      "trust": 10,
+      "timestamp": 1744749830
+    },
+    {
+      "source": "NickMadrid16",
+      "target": "XExcalibur333",
+      "trust": 20,
+      "timestamp": 1744755093
+    },
+    {
+      "source": "MFungi369",
+      "target": "Ekklectico",
+      "trust": 10,
+      "timestamp": 1744756032
+    },
+    {
+      "source": "GodSawUs",
+      "target": "0mega_Point",
+      "trust": 70,
+      "timestamp": 1744761311
+    },
+    {
+      "source": "HighPeaks77",
+      "target": "SimulatedLion",
+      "trust": 10,
+      "timestamp": 1744769390
+    },
+    {
+      "source": "TheScottyRaby",
+      "target": "TST___Radio",
+      "trust": 10,
+      "timestamp": 1744784844
+    },
+    {
+      "source": "GoodTroubleShow",
+      "target": "AAWSAPRocky",
+      "trust": 85,
+      "timestamp": 1744787843
+    },
+    {
+      "source": "arrowbombadil",
+      "target": "fringequest",
+      "trust": 20,
+      "timestamp": 1744789557
+    },
+    {
+      "source": "DeJaVu2U2",
+      "target": "opngate",
+      "trust": 25,
+      "timestamp": 1744790520
+    },
+    {
+      "source": "michaelshermer",
+      "target": "PostDisclosure",
+      "trust": 20,
+      "timestamp": 1744792526
+    },
+    {
+      "source": "FLVinny",
+      "target": "TimeCommandHQ",
+      "trust": 5,
+      "timestamp": 1744794577
+    },
+    {
+      "source": "Btc4thepeople",
+      "target": "FLVinny",
+      "trust": 10,
+      "timestamp": 1744796915
+    },
+    {
+      "source": "The_Astral_",
+      "target": "Gandalf_ElPulpo",
+      "trust": 75,
+      "timestamp": 1744797194
+    },
+    {
+      "source": "fringequest",
+      "target": "issaufo",
+      "trust": 10,
+      "timestamp": 1744804064
+    },
+    {
+      "source": "DotherowDa71497",
+      "target": "DrAtsabNikcuf",
+      "trust": 5,
+      "timestamp": 1744809260
+    },
+    {
+      "source": "SmartlyUneducat",
+      "target": "MizzMisanthrope",
+      "trust": 20,
+      "timestamp": 1744809578
+    },
+    {
+      "source": "GiavedoniEric",
+      "target": "MizzMisanthrope",
+      "trust": 10,
+      "timestamp": 1744810351
+    },
+    {
+      "source": "bennibennasi01",
+      "target": "HighPeaks77",
+      "trust": 5,
+      "timestamp": 1744811520
+    },
+    {
+      "source": "GabeTruthseeker",
+      "target": "WhoshotyaCo",
+      "trust": 10,
+      "timestamp": 1744812569
+    },
+    {
+      "source": "implicateflow",
+      "target": "DocAlienista",
+      "trust": 90,
+      "timestamp": 1744822369
+    },
+    {
+      "source": "MFungi369",
+      "target": "JettRink1956",
+      "trust": 20,
+      "timestamp": 1744823241
+    },
+    {
+      "source": "ChaoticGood42_",
+      "target": "ThisGuyCTE",
+      "trust": 100,
+      "timestamp": 1744827674
+    },
+    {
+      "source": "UFOCollage",
+      "target": "AdamGenesisEden",
+      "trust": 10,
+      "timestamp": 1744831876
+    },
+    {
+      "source": "Ekklectico",
+      "target": "grok",
+      "trust": 20,
+      "timestamp": 1744846501
+    },
+    {
+      "source": "ThisGuyCTE",
+      "target": "WhoshotyaCo",
+      "trust": 20,
+      "timestamp": 1744848079
+    },
+    {
+      "source": "AllPlanets",
+      "target": "RobHeatherly1",
+      "trust": 85,
+      "timestamp": 1744848348
+    },
+    {
+      "source": "alextopol",
+      "target": "AdamGenesisEden",
+      "trust": 80,
+      "timestamp": 1744851292
+    },
+    {
+      "source": "Jim87504388",
+      "target": "disgustipated42",
+      "trust": 95,
+      "timestamp": 1744854721
+    },
+    {
+      "source": "kingdom_pioneer",
+      "target": "yourfriendSOMMI",
+      "trust": 10,
+      "timestamp": 1744859637
+    },
+    {
+      "source": "MiddleOfMayhem",
+      "target": "Gchan45591268",
+      "trust": 5,
+      "timestamp": 1744861826
+    },
+    {
+      "source": "KelanderthalMan",
+      "target": "el_kowalsky",
+      "trust": 10,
+      "timestamp": 1744864660
+    },
+    {
+      "source": "UFODebrief",
+      "target": "yourfriendSOMMI",
+      "trust": 20,
+      "timestamp": 1744875863
+    },
+    {
+      "source": "JonestechDev",
+      "target": "gdechico2",
+      "trust": 10,
+      "timestamp": 1744877163
+    },
+    {
+      "source": "TUPACABRA2",
+      "target": "Shwinnx",
+      "trust": 5,
+      "timestamp": 1744880564
+    },
+    {
+      "source": "K8568088581417",
+      "target": "Gandalf_ElPulpo",
+      "trust": 25,
+      "timestamp": 1744883689
+    },
+    {
+      "source": "ChrisUKSharp",
+      "target": "WhoshotyaCo",
+      "trust": 10,
+      "timestamp": 1744884679
+    },
+    {
+      "source": "GeologicalSETI",
+      "target": "CourtneyLeffall",
+      "trust": 75,
+      "timestamp": 1744894028
+    },
+    {
+      "source": "el_kowalsky",
+      "target": "opngate",
+      "trust": 60,
+      "timestamp": 1744895025
+    },
+    {
+      "source": "VictorG_45",
+      "target": "XExcalibur333",
+      "trust": 70,
+      "timestamp": 1744895777
+    },
+    {
+      "source": "SPOOOKYUFO",
+      "target": "JoseACaravaca",
+      "trust": 60,
+      "timestamp": 1744896181
+    },
+    {
+      "source": "Ekklectico",
+      "target": "LehtoFiles",
+      "trust": 60,
+      "timestamp": 1744915448
+    },
+    {
+      "source": "GemaLozan",
+      "target": "z28mjt79",
+      "trust": 10,
+      "timestamp": 1744918740
+    },
+    {
+      "source": "planethunter56",
+      "target": "yourfriendSOMMI",
+      "trust": 10,
+      "timestamp": 1744921426
+    },
+    {
+      "source": "revistaANOCERO",
+      "target": "JustXAshton",
+      "trust": 10,
+      "timestamp": 1744923696
+    },
+    {
+      "source": "DrAtsabNikcuf",
+      "target": "michaelshermer",
+      "trust": 10,
+      "timestamp": 1744929832
+    },
+    {
+      "source": "kingdom_pioneer",
+      "target": "GeologicalSETI",
+      "trust": 20,
+      "timestamp": 1744931065
+    },
+    {
+      "source": "OSIRISUAP",
+      "target": "GeologicalSETI",
+      "trust": 10,
+      "timestamp": 1744933433
+    },
+    {
+      "source": "yourfriendSOMMI",
+      "target": "HoverBrothers",
+      "trust": 10,
+      "timestamp": 1744934882
+    },
+    {
+      "source": "goodmorningufo",
+      "target": "Baptiste_Fri",
+      "trust": 70,
+      "timestamp": 1744938280
+    },
+    {
+      "source": "Truthpolex",
+      "target": "et_alien_uap",
+      "trust": 60,
+      "timestamp": 1744941598
+    },
+    {
+      "source": "dave_beaty",
+      "target": "VettedPodcast",
+      "trust": 20,
+      "timestamp": 1744944378
+    },
+    {
+      "source": "DarkstarIE",
+      "target": "ChrisUKSharp",
+      "trust": 95,
+      "timestamp": 1744947570
+    },
+    {
+      "source": "ParaN_rmal",
+      "target": "SmartlyUneducat",
+      "trust": 10,
+      "timestamp": 1744951299
+    },
+    {
+      "source": "b4cktoreality",
+      "target": "s36371222",
+      "trust": 20,
+      "timestamp": 1744962197
+    },
+    {
+      "source": "serpopro",
+      "target": "DrAtsabNikcuf",
+      "trust": 20,
+      "timestamp": 1744962357
+    },
+    {
+      "source": "EricBurlison",
+      "target": "disgustipated42",
+      "trust": 75,
+      "timestamp": 1744965490
+    },
+    {
+      "source": "AeroTech_Space",
+      "target": "AllPlanets",
+      "trust": 95,
+      "timestamp": 1744968769
+    },
+    {
+      "source": "AllPlanets",
+      "target": "GodSawUs",
+      "trust": 10,
+      "timestamp": 1744974467
+    },
+    {
+      "source": "Salahald1n",
+      "target": "planethunter56",
+      "trust": 60,
+      "timestamp": 1744976748
+    },
+    {
+      "source": "combatinsight",
+      "target": "KnightsGloryy",
+      "trust": 75,
+      "timestamp": 1744977184
+    },
+    {
+      "source": "SPOOOKYUFO",
+      "target": "MichelVan4",
+      "trust": 10,
+      "timestamp": 1744983914
+    },
+    {
+      "source": "HoverBrothers",
+      "target": "JustXAshton",
+      "trust": 10,
+      "timestamp": 1745006044
+    },
+    {
+      "source": "planethunter56",
+      "target": "darkjournalist",
+      "trust": 10,
+      "timestamp": 1745010775
+    },
+    {
+      "source": "LMG_PRODUCTION",
+      "target": "AeroTech_Space",
+      "trust": 90,
+      "timestamp": 1745012093
+    },
+    {
+      "source": "TUPACABRA2",
+      "target": "UFOCollage",
+      "trust": 10,
+      "timestamp": 1745016830
+    },
+    {
+      "source": "shotdownmind",
+      "target": "Truthistruth369",
+      "trust": 10,
+      "timestamp": 1745020622
+    },
+    {
+      "source": "UFOCollage",
+      "target": "Baptiste_Fri",
+      "trust": 90,
+      "timestamp": 1745021653
+    },
+    {
+      "source": "DocAlienista",
+      "target": "Baptiste_Fri",
+      "trust": 75,
+      "timestamp": 1745022144
+    },
+    {
+      "source": "LehtoFiles",
+      "target": "BobMcGwier_N4HY",
+      "trust": 95,
+      "timestamp": 1745022655
+    },
+    {
+      "source": "ufoofinterest",
+      "target": "wouilisam",
+      "trust": 15,
+      "timestamp": 1745022897
+    },
+    {
+      "source": "FeeFiFoFum1995",
+      "target": "cinematicfever",
+      "trust": 10,
+      "timestamp": 1745023177
+    },
+    {
+      "source": "cinematicfever",
+      "target": "TimeCommandHQ",
+      "trust": 10,
+      "timestamp": 1745023686
+    },
+    {
+      "source": "ImminentDisclsr",
+      "target": "ufoofinterest",
+      "trust": 15,
+      "timestamp": 1745023798
+    },
+    {
+      "source": "horror__guy",
+      "target": "AllPlanets",
+      "trust": 85,
+      "timestamp": 1745025595
+    },
+    {
+      "source": "Deepneuron",
+      "target": "implicateflow",
+      "trust": 10,
+      "timestamp": 1745030394
+    },
+    {
+      "source": "BobMcGwier_N4HY",
+      "target": "0mega_Point",
+      "trust": 60,
+      "timestamp": 1745031284
+    },
+    {
+      "source": "Marc_La_Rock",
+      "target": "likeitmatters3",
+      "trust": 90,
+      "timestamp": 1745040974
+    },
+    {
+      "source": "KnightsGloryy",
+      "target": "GoodTroubleShow",
+      "trust": 75,
+      "timestamp": 1745045342
+    },
+    {
+      "source": "Shwinnx",
+      "target": "dave_beaty",
+      "trust": 85,
+      "timestamp": 1745046454
+    },
+    {
+      "source": "JonMajerowski",
+      "target": "missj75",
+      "trust": 10,
+      "timestamp": 1745047809
+    },
+    {
+      "source": "likeitmatters3",
+      "target": "TheProjectUnity",
+      "trust": 95,
+      "timestamp": 1745051058
+    },
+    {
+      "source": "SimulatedLion",
+      "target": "combatinsight",
+      "trust": 10,
+      "timestamp": 1745056004
+    },
+    {
+      "source": "SimulatedLion",
+      "target": "issaufo",
+      "trust": 10,
+      "timestamp": 1745057802
+    },
+    {
+      "source": "RyanSprague51",
+      "target": "DeJaVu2U2",
+      "trust": 10,
+      "timestamp": 1745060672
+    },
+    {
+      "source": "darkjournalist",
+      "target": "ChrisUKSharp",
+      "trust": 5,
+      "timestamp": 1745062900
+    },
+    {
+      "source": "JettRink1956",
+      "target": "AdamGenesisEden",
+      "trust": 70,
+      "timestamp": 1745068680
+    },
+    {
+      "source": "PostDisclosure",
+      "target": "TST___Radio",
+      "trust": 25,
+      "timestamp": 1745069137
+    },
+    {
+      "source": "ParaN_rmal",
+      "target": "ThisGuyCTE",
+      "trust": 10,
+      "timestamp": 1745072148
+    },
+    {
+      "source": "fringequest",
+      "target": "zcichy",
+      "trust": 95,
+      "timestamp": 1745074791
+    },
+    {
+      "source": "CourtneyLeffall",
+      "target": "TheProjectUnity",
+      "trust": 10,
+      "timestamp": 1745082076
+    },
+    {
+      "source": "Knoxcat55",
+      "target": "combatinsight",
+      "trust": 20,
+      "timestamp": 1745087075
+    },
+    {
+      "source": "cinematicfever",
+      "target": "michaelshermer",
+      "trust": 10,
+      "timestamp": 1745090018
+    },
+    {
+      "source": "FLVinny",
+      "target": "DCharles30",
+      "trust": 10,
+      "timestamp": 1745090606
+    },
+    {
+      "source": "Jim87504388",
+      "target": "serpoprojectaus",
+      "trust": 60,
+      "timestamp": 1745100904
+    },
+    {
+      "source": "DStateRespTeam",
+      "target": "wouilisam",
+      "trust": 10,
+      "timestamp": 1745102711
+    },
+    {
+      "source": "bennibennasi01",
+      "target": "Baptiste_Fri",
+      "trust": 5,
+      "timestamp": 1745109726
+    },
+    {
+      "source": "arrowbombadil",
+      "target": "michaelshermer",
+      "trust": 60,
+      "timestamp": 1745115447
+    },
+    {
+      "source": "MickWest",
+      "target": "NickMadrid16",
+      "trust": 70,
+      "timestamp": 1745116692
+    },
+    {
+      "source": "Knoxcat55",
+      "target": "Gchan45591268",
+      "trust": 10,
+      "timestamp": 1745118508
+    },
+    {
+      "source": "randomtweetor",
+      "target": "ChrisUKSharp",
+      "trust": 10,
+      "timestamp": 1745121096
+    },
+    {
+      "source": "LehtoFiles",
+      "target": "ThisGuyCTE",
+      "trust": 10,
+      "timestamp": 1745123419
+    },
+    {
+      "source": "darkjournalist",
+      "target": "AeroTech_Space",
+      "trust": 10,
+      "timestamp": 1745127905
+    },
+    {
+      "source": "AdamGenesisEden",
+      "target": "19k0011",
+      "trust": 10,
+      "timestamp": 1745128647
+    },
+    {
+      "source": "TimeCommandHQ",
+      "target": "dave_beaty",
+      "trust": 70,
+      "timestamp": 1745131831
+    },
+    {
+      "source": "disgustipated42",
+      "target": "s36371222",
+      "trust": 20,
+      "timestamp": 1745131980
+    },
+    {
+      "source": "DeJaVu2U2",
+      "target": "Ekklectico",
+      "trust": 20,
+      "timestamp": 1745134394
+    },
+    {
+      "source": "FILIUM_PATRIS",
+      "target": "AAWSAPRocky",
+      "trust": 10,
+      "timestamp": 1745137953
+    },
+    {
+      "source": "possiblygnostic",
+      "target": "Jim87504388",
+      "trust": 10,
+      "timestamp": 1745145328
+    },
+    {
+      "source": "keeptxtx",
+      "target": "Gchan45591268",
+      "trust": 10,
+      "timestamp": 1745145591
+    },
+    {
+      "source": "serpoprojectaus",
+      "target": "TheScottyRaby",
+      "trust": 80,
+      "timestamp": 1745148220
+    },
+    {
+      "source": "RobHeatherly1",
+      "target": "yourfriendSOMMI",
+      "trust": 85,
+      "timestamp": 1745150328
+    },
+    {
+      "source": "UAPReportingCnt",
+      "target": "FlyaEther33",
+      "trust": 10,
+      "timestamp": 1745153057
+    },
+    {
+      "source": "yourfriendSOMMI",
+      "target": "TheProjectUnity",
+      "trust": 10,
+      "timestamp": 1745156723
+    },
+    {
+      "source": "VettedPodcast",
+      "target": "keeptxtx",
+      "trust": 20,
+      "timestamp": 1745166415
+    },
+    {
+      "source": "RobHeatherly1",
+      "target": "JonMajerowski",
+      "trust": 10,
+      "timestamp": 1745170135
+    },
+    {
+      "source": "KelanderthalMan",
+      "target": "K8568088581417",
+      "trust": 80,
+      "timestamp": 1745174354
+    },
+    {
+      "source": "michaelshermer",
+      "target": "JoseACaravaca",
+      "trust": 20,
+      "timestamp": 1745174413
+    },
+    {
+      "source": "dave_beaty",
+      "target": "kingdom_pioneer",
+      "trust": 15,
+      "timestamp": 1745177239
+    },
+    {
+      "source": "wiel_jade",
+      "target": "StevenCambian",
+      "trust": 10,
+      "timestamp": 1745182454
+    },
+    {
+      "source": "VettedPodcast",
+      "target": "serpoprojectaus",
+      "trust": 70,
+      "timestamp": 1745183948
+    },
+    {
+      "source": "TurtleOfTime12",
+      "target": "UFODebrief",
+      "trust": 10,
+      "timestamp": 1745185613
+    },
+    {
+      "source": "Dalerob62",
+      "target": "Truthpolex",
+      "trust": 85,
+      "timestamp": 1745185926
+    },
+    {
+      "source": "LuAngeles",
+      "target": "wouilisam",
+      "trust": 10,
+      "timestamp": 1745188921
+    },
+    {
+      "source": "HighPeaks77",
+      "target": "Docneuroeo",
+      "trust": 10,
+      "timestamp": 1745190230
+    },
+    {
+      "source": "RyanSprague51",
+      "target": "GabeTruthseeker",
+      "trust": 60,
+      "timestamp": 1745194925
+    },
+    {
+      "source": "StevenCambian",
+      "target": "Salahald1n",
+      "trust": 10,
+      "timestamp": 1745196125
+    },
+    {
+      "source": "randomtweetor",
+      "target": "RealArea503",
+      "trust": 10,
+      "timestamp": 1745197456
+    },
+    {
+      "source": "Truthpolex",
+      "target": "Truthistruth369",
+      "trust": 10,
+      "timestamp": 1745198767
+    },
+    {
+      "source": "SmartlyUneducat",
+      "target": "keeptxtx",
+      "trust": 10,
+      "timestamp": 1745203465
+    },
+    {
+      "source": "HoverBrothers",
+      "target": "dave_beaty",
+      "trust": 10,
+      "timestamp": 1745207317
+    },
+    {
+      "source": "FettuccineSplit",
+      "target": "ChaoticGood42_",
+      "trust": 10,
+      "timestamp": 1745208329
+    },
+    {
+      "source": "DStateRespTeam",
+      "target": "Ekklectico",
+      "trust": 20,
+      "timestamp": 1745209138
+    },
+    {
+      "source": "VictorG_45",
+      "target": "bennibennasi01",
+      "trust": 70,
+      "timestamp": 1745214923
+    },
+    {
+      "source": "MickWest",
+      "target": "3xceptional1886",
+      "trust": 60,
+      "timestamp": 1745218267
+    },
+    {
+      "source": "TimeCommandHQ",
+      "target": "shotdownmind",
+      "trust": 70,
+      "timestamp": 1745225994
+    },
+    {
+      "source": "DotherowDa71497",
+      "target": "JettRink1956",
+      "trust": 85,
+      "timestamp": 1745228908
+    },
+    {
+      "source": "LibertyUAP",
+      "target": "BobMcGwier_N4HY",
+      "trust": 10,
+      "timestamp": 1745229424
+    },
+    {
+      "source": "AnxWhisperer",
+      "target": "Salahald1n",
+      "trust": 70,
+      "timestamp": 1745231732
+    },
+    {
+      "source": "UAPJames",
+      "target": "LueElizondo",
+      "trust": 65,
+      "timestamp": 1745235917
     },
     {
       "source": "Gandalf_ElPulpo",
-      "target": "gdechico2",
+      "target": "TheScottyRaby",
       "trust": 10,
-      "timestamp": 1746956470
+      "timestamp": 1745239170
+    },
+    {
+      "source": "GabeTruthseeker",
+      "target": "FeeFiFoFum1995",
+      "trust": 10,
+      "timestamp": 1745239450
+    },
+    {
+      "source": "RyanSprague51",
+      "target": "missj75",
+      "trust": 10,
+      "timestamp": 1745240267
+    },
+    {
+      "source": "DynomiteBizQuit",
+      "target": "SomewhereSkies",
+      "trust": 10,
+      "timestamp": 1745243709
+    },
+    {
+      "source": "Shwinnx",
+      "target": "gdechico2",
+      "trust": 75,
+      "timestamp": 1745245070
+    },
+    {
+      "source": "0mega_Point",
+      "target": "SomewhereSkies",
+      "trust": 75,
+      "timestamp": 1745249286
+    },
+    {
+      "source": "implicateflow",
+      "target": "htTweets",
+      "trust": 10,
+      "timestamp": 1745251368
+    },
+    {
+      "source": "b4cktoreality",
+      "target": "Casual_Lynx",
+      "trust": 10,
+      "timestamp": 1745257618
+    },
+    {
+      "source": "Dalerob62",
+      "target": "JettRink1956",
+      "trust": 20,
+      "timestamp": 1745258219
+    },
+    {
+      "source": "serpopro",
+      "target": "AnxWhisperer",
+      "trust": 10,
+      "timestamp": 1745259181
+    },
+    {
+      "source": "JustXAshton",
+      "target": "wouilisam",
+      "trust": 10,
+      "timestamp": 1745261116
     },
     {
       "source": "3xceptional1886",
       "target": "ufoofinterest",
       "trust": 70,
-      "timestamp": 1746969674
-    },
-    {
-      "source": "Casual_Lynx",
-      "target": "alextopol",
-      "trust": 10,
-      "timestamp": 1746970060
-    },
-    {
-      "source": "JonestechDev",
-      "target": "GemaLozan",
-      "trust": 60,
-      "timestamp": 1746971374
-    },
-    {
-      "source": "Dalerob62",
-      "target": "FeeFiFoFum1995",
-      "trust": 10,
-      "timestamp": 1746972753
-    },
-    {
-      "source": "WolfShieldRam",
-      "target": "MizzMisanthrope",
-      "trust": 10,
-      "timestamp": 1746977167
-    },
-    {
-      "source": "LuAngeles",
-      "target": "disgustipated42",
-      "trust": 5,
-      "timestamp": 1746979689
-    },
-    {
-      "source": "MFungi369",
-      "target": "zcichy",
-      "trust": 10,
-      "timestamp": 1746980921
-    },
-    {
-      "source": "serpoprojectaus",
-      "target": "OEFTF11",
-      "trust": 20,
-      "timestamp": 1746984476
-    },
-    {
-      "source": "disgustipated42",
-      "target": "Ekklectico",
-      "trust": 60,
-      "timestamp": 1746986677
-    },
-    {
-      "source": "FLVinny",
-      "target": "JonMajerowski",
-      "trust": 5,
-      "timestamp": 1746990656
-    },
-    {
-      "source": "htTweets",
-      "target": "JustXAshton",
-      "trust": 20,
-      "timestamp": 1746992591
-    },
-    {
-      "source": "PostDisclosure",
-      "target": "Truthistruth369",
-      "trust": 10,
-      "timestamp": 1746997344
-    },
-    {
-      "source": "ADelarge60",
-      "target": "GoodTroubleShow",
-      "trust": 10,
-      "timestamp": 1746999068
-    },
-    {
-      "source": "issaufo",
-      "target": "InTheShed4",
-      "trust": 10,
-      "timestamp": 1747000155
+      "timestamp": 1745265530
     },
     {
       "source": "planethunter56",
-      "target": "randomtweetor",
-      "trust": 20,
-      "timestamp": 1747000923
+      "target": "GemaLozan",
+      "trust": 65,
+      "timestamp": 1745265786
     },
     {
-      "source": "possiblygnostic",
-      "target": "SPOOOKYUFO",
-      "trust": 10,
-      "timestamp": 1747001159
-    },
-    {
-      "source": "OEFTF11",
-      "target": "The_Astral_",
-      "trust": 10,
-      "timestamp": 1747004223
-    },
-    {
-      "source": "Marc_La_Rock",
+      "source": "DrAtsabNikcuf",
       "target": "RyanSprague51",
+      "trust": 20,
+      "timestamp": 1745267346
+    },
+    {
+      "source": "WolfShieldRam",
+      "target": "michaelshermer",
+      "trust": 25,
+      "timestamp": 1745269397
+    },
+    {
+      "source": "MichelVan4",
+      "target": "BlueshiftRadio",
       "trust": 10,
-      "timestamp": 1747008146
+      "timestamp": 1745272813
+    },
+    {
+      "source": "Btc4thepeople",
+      "target": "GoodTroubleShow",
+      "trust": 10,
+      "timestamp": 1745273784
+    },
+    {
+      "source": "likeitmatters3",
+      "target": "GemaLozan",
+      "trust": 10,
+      "timestamp": 1745273872
+    },
+    {
+      "source": "Shwinnx",
+      "target": "The_Astral_",
+      "trust": 60,
+      "timestamp": 1745277959
+    },
+    {
+      "source": "DocAlienista",
+      "target": "AAWSAPRocky",
+      "trust": 70,
+      "timestamp": 1745281878
+    },
+    {
+      "source": "ThisGuyCTE",
+      "target": "K8568088581417",
+      "trust": 20,
+      "timestamp": 1745288364
+    },
+    {
+      "source": "serpoprojectaus",
+      "target": "missj75",
+      "trust": 20,
+      "timestamp": 1745289868
+    },
+    {
+      "source": "AdamGenesisEden",
+      "target": "goodmorningufo",
+      "trust": 5,
+      "timestamp": 1745291891
+    },
+    {
+      "source": "ChaoticGood42_",
+      "target": "Shwinnx",
+      "trust": 10,
+      "timestamp": 1745292950
+    },
+    {
+      "source": "BobMcGwier_N4HY",
+      "target": "SmartlyUneducat",
+      "trust": 10,
+      "timestamp": 1745299649
+    },
+    {
+      "source": "KelanderthalMan",
+      "target": "GemaLozan",
+      "trust": 20,
+      "timestamp": 1745316818
+    },
+    {
+      "source": "WhoshotyaCo",
+      "target": "JoseACaravaca",
+      "trust": 10,
+      "timestamp": 1745325252
+    },
+    {
+      "source": "The_Astral_",
+      "target": "Ekklectico",
+      "trust": 60,
+      "timestamp": 1745330211
+    },
+    {
+      "source": "zcichy",
+      "target": "GrantLavac",
+      "trust": 95,
+      "timestamp": 1745332083
+    },
+    {
+      "source": "SimulatedLion",
+      "target": "arrowbombadil",
+      "trust": 10,
+      "timestamp": 1745334229
+    },
+    {
+      "source": "AllPlanets",
+      "target": "GoodTroubleShow",
+      "trust": 10,
+      "timestamp": 1745334690
+    },
+    {
+      "source": "FILIUM_PATRIS",
+      "target": "ThisGuyCTE",
+      "trust": 10,
+      "timestamp": 1745337008
     },
     {
       "source": "DarkstarIE",
-      "target": "ChaoticGood42_",
-      "trust": 5,
-      "timestamp": 1747008847
-    },
-    {
-      "source": "3xceptional1886",
-      "target": "DynomiteBizQuit",
-      "trust": 70,
-      "timestamp": 1747014411
-    },
-    {
-      "source": "keeptxtx",
-      "target": "ParaN_rmal",
-      "trust": 80,
-      "timestamp": 1747018166
-    },
-    {
-      "source": "GemaLozan",
-      "target": "OEFTF11",
-      "trust": 25,
-      "timestamp": 1747019331
-    },
-    {
-      "source": "UFOCollage",
-      "target": "arrowbombadil",
+      "target": "TST___Radio",
       "trust": 20,
-      "timestamp": 1747020823
+      "timestamp": 1745337635
     },
     {
-      "source": "wow36932525",
-      "target": "69Skoal69",
+      "source": "GrantLavac",
+      "target": "HoverBrothers",
       "trust": 10,
-      "timestamp": 1747023250
+      "timestamp": 1745338964
     },
     {
-      "source": "NickMadrid16",
-      "target": "combatinsight",
-      "trust": 60,
-      "timestamp": 1747030199
+      "source": "WolfShieldRam",
+      "target": "FeeFiFoFum1995",
+      "trust": 90,
+      "timestamp": 1745341228
     },
     {
-      "source": "bennibennasi01",
+      "source": "FLVinny",
+      "target": "serpopro",
+      "trust": 10,
+      "timestamp": 1745347252
+    },
+    {
+      "source": "BobMcGwier_N4HY",
+      "target": "WolfShieldRam",
+      "trust": 10,
+      "timestamp": 1745347592
+    },
+    {
+      "source": "JoseACaravaca",
+      "target": "Jim87504388",
+      "trust": 10,
+      "timestamp": 1745352438
+    },
+    {
+      "source": "SmartlyUneducat",
+      "target": "implicateflow",
+      "trust": 10,
+      "timestamp": 1745359634
+    },
+    {
+      "source": "gdechico2",
+      "target": "ParaN_rmal",
+      "trust": 15,
+      "timestamp": 1745360192
+    },
+    {
+      "source": "DeJaVu2U2",
+      "target": "htTweets",
+      "trust": 10,
+      "timestamp": 1745363777
+    },
+    {
+      "source": "JustXAshton",
+      "target": "0mega_Point",
+      "trust": 10,
+      "timestamp": 1745364262
+    },
+    {
+      "source": "KnightsGloryy",
       "target": "L_Y_E_S_H",
       "trust": 10,
-      "timestamp": 1747031720
+      "timestamp": 1745368203
     },
     {
-      "source": "Deepneuron",
-      "target": "Shwinnx",
-      "trust": 70,
-      "timestamp": 1747031784
-    },
-    {
-      "source": "RedPandaKoala",
-      "target": "69Skoal69",
+      "source": "AAWSAPRocky",
+      "target": "arrowbombadil",
       "trust": 10,
-      "timestamp": 1747038313
+      "timestamp": 1745370798
+    },
+    {
+      "source": "Truthpolex",
+      "target": "WolfShieldRam",
+      "trust": 10,
+      "timestamp": 1745378059
+    },
+    {
+      "source": "ThisGuyCTE",
+      "target": "DeJaVu2U2",
+      "trust": 10,
+      "timestamp": 1745381797
+    },
+    {
+      "source": "implicateflow",
+      "target": "LuAngeles",
+      "trust": 5,
+      "timestamp": 1745386658
+    },
+    {
+      "source": "BlueshiftRadio",
+      "target": "JettRink1956",
+      "trust": 10,
+      "timestamp": 1745395742
+    },
+    {
+      "source": "RyanSprague51",
+      "target": "AdamGenesisEden",
+      "trust": 10,
+      "timestamp": 1745399972
+    },
+    {
+      "source": "L_Y_E_S_H",
+      "target": "K8568088581417",
+      "trust": 70,
+      "timestamp": 1745403542
+    },
+    {
+      "source": "ArdamirofArda",
+      "target": "randomtweetor",
+      "trust": 85,
+      "timestamp": 1745404034
+    },
+    {
+      "source": "disgustipated42",
+      "target": "yourfriendSOMMI",
+      "trust": 10,
+      "timestamp": 1745405248
+    },
+    {
+      "source": "Truthistruth369",
+      "target": "DCharles30",
+      "trust": 10,
+      "timestamp": 1745409713
+    },
+    {
+      "source": "cinematicfever",
+      "target": "LuAngeles",
+      "trust": 10,
+      "timestamp": 1745411216
+    },
+    {
+      "source": "ImminentDisclsr",
+      "target": "MichelVan4",
+      "trust": 10,
+      "timestamp": 1745414282
+    },
+    {
+      "source": "randomtweetor",
+      "target": "Jim87504388",
+      "trust": 10,
+      "timestamp": 1745415135
+    },
+    {
+      "source": "MFungi369",
+      "target": "CourtneyLeffall",
+      "trust": 60,
+      "timestamp": 1745416241
+    },
+    {
+      "source": "alextopol",
+      "target": "Casual_Lynx",
+      "trust": 10,
+      "timestamp": 1745419499
+    },
+    {
+      "source": "devgru1980mi",
+      "target": "3xceptional1886",
+      "trust": 30,
+      "timestamp": 1745435844
+    },
+    {
+      "source": "GiavedoniEric",
+      "target": "keeptxtx",
+      "trust": 75,
+      "timestamp": 1745437172
+    },
+    {
+      "source": "bryceduncan13",
+      "target": "RobHeatherly1",
+      "trust": 10,
+      "timestamp": 1745443654
     },
     {
       "source": "DynomiteBizQuit",
+      "target": "RobHeatherly1",
+      "trust": 20,
+      "timestamp": 1745456435
+    },
+    {
+      "source": "alextopol",
+      "target": "ArdamirofArda",
+      "trust": 10,
+      "timestamp": 1745458955
+    },
+    {
+      "source": "wouilisam",
+      "target": "wiel_jade",
+      "trust": 60,
+      "timestamp": 1745461206
+    },
+    {
+      "source": "Truthistruth369",
+      "target": "Deepneuron",
+      "trust": 10,
+      "timestamp": 1745463629
+    },
+    {
+      "source": "bennibennasi01",
+      "target": "ufoofinterest",
+      "trust": 10,
+      "timestamp": 1745464246
+    },
+    {
+      "source": "Truthistruth369",
+      "target": "HighPeaks77",
+      "trust": 5,
+      "timestamp": 1745465854
+    },
+    {
+      "source": "GodSawUs",
+      "target": "DStateRespTeam",
+      "trust": 10,
+      "timestamp": 1745468017
+    },
+    {
+      "source": "kingdom_pioneer",
+      "target": "MFungi369",
+      "trust": 20,
+      "timestamp": 1745472224
+    },
+    {
+      "source": "Dalerob62",
+      "target": "bennibennasi01",
+      "trust": 10,
+      "timestamp": 1745477633
+    },
+    {
+      "source": "darkjournalist",
+      "target": "HighPeaks77",
+      "trust": 5,
+      "timestamp": 1745479230
+    },
+    {
+      "source": "el_kowalsky",
+      "target": "MizzMisanthrope",
+      "trust": 20,
+      "timestamp": 1745485133
+    },
+    {
+      "source": "MFungi369",
+      "target": "JustXAshton",
+      "trust": 10,
+      "timestamp": 1745491014
+    },
+    {
+      "source": "RedPandaKoala",
+      "target": "FILIUM_PATRIS",
+      "trust": 10,
+      "timestamp": 1745498144
+    },
+    {
+      "source": "s36371222",
+      "target": "GrantLavac",
+      "trust": 90,
+      "timestamp": 1745503449
+    },
+    {
+      "source": "TheProjectUnity",
+      "target": "GeologicalSETI",
+      "trust": 85,
+      "timestamp": 1745508250
+    },
+    {
+      "source": "JoseACaravaca",
+      "target": "JoeyIsntMyName",
+      "trust": 10,
+      "timestamp": 1745509182
+    },
+    {
+      "source": "MFungi369",
+      "target": "SimulatedLion",
+      "trust": 20,
+      "timestamp": 1745509853
+    },
+    {
+      "source": "AAWSAPRocky",
+      "target": "billynboys23",
+      "trust": 10,
+      "timestamp": 1745511930
+    },
+    {
+      "source": "ThisGuyCTE",
+      "target": "DocAlienista",
+      "trust": 10,
+      "timestamp": 1745518850
+    },
+    {
+      "source": "TheUAPShow",
+      "target": "LehtoFiles",
+      "trust": 75,
+      "timestamp": 1745520515
+    },
+    {
+      "source": "InTheShed4",
+      "target": "alextopol",
+      "trust": 20,
+      "timestamp": 1745521813
+    },
+    {
+      "source": "planethunter56",
+      "target": "VettedPodcast",
+      "trust": 75,
+      "timestamp": 1745522740
+    },
+    {
+      "source": "yourfriendSOMMI",
+      "target": "TST___Radio",
+      "trust": 10,
+      "timestamp": 1745524196
+    },
+    {
+      "source": "ChaoticGood42_",
+      "target": "Salahald1n",
+      "trust": 10,
+      "timestamp": 1745530204
+    },
+    {
+      "source": "ArdamirofArda",
+      "target": "JettRink1956",
+      "trust": 20,
+      "timestamp": 1745530606
+    },
+    {
+      "source": "LueElizondo",
+      "target": "issaufo",
+      "trust": 20,
+      "timestamp": 1745537481
+    },
+    {
+      "source": "LibertyUAP",
+      "target": "ImminentDisclsr",
+      "trust": 10,
+      "timestamp": 1745539011
+    },
+    {
+      "source": "TheScottyRaby",
+      "target": "billynboys23",
+      "trust": 90,
+      "timestamp": 1745547647
+    },
+    {
+      "source": "DynomiteBizQuit",
+      "target": "HoverBrothers",
+      "trust": 10,
+      "timestamp": 1745550824
+    },
+    {
+      "source": "TST___Radio",
+      "target": "TheScottyRaby",
+      "trust": 15,
+      "timestamp": 1745561373
+    },
+    {
+      "source": "L_Y_E_S_H",
+      "target": "opngate",
+      "trust": 75,
+      "timestamp": 1745564404
+    },
+    {
+      "source": "opngate",
+      "target": "randomtweetor",
+      "trust": 60,
+      "timestamp": 1745577676
+    },
+    {
+      "source": "keeptxtx",
+      "target": "LMG_PRODUCTION",
+      "trust": 10,
+      "timestamp": 1745578777
+    },
+    {
+      "source": "et_alien_uap",
+      "target": "HoverBrothers",
+      "trust": 10,
+      "timestamp": 1745587472
+    },
+    {
+      "source": "OEFTF11",
+      "target": "zcichy",
+      "trust": 10,
+      "timestamp": 1745587999
+    },
+    {
+      "source": "opngate",
+      "target": "wow36932525",
+      "trust": 60,
+      "timestamp": 1745590879
+    },
+    {
+      "source": "GiavedoniEric",
+      "target": "b4cktoreality",
+      "trust": 20,
+      "timestamp": 1745591478
+    },
+    {
+      "source": "Shwinnx",
+      "target": "possiblygnostic",
+      "trust": 15,
+      "timestamp": 1745593150
+    },
+    {
+      "source": "wouilisam",
+      "target": "HoverBrothers",
+      "trust": 10,
+      "timestamp": 1745593419
+    },
+    {
+      "source": "likeitmatters3",
+      "target": "ChrisUKSharp",
+      "trust": 10,
+      "timestamp": 1745596829
+    },
+    {
+      "source": "0mega_Point",
+      "target": "AAWSAPRocky",
+      "trust": 75,
+      "timestamp": 1745599685
+    },
+    {
+      "source": "RealArea503",
+      "target": "JonestechDev",
+      "trust": 10,
+      "timestamp": 1745606928
+    },
+    {
+      "source": "possiblygnostic",
+      "target": "RyanSprague51",
+      "trust": 10,
+      "timestamp": 1745607265
+    },
+    {
+      "source": "SomewhereSkies",
+      "target": "yourfriendSOMMI",
+      "trust": 10,
+      "timestamp": 1745616335
+    },
+    {
+      "source": "GoodTroubleShow",
+      "target": "InTheShed4",
+      "trust": 85,
+      "timestamp": 1745622896
+    },
+    {
+      "source": "3xceptional1886",
+      "target": "kingdom_pioneer",
+      "trust": 50,
+      "timestamp": 1745625841
+    },
+    {
+      "source": "combatinsight",
+      "target": "Btc4thepeople",
+      "trust": 80,
+      "timestamp": 1745633922
+    },
+    {
+      "source": "billynboys23",
+      "target": "Baptiste_Fri",
+      "trust": 5,
+      "timestamp": 1745641781
+    },
+    {
+      "source": "billynboys23",
+      "target": "JoeyIsntMyName",
+      "trust": 0,
+      "timestamp": 1745651103
+    },
+    {
+      "source": "TimeCommandHQ",
+      "target": "horror__guy",
+      "trust": 10,
+      "timestamp": 1745671173
+    },
+    {
+      "source": "SomewhereSkies",
+      "target": "missj75",
+      "trust": 10,
+      "timestamp": 1745676258
+    },
+    {
+      "source": "MiddleOfMayhem",
+      "target": "MizzMisanthrope",
+      "trust": 10,
+      "timestamp": 1745677989
+    },
+    {
+      "source": "RedPandaKoala",
+      "target": "GrantLavac",
+      "trust": 10,
+      "timestamp": 1745680922
+    },
+    {
+      "source": "ChrisUKSharp",
+      "target": "VictorG_45",
+      "trust": 10,
+      "timestamp": 1745687125
+    },
+    {
+      "source": "ADelarge60",
+      "target": "EricBurlison",
+      "trust": 10,
+      "timestamp": 1745688498
+    },
+    {
+      "source": "PostDisclosure",
+      "target": "Gandalf_ElPulpo",
+      "trust": 75,
+      "timestamp": 1745694226
+    },
+    {
+      "source": "FILIUM_PATRIS",
+      "target": "MichelVan4",
+      "trust": 10,
+      "timestamp": 1745701885
+    },
+    {
+      "source": "FlyaEther33",
+      "target": "FLVinny",
+      "trust": 10,
+      "timestamp": 1745704923
+    },
+    {
+      "source": "JettRink1956",
+      "target": "Truthpolex",
+      "trust": 10,
+      "timestamp": 1745704946
+    },
+    {
+      "source": "Btc4thepeople",
+      "target": "EricBurlison",
+      "trust": 20,
+      "timestamp": 1745710477
+    },
+    {
+      "source": "VictorG_45",
+      "target": "gdechico2",
+      "trust": 20,
+      "timestamp": 1745712478
+    },
+    {
+      "source": "wouilisam",
+      "target": "GeologicalSETI",
+      "trust": 60,
+      "timestamp": 1745712576
+    },
+    {
+      "source": "GabeTruthseeker",
+      "target": "JoeyIsntMyName",
+      "trust": 10,
+      "timestamp": 1745713846
+    },
+    {
+      "source": "AeroTech_Space",
+      "target": "RealArea503",
+      "trust": 10,
+      "timestamp": 1745716694
+    },
+    {
+      "source": "XExcalibur333",
+      "target": "JettRink1956",
+      "trust": 20,
+      "timestamp": 1745724918
+    },
+    {
+      "source": "htTweets",
+      "target": "GrantLavac",
+      "trust": 85,
+      "timestamp": 1745729299
+    },
+    {
+      "source": "Docneuroeo",
+      "target": "keeptxtx",
+      "trust": 20,
+      "timestamp": 1745729314
+    },
+    {
+      "source": "TUPACABRA2",
+      "target": "19k0011",
+      "trust": 10,
+      "timestamp": 1745736765
+    },
+    {
+      "source": "revistaANOCERO",
+      "target": "issaufo",
+      "trust": 60,
+      "timestamp": 1745737973
+    },
+    {
+      "source": "UFOCollage",
       "target": "OEFTF11",
       "trust": 70,
-      "timestamp": 1747039503
+      "timestamp": 1745740128
+    },
+    {
+      "source": "z28mjt79",
+      "target": "HoverBrothers",
+      "trust": 0,
+      "timestamp": 1745741705
+    },
+    {
+      "source": "FeeFiFoFum1995",
+      "target": "OEFTF11",
+      "trust": 75,
+      "timestamp": 1745745899
+    },
+    {
+      "source": "XExcalibur333",
+      "target": "VettedPodcast",
+      "trust": 10,
+      "timestamp": 1745746378
+    },
+    {
+      "source": "LibertyUAP",
+      "target": "KnightsGloryy",
+      "trust": 10,
+      "timestamp": 1745747726
+    },
+    {
+      "source": "TST___Radio",
+      "target": "Truthpolex",
+      "trust": 10,
+      "timestamp": 1745750726
+    },
+    {
+      "source": "GemaLozan",
+      "target": "GeologicalSETI",
+      "trust": 75,
+      "timestamp": 1745751325
+    },
+    {
+      "source": "Gchan45591268",
+      "target": "Dalerob62",
+      "trust": 1,
+      "timestamp": 1745754185
+    },
+    {
+      "source": "BobMcGwier_N4HY",
+      "target": "ImminentDisclsr",
+      "trust": 60,
+      "timestamp": 1745755362
+    },
+    {
+      "source": "opngate",
+      "target": "KelanderthalMan",
+      "trust": 20,
+      "timestamp": 1745756090
+    },
+    {
+      "source": "Knoxcat55",
+      "target": "ThisGuyCTE",
+      "trust": 85,
+      "timestamp": 1745757867
+    },
+    {
+      "source": "StevenCambian",
+      "target": "Docneuroeo",
+      "trust": 85,
+      "timestamp": 1745759166
+    },
+    {
+      "source": "serpopro",
+      "target": "L_Y_E_S_H",
+      "trust": 20,
+      "timestamp": 1745762465
+    },
+    {
+      "source": "Marc_La_Rock",
+      "target": "XExcalibur333",
+      "trust": 60,
+      "timestamp": 1745767189
+    },
+    {
+      "source": "serpopro",
+      "target": "GrantLavac",
+      "trust": 85,
+      "timestamp": 1745768321
+    },
+    {
+      "source": "TurtleOfTime12",
+      "target": "StevenCambian",
+      "trust": 85,
+      "timestamp": 1745770198
+    },
+    {
+      "source": "alextopol",
+      "target": "wow36932525",
+      "trust": 10,
+      "timestamp": 1745774656
+    },
+    {
+      "source": "GoodTroubleShow",
+      "target": "KelanderthalMan",
+      "trust": 10,
+      "timestamp": 1745774808
+    },
+    {
+      "source": "GiavedoniEric",
+      "target": "ArdamirofArda",
+      "trust": 70,
+      "timestamp": 1745775346
+    },
+    {
+      "source": "cinematicfever",
+      "target": "K8568088581417",
+      "trust": 40,
+      "timestamp": 1745777200
+    },
+    {
+      "source": "DrAtsabNikcuf",
+      "target": "69Skoal69",
+      "trust": 20,
+      "timestamp": 1745778159
+    },
+    {
+      "source": "Salahald1n",
+      "target": "InTheShed4",
+      "trust": 50,
+      "timestamp": 1745779498
+    },
+    {
+      "source": "AdamGenesisEden",
+      "target": "arrowbombadil",
+      "trust": 10,
+      "timestamp": 1745779819
+    },
+    {
+      "source": "69Skoal69",
+      "target": "MFungi369",
+      "trust": 20,
+      "timestamp": 1745781276
+    },
+    {
+      "source": "GodSawUs",
+      "target": "possiblygnostic",
+      "trust": 20,
+      "timestamp": 1745785853
+    },
+    {
+      "source": "TurtleOfTime12",
+      "target": "yourfriendSOMMI",
+      "trust": 10,
+      "timestamp": 1745793189
+    },
+    {
+      "source": "Truthpolex",
+      "target": "OEFTF11",
+      "trust": 20,
+      "timestamp": 1745795668
+    },
+    {
+      "source": "Jim87504388",
+      "target": "OEFTF11",
+      "trust": 10,
+      "timestamp": 1745798492
+    },
+    {
+      "source": "SomewhereSkies",
+      "target": "disgustipated42",
+      "trust": 75,
+      "timestamp": 1745798975
+    },
+    {
+      "source": "Knoxcat55",
+      "target": "19k0011",
+      "trust": 20,
+      "timestamp": 1745799914
+    },
+    {
+      "source": "JoseACaravaca",
+      "target": "LibertyUAP",
+      "trust": 10,
+      "timestamp": 1745806731
+    },
+    {
+      "source": "WolfShieldRam",
+      "target": "HoverBrothers",
+      "trust": 90,
+      "timestamp": 1745807177
+    },
+    {
+      "source": "htTweets",
+      "target": "AAWSAPRocky",
+      "trust": 70,
+      "timestamp": 1745813551
+    },
+    {
+      "source": "Baptiste_Fri",
+      "target": "Marc_La_Rock",
+      "trust": 10,
+      "timestamp": 1745814284
+    },
+    {
+      "source": "AnxWhisperer",
+      "target": "et_alien_uap",
+      "trust": 75,
+      "timestamp": 1745814818
+    },
+    {
+      "source": "FettuccineSplit",
+      "target": "DotherowDa71497",
+      "trust": 10,
+      "timestamp": 1745819290
+    },
+    {
+      "source": "SomewhereSkies",
+      "target": "TST___Radio",
+      "trust": 10,
+      "timestamp": 1745819384
+    },
+    {
+      "source": "disgustipated42",
+      "target": "revistaANOCERO",
+      "trust": 75,
+      "timestamp": 1745820906
+    },
+    {
+      "source": "dave_beaty",
+      "target": "WhoshotyaCo",
+      "trust": 10,
+      "timestamp": 1745823638
+    },
+    {
+      "source": "combatinsight",
+      "target": "TimeCommandHQ",
+      "trust": 75,
+      "timestamp": 1745824886
+    },
+    {
+      "source": "RyanSprague51",
+      "target": "Ekklectico",
+      "trust": 20,
+      "timestamp": 1745831848
+    },
+    {
+      "source": "AdamGenesisEden",
+      "target": "FlyaEther33",
+      "trust": 5,
+      "timestamp": 1745833117
+    },
+    {
+      "source": "possiblygnostic",
+      "target": "GemaLozan",
+      "trust": 10,
+      "timestamp": 1745833432
+    },
+    {
+      "source": "GeologicalSETI",
+      "target": "Gandalf_ElPulpo",
+      "trust": 10,
+      "timestamp": 1745849785
+    },
+    {
+      "source": "dave_beaty",
+      "target": "et_alien_uap",
+      "trust": 60,
+      "timestamp": 1745850921
+    },
+    {
+      "source": "VictorG_45",
+      "target": "darkjournalist",
+      "trust": 80,
+      "timestamp": 1745854007
+    },
+    {
+      "source": "Salahald1n",
+      "target": "CourtneyLeffall",
+      "trust": 70,
+      "timestamp": 1745858751
+    },
+    {
+      "source": "EricBurlison",
+      "target": "LibertyUAP",
+      "trust": 20,
+      "timestamp": 1745860286
+    },
+    {
+      "source": "combatinsight",
+      "target": "UAPReportingCnt",
+      "trust": 80,
+      "timestamp": 1745861859
+    },
+    {
+      "source": "VettedPodcast",
+      "target": "ThisGuyCTE",
+      "trust": 10,
+      "timestamp": 1745863956
+    },
+    {
+      "source": "JettRink1956",
+      "target": "Knoxcat55",
+      "trust": 20,
+      "timestamp": 1745866846
+    },
+    {
+      "source": "GabeTruthseeker",
+      "target": "SimulatedLion",
+      "trust": 20,
+      "timestamp": 1745867506
+    },
+    {
+      "source": "yourfriendSOMMI",
+      "target": "LMG_PRODUCTION",
+      "trust": 85,
+      "timestamp": 1745870408
+    },
+    {
+      "source": "Dalerob62",
+      "target": "ArdamirofArda",
+      "trust": 70,
+      "timestamp": 1745870487
+    },
+    {
+      "source": "OEFTF11",
+      "target": "DotherowDa71497",
+      "trust": 10,
+      "timestamp": 1745884827
+    },
+    {
+      "source": "FLVinny",
+      "target": "z28mjt79",
+      "trust": 10,
+      "timestamp": 1745886916
+    },
+    {
+      "source": "GoodTroubleShow",
+      "target": "DrAtsabNikcuf",
+      "trust": 60,
+      "timestamp": 1745893682
+    },
+    {
+      "source": "LuAngeles",
+      "target": "yourfriendSOMMI",
+      "trust": 10,
+      "timestamp": 1745899311
+    },
+    {
+      "source": "UAPJames",
+      "target": "kingdom_pioneer",
+      "trust": 95,
+      "timestamp": 1745899542
+    },
+    {
+      "source": "KelanderthalMan",
+      "target": "wouilisam",
+      "trust": 10,
+      "timestamp": 1745905798
+    },
+    {
+      "source": "bryceduncan13",
+      "target": "L_Y_E_S_H",
+      "trust": 5,
+      "timestamp": 1745908234
+    },
+    {
+      "source": "VictorG_45",
+      "target": "ParaN_rmal",
+      "trust": 20,
+      "timestamp": 1745914419
+    },
+    {
+      "source": "bryceduncan13",
+      "target": "randomtweetor",
+      "trust": 85,
+      "timestamp": 1745920858
+    },
+    {
+      "source": "FeeFiFoFum1995",
+      "target": "SmartlyUneducat",
+      "trust": 10,
+      "timestamp": 1745921334
+    },
+    {
+      "source": "K8568088581417",
+      "target": "BlueshiftRadio",
+      "trust": 75,
+      "timestamp": 1745924612
+    },
+    {
+      "source": "EricBurlison",
+      "target": "devgru1980mi",
+      "trust": 20,
+      "timestamp": 1745929020
+    },
+    {
+      "source": "TheUAPShow",
+      "target": "UFODebrief",
+      "trust": 20,
+      "timestamp": 1745945362
+    },
+    {
+      "source": "RobHeatherly1",
+      "target": "keeptxtx",
+      "trust": 20,
+      "timestamp": 1745946497
+    },
+    {
+      "source": "AnxWhisperer",
+      "target": "Baptiste_Fri",
+      "trust": 90,
+      "timestamp": 1745960694
+    },
+    {
+      "source": "DStateRespTeam",
+      "target": "billynboys23",
+      "trust": 10,
+      "timestamp": 1745964863
+    },
+    {
+      "source": "grok",
+      "target": "ADelarge60",
+      "trust": 15,
+      "timestamp": 1745966548
+    },
+    {
+      "source": "shotdownmind",
+      "target": "z28mjt79",
+      "trust": 20,
+      "timestamp": 1745967932
+    },
+    {
+      "source": "TheUAPShow",
+      "target": "UAPJames",
+      "trust": 100,
+      "timestamp": 1745980281
+    },
+    {
+      "source": "ImminentDisclsr",
+      "target": "MiddleOfMayhem",
+      "trust": 20,
+      "timestamp": 1745985166
+    },
+    {
+      "source": "69Skoal69",
+      "target": "z28mjt79",
+      "trust": 10,
+      "timestamp": 1745986091
+    },
+    {
+      "source": "wow36932525",
+      "target": "MFungi369",
+      "trust": 10,
+      "timestamp": 1745986814
+    },
+    {
+      "source": "VettedPodcast",
+      "target": "FILIUM_PATRIS",
+      "trust": 10,
+      "timestamp": 1745987105
+    },
+    {
+      "source": "Casual_Lynx",
+      "target": "ImminentDisclsr",
+      "trust": 5,
+      "timestamp": 1745988964
+    },
+    {
+      "source": "Gchan45591268",
+      "target": "RobHeatherly1",
+      "trust": 10,
+      "timestamp": 1745990089
+    },
+    {
+      "source": "wow36932525",
+      "target": "PostDisclosure",
+      "trust": 75,
+      "timestamp": 1745992013
+    },
+    {
+      "source": "K8568088581417",
+      "target": "Truthistruth369",
+      "trust": 10,
+      "timestamp": 1745996512
+    },
+    {
+      "source": "LehtoFiles",
+      "target": "LueElizondo",
+      "trust": 75,
+      "timestamp": 1745996696
+    },
+    {
+      "source": "WolfShieldRam",
+      "target": "Docneuroeo",
+      "trust": 10,
+      "timestamp": 1746001018
+    },
+    {
+      "source": "ThisGuyCTE",
+      "target": "bryceduncan13",
+      "trust": 75,
+      "timestamp": 1746003151
+    },
+    {
+      "source": "FLVinny",
+      "target": "alextopol",
+      "trust": 10,
+      "timestamp": 1746004882
+    },
+    {
+      "source": "TST___Radio",
+      "target": "UAPJames",
+      "trust": 20,
+      "timestamp": 1746005285
+    },
+    {
+      "source": "BobMcGwier_N4HY",
+      "target": "VictorG_45",
+      "trust": 10,
+      "timestamp": 1746008640
+    },
+    {
+      "source": "Dalerob62",
+      "target": "NickMadrid16",
+      "trust": 80,
+      "timestamp": 1746009352
+    },
+    {
+      "source": "LueElizondo",
+      "target": "L_Y_E_S_H",
+      "trust": 20,
+      "timestamp": 1746015094
+    },
+    {
+      "source": "arrowbombadil",
+      "target": "LehtoFiles",
+      "trust": 10,
+      "timestamp": 1746017418
+    },
+    {
+      "source": "TimeCommandHQ",
+      "target": "AAWSAPRocky",
+      "trust": 70,
+      "timestamp": 1746018344
+    },
+    {
+      "source": "Baptiste_Fri",
+      "target": "JoeyIsntMyName",
+      "trust": 10,
+      "timestamp": 1746018437
+    },
+    {
+      "source": "GiavedoniEric",
+      "target": "DStateRespTeam",
+      "trust": 10,
+      "timestamp": 1746018760
+    },
+    {
+      "source": "LMG_PRODUCTION",
+      "target": "fringequest",
+      "trust": 5,
+      "timestamp": 1746020507
+    },
+    {
+      "source": "Gandalf_ElPulpo",
+      "target": "Jim87504388",
+      "trust": 60,
+      "timestamp": 1746021219
+    },
+    {
+      "source": "ArdamirofArda",
+      "target": "WhoshotyaCo",
+      "trust": 60,
+      "timestamp": 1746022147
+    },
+    {
+      "source": "69Skoal69",
+      "target": "Truthpolex",
+      "trust": 10,
+      "timestamp": 1746025136
+    },
+    {
+      "source": "horror__guy",
+      "target": "FLVinny",
+      "trust": 10,
+      "timestamp": 1746029548
+    },
+    {
+      "source": "MichelVan4",
+      "target": "JettRink1956",
+      "trust": 10,
+      "timestamp": 1746030315
+    },
+    {
+      "source": "b4cktoreality",
+      "target": "Truthistruth369",
+      "trust": 10,
+      "timestamp": 1746035378
+    },
+    {
+      "source": "JoeyIsntMyName",
+      "target": "ImminentDisclsr",
+      "trust": 15,
+      "timestamp": 1746043349
+    },
+    {
+      "source": "ADelarge60",
+      "target": "FlyaEther33",
+      "trust": 10,
+      "timestamp": 1746045439
+    },
+    {
+      "source": "UFODebrief",
+      "target": "fringequest",
+      "trust": 10,
+      "timestamp": 1746056485
+    },
+    {
+      "source": "FlyaEther33",
+      "target": "htTweets",
+      "trust": 10,
+      "timestamp": 1746060772
+    },
+    {
+      "source": "SPOOOKYUFO",
+      "target": "BlueshiftRadio",
+      "trust": 10,
+      "timestamp": 1746066216
+    },
+    {
+      "source": "GoodTroubleShow",
+      "target": "michaelshermer",
+      "trust": 10,
+      "timestamp": 1746066645
+    },
+    {
+      "source": "Marc_La_Rock",
+      "target": "Dalerob62",
+      "trust": 10,
+      "timestamp": 1746067116
+    },
+    {
+      "source": "LueElizondo",
+      "target": "DotherowDa71497",
+      "trust": 20,
+      "timestamp": 1746069232
+    },
+    {
+      "source": "s36371222",
+      "target": "0mega_Point",
+      "trust": 20,
+      "timestamp": 1746070571
+    },
+    {
+      "source": "JonMajerowski",
+      "target": "possiblygnostic",
+      "trust": 20,
+      "timestamp": 1746074249
+    },
+    {
+      "source": "The_Astral_",
+      "target": "revistaANOCERO",
+      "trust": 60,
+      "timestamp": 1746076114
+    },
+    {
+      "source": "billynboys23",
+      "target": "SPOOOKYUFO",
+      "trust": 5,
+      "timestamp": 1746078838
+    },
+    {
+      "source": "Docneuroeo",
+      "target": "Baptiste_Fri",
+      "trust": 10,
+      "timestamp": 1746081647
+    },
+    {
+      "source": "NickMadrid16",
+      "target": "GrantLavac",
+      "trust": 10,
+      "timestamp": 1746084807
+    },
+    {
+      "source": "dave_beaty",
+      "target": "SPOOOKYUFO",
+      "trust": 15,
+      "timestamp": 1746085974
+    },
+    {
+      "source": "UFODebrief",
+      "target": "StevenCambian",
+      "trust": 10,
+      "timestamp": 1746086401
+    },
+    {
+      "source": "WhoshotyaCo",
+      "target": "HoverBrothers",
+      "trust": 10,
+      "timestamp": 1746098853
+    },
+    {
+      "source": "Deepneuron",
+      "target": "RealArea503",
+      "trust": 10,
+      "timestamp": 1746099270
+    },
+    {
+      "source": "Truthistruth369",
+      "target": "JustXAshton",
+      "trust": 90,
+      "timestamp": 1746103178
+    },
+    {
+      "source": "GemaLozan",
+      "target": "JoeyIsntMyName",
+      "trust": 10,
+      "timestamp": 1746104394
+    },
+    {
+      "source": "el_kowalsky",
+      "target": "GoodTroubleShow",
+      "trust": 10,
+      "timestamp": 1746107074
+    },
+    {
+      "source": "GeologicalSETI",
+      "target": "serpopro",
+      "trust": 20,
+      "timestamp": 1746108400
+    },
+    {
+      "source": "GodSawUs",
+      "target": "JoeyIsntMyName",
+      "trust": 60,
+      "timestamp": 1746114233
+    },
+    {
+      "source": "fringequest",
+      "target": "michaelshermer",
+      "trust": 90,
+      "timestamp": 1746119231
+    },
+    {
+      "source": "TheProjectUnity",
+      "target": "implicateflow",
+      "trust": 10,
+      "timestamp": 1746124500
+    },
+    {
+      "source": "NickMadrid16",
+      "target": "JonestechDev",
+      "trust": 70,
+      "timestamp": 1746130374
+    },
+    {
+      "source": "OEFTF11",
+      "target": "AnxWhisperer",
+      "trust": 10,
+      "timestamp": 1746131415
+    },
+    {
+      "source": "alextopol",
+      "target": "serpoprojectaus",
+      "trust": 30,
+      "timestamp": 1746132429
+    },
+    {
+      "source": "Baptiste_Fri",
+      "target": "JonMajerowski",
+      "trust": 90,
+      "timestamp": 1746133493
+    },
+    {
+      "source": "b4cktoreality",
+      "target": "ParaN_rmal",
+      "trust": 15,
+      "timestamp": 1746134770
+    },
+    {
+      "source": "ChrisUKSharp",
+      "target": "Truthistruth369",
+      "trust": 10,
+      "timestamp": 1746135806
+    },
+    {
+      "source": "The_Astral_",
+      "target": "Salahald1n",
+      "trust": 60,
+      "timestamp": 1746138086
+    },
+    {
+      "source": "Ekklectico",
+      "target": "69Skoal69",
+      "trust": 80,
+      "timestamp": 1746141797
+    },
+    {
+      "source": "FILIUM_PATRIS",
+      "target": "s36371222",
+      "trust": 5,
+      "timestamp": 1746142992
+    },
+    {
+      "source": "ParaN_rmal",
+      "target": "et_alien_uap",
+      "trust": 10,
+      "timestamp": 1746143378
+    },
+    {
+      "source": "ImminentDisclsr",
+      "target": "XExcalibur333",
+      "trust": 60,
+      "timestamp": 1746143480
+    },
+    {
+      "source": "wouilisam",
+      "target": "randomtweetor",
+      "trust": 10,
+      "timestamp": 1746144192
+    },
+    {
+      "source": "CourtneyLeffall",
+      "target": "Salahald1n",
+      "trust": 10,
+      "timestamp": 1746144795
+    },
+    {
+      "source": "MizzMisanthrope",
+      "target": "FILIUM_PATRIS",
+      "trust": 10,
+      "timestamp": 1746147528
+    },
+    {
+      "source": "AnxWhisperer",
+      "target": "VictorG_45",
+      "trust": 25,
+      "timestamp": 1746149529
+    },
+    {
+      "source": "revistaANOCERO",
+      "target": "GrantLavac",
+      "trust": 90,
+      "timestamp": 1746149629
     },
     {
       "source": "missj75",
-      "target": "wiel_jade",
+      "target": "disgustipated42",
+      "trust": 5,
+      "timestamp": 1746154411
+    },
+    {
+      "source": "keeptxtx",
+      "target": "JonestechDev",
+      "trust": 70,
+      "timestamp": 1746155574
+    },
+    {
+      "source": "AdamGenesisEden",
+      "target": "TimeCommandHQ",
       "trust": 10,
-      "timestamp": 1747042783
+      "timestamp": 1746156639
+    },
+    {
+      "source": "OEFTF11",
+      "target": "StevenCambian",
+      "trust": 85,
+      "timestamp": 1746157702
+    },
+    {
+      "source": "RobHeatherly1",
+      "target": "TST___Radio",
+      "trust": 10,
+      "timestamp": 1746161595
+    },
+    {
+      "source": "UAPReportingCnt",
+      "target": "KnightsGloryy",
+      "trust": 5,
+      "timestamp": 1746164033
+    },
+    {
+      "source": "19k0011",
+      "target": "serpoprojectaus",
+      "trust": 20,
+      "timestamp": 1746165455
+    },
+    {
+      "source": "SimulatedLion",
+      "target": "0mega_Point",
+      "trust": 70,
+      "timestamp": 1746167971
+    },
+    {
+      "source": "RealArea503",
+      "target": "keeptxtx",
+      "trust": 10,
+      "timestamp": 1746171085
+    },
+    {
+      "source": "wiel_jade",
+      "target": "DocAlienista",
+      "trust": 60,
+      "timestamp": 1746176707
+    },
+    {
+      "source": "disgustipated42",
+      "target": "serpoprojectaus",
+      "trust": 75,
+      "timestamp": 1746178339
+    },
+    {
+      "source": "htTweets",
+      "target": "HighPeaks77",
+      "trust": 70,
+      "timestamp": 1746179935
+    },
+    {
+      "source": "kingdom_pioneer",
+      "target": "fringequest",
+      "trust": 10,
+      "timestamp": 1746182185
+    },
+    {
+      "source": "issaufo",
+      "target": "RedPandaKoala",
+      "trust": 10,
+      "timestamp": 1746185020
+    },
+    {
+      "source": "LueElizondo",
+      "target": "UFOCollage",
+      "trust": 10,
+      "timestamp": 1746185913
+    },
+    {
+      "source": "InTheShed4",
+      "target": "FlyaEther33",
+      "trust": 10,
+      "timestamp": 1746198355
+    },
+    {
+      "source": "3xceptional1886",
+      "target": "AAWSAPRocky",
+      "trust": 60,
+      "timestamp": 1746200114
+    },
+    {
+      "source": "grok",
+      "target": "LueElizondo",
+      "trust": 65,
+      "timestamp": 1746200577
+    },
+    {
+      "source": "possiblygnostic",
+      "target": "FILIUM_PATRIS",
+      "trust": 10,
+      "timestamp": 1746201086
+    },
+    {
+      "source": "cinematicfever",
+      "target": "DrAtsabNikcuf",
+      "trust": 20,
+      "timestamp": 1746208357
+    },
+    {
+      "source": "OSIRISUAP",
+      "target": "FILIUM_PATRIS",
+      "trust": 10,
+      "timestamp": 1746208868
+    },
+    {
+      "source": "LehtoFiles",
+      "target": "Gchan45591268",
+      "trust": 1,
+      "timestamp": 1746209413
+    },
+    {
+      "source": "InTheShed4",
+      "target": "WolfShieldRam",
+      "trust": 10,
+      "timestamp": 1746209756
+    },
+    {
+      "source": "MiddleOfMayhem",
+      "target": "disgustipated42",
+      "trust": 10,
+      "timestamp": 1746210253
+    },
+    {
+      "source": "LuAngeles",
+      "target": "MichelVan4",
+      "trust": 10,
+      "timestamp": 1746216424
+    },
+    {
+      "source": "EricBurlison",
+      "target": "Btc4thepeople",
+      "trust": 20,
+      "timestamp": 1746217834
+    },
+    {
+      "source": "LMG_PRODUCTION",
+      "target": "DCharles30",
+      "trust": 10,
+      "timestamp": 1746218553
+    },
+    {
+      "source": "ParaN_rmal",
+      "target": "revistaANOCERO",
+      "trust": 10,
+      "timestamp": 1746226965
+    },
+    {
+      "source": "19k0011",
+      "target": "ChaoticGood42_",
+      "trust": 10,
+      "timestamp": 1746229872
+    },
+    {
+      "source": "HoverBrothers",
+      "target": "ImminentDisclsr",
+      "trust": 10,
+      "timestamp": 1746233728
+    },
+    {
+      "source": "OEFTF11",
+      "target": "KelanderthalMan",
+      "trust": 10,
+      "timestamp": 1746242416
+    },
+    {
+      "source": "Gchan45591268",
+      "target": "Docneuroeo",
+      "trust": 10,
+      "timestamp": 1746248549
+    },
+    {
+      "source": "HighPeaks77",
+      "target": "Baptiste_Fri",
+      "trust": 85,
+      "timestamp": 1746251426
+    },
+    {
+      "source": "missj75",
+      "target": "VictorG_45",
+      "trust": 10,
+      "timestamp": 1746264640
+    },
+    {
+      "source": "fringequest",
+      "target": "GoodTroubleShow",
+      "trust": 20,
+      "timestamp": 1746265536
+    },
+    {
+      "source": "UFOCollage",
+      "target": "JustXAshton",
+      "trust": 10,
+      "timestamp": 1746265954
+    },
+    {
+      "source": "zcichy",
+      "target": "0mega_Point",
+      "trust": 70,
+      "timestamp": 1746271949
+    },
+    {
+      "source": "ADelarge60",
+      "target": "shotdownmind",
+      "trust": 25,
+      "timestamp": 1746277158
+    },
+    {
+      "source": "MizzMisanthrope",
+      "target": "Marc_La_Rock",
+      "trust": 20,
+      "timestamp": 1746277980
+    },
+    {
+      "source": "FlyaEther33",
+      "target": "GoodTroubleShow",
+      "trust": 10,
+      "timestamp": 1746286600
+    },
+    {
+      "source": "opngate",
+      "target": "L_Y_E_S_H",
+      "trust": 60,
+      "timestamp": 1746286711
+    },
+    {
+      "source": "s36371222",
+      "target": "dave_beaty",
+      "trust": 10,
+      "timestamp": 1746290874
+    },
+    {
+      "source": "LuAngeles",
+      "target": "SmartlyUneducat",
+      "trust": 10,
+      "timestamp": 1746298035
+    },
+    {
+      "source": "DStateRespTeam",
+      "target": "LibertyUAP",
+      "trust": 10,
+      "timestamp": 1746298085
+    },
+    {
+      "source": "Deepneuron",
+      "target": "Salahald1n",
+      "trust": 50,
+      "timestamp": 1746299344
+    },
+    {
+      "source": "SmartlyUneducat",
+      "target": "goodmorningufo",
+      "trust": 10,
+      "timestamp": 1746299684
+    },
+    {
+      "source": "wouilisam",
+      "target": "GabeTruthseeker",
+      "trust": 60,
+      "timestamp": 1746316444
+    },
+    {
+      "source": "OSIRISUAP",
+      "target": "et_alien_uap",
+      "trust": 10,
+      "timestamp": 1746318005
+    },
+    {
+      "source": "BlueshiftRadio",
+      "target": "TurtleOfTime12",
+      "trust": 10,
+      "timestamp": 1746318961
+    },
+    {
+      "source": "InTheShed4",
+      "target": "ParaN_rmal",
+      "trust": 15,
+      "timestamp": 1746319252
+    },
+    {
+      "source": "InTheShed4",
+      "target": "JonMajerowski",
+      "trust": 70,
+      "timestamp": 1746320607
+    },
+    {
+      "source": "shotdownmind",
+      "target": "implicateflow",
+      "trust": 10,
+      "timestamp": 1746320670
+    },
+    {
+      "source": "zcichy",
+      "target": "b4cktoreality",
+      "trust": 90,
+      "timestamp": 1746324250
+    },
+    {
+      "source": "goodmorningufo",
+      "target": "wow36932525",
+      "trust": 70,
+      "timestamp": 1746332167
+    },
+    {
+      "source": "TST___Radio",
+      "target": "el_kowalsky",
+      "trust": 10,
+      "timestamp": 1746333773
+    },
+    {
+      "source": "SPOOOKYUFO",
+      "target": "ChaoticGood42_",
+      "trust": 10,
+      "timestamp": 1746338329
+    },
+    {
+      "source": "KnightsGloryy",
+      "target": "Gchan45591268",
+      "trust": 10,
+      "timestamp": 1746338623
+    },
+    {
+      "source": "ChaoticGood42_",
+      "target": "TurtleOfTime12",
+      "trust": 10,
+      "timestamp": 1746345913
+    },
+    {
+      "source": "FeeFiFoFum1995",
+      "target": "Gandalf_ElPulpo",
+      "trust": 5,
+      "timestamp": 1746350546
+    },
+    {
+      "source": "UAPJames",
+      "target": "revistaANOCERO",
+      "trust": 75,
+      "timestamp": 1746352935
+    },
+    {
+      "source": "AAWSAPRocky",
+      "target": "ChrisUKSharp",
+      "trust": 10,
+      "timestamp": 1746353270
+    },
+    {
+      "source": "JustXAshton",
+      "target": "MickWest",
+      "trust": 5,
+      "timestamp": 1746354941
+    },
+    {
+      "source": "shotdownmind",
+      "target": "DotherowDa71497",
+      "trust": 10,
+      "timestamp": 1746360882
+    },
+    {
+      "source": "gdechico2",
+      "target": "LehtoFiles",
+      "trust": 10,
+      "timestamp": 1746367631
+    },
+    {
+      "source": "Gandalf_ElPulpo",
+      "target": "JettRink1956",
+      "trust": 10,
+      "timestamp": 1746373044
+    },
+    {
+      "source": "ImminentDisclsr",
+      "target": "LibertyUAP",
+      "trust": 20,
+      "timestamp": 1746377100
+    },
+    {
+      "source": "MickWest",
+      "target": "LehtoFiles",
+      "trust": 70,
+      "timestamp": 1746382622
+    },
+    {
+      "source": "UAPJames",
+      "target": "Gchan45591268",
+      "trust": 5,
+      "timestamp": 1746382901
+    },
+    {
+      "source": "AAWSAPRocky",
+      "target": "shotdownmind",
+      "trust": 70,
+      "timestamp": 1746387462
+    },
+    {
+      "source": "Marc_La_Rock",
+      "target": "WhoshotyaCo",
+      "trust": 60,
+      "timestamp": 1746387774
+    },
+    {
+      "source": "Gandalf_ElPulpo",
+      "target": "RyanSprague51",
+      "trust": 90,
+      "timestamp": 1746402903
+    },
+    {
+      "source": "WolfShieldRam",
+      "target": "s36371222",
+      "trust": 85,
+      "timestamp": 1746403325
+    },
+    {
+      "source": "billynboys23",
+      "target": "AAWSAPRocky",
+      "trust": 10,
+      "timestamp": 1746404186
+    },
+    {
+      "source": "randomtweetor",
+      "target": "ufoofinterest",
+      "trust": 90,
+      "timestamp": 1746409580
+    },
+    {
+      "source": "L_Y_E_S_H",
+      "target": "serpoprojectaus",
+      "trust": 70,
+      "timestamp": 1746422293
+    },
+    {
+      "source": "planethunter56",
+      "target": "JettRink1956",
+      "trust": 20,
+      "timestamp": 1746428641
+    },
+    {
+      "source": "DocAlienista",
+      "target": "Ekklectico",
+      "trust": 70,
+      "timestamp": 1746433873
+    },
+    {
+      "source": "FlyaEther33",
+      "target": "Baptiste_Fri",
+      "trust": 10,
+      "timestamp": 1746434110
+    },
+    {
+      "source": "TheScottyRaby",
+      "target": "TUPACABRA2",
+      "trust": 10,
+      "timestamp": 1746436782
+    },
+    {
+      "source": "UFODebrief",
+      "target": "horror__guy",
+      "trust": 10,
+      "timestamp": 1746442773
+    },
+    {
+      "source": "missj75",
+      "target": "MickWest",
+      "trust": 20,
+      "timestamp": 1746448500
+    },
+    {
+      "source": "69Skoal69",
+      "target": "MickWest",
+      "trust": 10,
+      "timestamp": 1746457025
+    },
+    {
+      "source": "JoseACaravaca",
+      "target": "serpopro",
+      "trust": 30,
+      "timestamp": 1746457072
+    },
+    {
+      "source": "Jim87504388",
+      "target": "TheUAPShow",
+      "trust": 95,
+      "timestamp": 1746459571
+    },
+    {
+      "source": "likeitmatters3",
+      "target": "Shwinnx",
+      "trust": 10,
+      "timestamp": 1746463665
+    },
+    {
+      "source": "bennibennasi01",
+      "target": "BlueshiftRadio",
+      "trust": 90,
+      "timestamp": 1746467782
+    },
+    {
+      "source": "DotherowDa71497",
+      "target": "ADelarge60",
+      "trust": 5,
+      "timestamp": 1746474905
+    },
+    {
+      "source": "bryceduncan13",
+      "target": "RyanSprague51",
+      "trust": 0,
+      "timestamp": 1746476044
+    },
+    {
+      "source": "GrantLavac",
+      "target": "ChrisUKSharp",
+      "trust": 5,
+      "timestamp": 1746484430
+    },
+    {
+      "source": "GemaLozan",
+      "target": "Gandalf_ElPulpo",
+      "trust": 60,
+      "timestamp": 1746487879
+    },
+    {
+      "source": "UFODebrief",
+      "target": "VictorG_45",
+      "trust": 60,
+      "timestamp": 1746496271
+    },
+    {
+      "source": "TheProjectUnity",
+      "target": "Baptiste_Fri",
+      "trust": 10,
+      "timestamp": 1746500383
+    },
+    {
+      "source": "serpopro",
+      "target": "CourtneyLeffall",
+      "trust": 60,
+      "timestamp": 1746506615
+    },
+    {
+      "source": "DrAtsabNikcuf",
+      "target": "el_kowalsky",
+      "trust": 10,
+      "timestamp": 1746511530
+    },
+    {
+      "source": "DotherowDa71497",
+      "target": "InTheShed4",
+      "trust": 0,
+      "timestamp": 1746511805
+    },
+    {
+      "source": "DeJaVu2U2",
+      "target": "DotherowDa71497",
+      "trust": 10,
+      "timestamp": 1746517065
+    },
+    {
+      "source": "Truthistruth369",
+      "target": "TheProjectUnity",
+      "trust": 5,
+      "timestamp": 1746519476
+    },
+    {
+      "source": "implicateflow",
+      "target": "missj75",
+      "trust": 5,
+      "timestamp": 1746520299
+    },
+    {
+      "source": "horror__guy",
+      "target": "kingdom_pioneer",
+      "trust": 5,
+      "timestamp": 1746534131
+    },
+    {
+      "source": "wow36932525",
+      "target": "HoverBrothers",
+      "trust": 10,
+      "timestamp": 1746537158
+    },
+    {
+      "source": "devgru1980mi",
+      "target": "DynomiteBizQuit",
+      "trust": 50,
+      "timestamp": 1746537933
+    },
+    {
+      "source": "WhoshotyaCo",
+      "target": "JonestechDev",
+      "trust": 20,
+      "timestamp": 1746538034
+    },
+    {
+      "source": "AeroTech_Space",
+      "target": "opngate",
+      "trust": 10,
+      "timestamp": 1746539580
+    },
+    {
+      "source": "KnightsGloryy",
+      "target": "VictorG_45",
+      "trust": 65,
+      "timestamp": 1746543565
+    },
+    {
+      "source": "zcichy",
+      "target": "serpopro",
+      "trust": 10,
+      "timestamp": 1746548725
+    },
+    {
+      "source": "TheProjectUnity",
+      "target": "devgru1980mi",
+      "trust": 5,
+      "timestamp": 1746548920
+    },
+    {
+      "source": "Docneuroeo",
+      "target": "possiblygnostic",
+      "trust": 80,
+      "timestamp": 1746560565
+    },
+    {
+      "source": "FettuccineSplit",
+      "target": "darkjournalist",
+      "trust": 10,
+      "timestamp": 1746562648
+    },
+    {
+      "source": "TimeCommandHQ",
+      "target": "Baptiste_Fri",
+      "trust": 60,
+      "timestamp": 1746564019
+    },
+    {
+      "source": "ChaoticGood42_",
+      "target": "GrantLavac",
+      "trust": 90,
+      "timestamp": 1746568408
+    },
+    {
+      "source": "BlueshiftRadio",
+      "target": "SimulatedLion",
+      "trust": 10,
+      "timestamp": 1746571307
+    },
+    {
+      "source": "Baptiste_Fri",
+      "target": "RobHeatherly1",
+      "trust": 75,
+      "timestamp": 1746573896
+    },
+    {
+      "source": "MizzMisanthrope",
+      "target": "TheScottyRaby",
+      "trust": 10,
+      "timestamp": 1746574010
+    },
+    {
+      "source": "KelanderthalMan",
+      "target": "serpoprojectaus",
+      "trust": 20,
+      "timestamp": 1746574244
+    },
+    {
+      "source": "issaufo",
+      "target": "grok",
+      "trust": 75,
+      "timestamp": 1746577109
+    },
+    {
+      "source": "michaelshermer",
+      "target": "DStateRespTeam",
+      "trust": 20,
+      "timestamp": 1746579070
+    },
+    {
+      "source": "Casual_Lynx",
+      "target": "LueElizondo",
+      "trust": 60,
+      "timestamp": 1746582747
+    },
+    {
+      "source": "MichelVan4",
+      "target": "z28mjt79",
+      "trust": 10,
+      "timestamp": 1746584983
+    },
+    {
+      "source": "XExcalibur333",
+      "target": "TheUAPShow",
+      "trust": 10,
+      "timestamp": 1746593748
+    },
+    {
+      "source": "FeeFiFoFum1995",
+      "target": "LueElizondo",
+      "trust": 15,
+      "timestamp": 1746594267
+    },
+    {
+      "source": "DCharles30",
+      "target": "GabeTruthseeker",
+      "trust": 20,
+      "timestamp": 1746594649
+    },
+    {
+      "source": "missj75",
+      "target": "randomtweetor",
+      "trust": 90,
+      "timestamp": 1746595118
+    },
+    {
+      "source": "possiblygnostic",
+      "target": "b4cktoreality",
+      "trust": 10,
+      "timestamp": 1746597209
+    },
+    {
+      "source": "MickWest",
+      "target": "TimeCommandHQ",
+      "trust": 70,
+      "timestamp": 1746602891
+    },
+    {
+      "source": "JustXAshton",
+      "target": "TST___Radio",
+      "trust": 20,
+      "timestamp": 1746605425
+    },
+    {
+      "source": "ArdamirofArda",
+      "target": "0mega_Point",
+      "trust": 75,
+      "timestamp": 1746607449
+    },
+    {
+      "source": "PostDisclosure",
+      "target": "planethunter56",
+      "trust": 85,
+      "timestamp": 1746614901
+    },
+    {
+      "source": "CourtneyLeffall",
+      "target": "The_Astral_",
+      "trust": 30,
+      "timestamp": 1746617097
+    },
+    {
+      "source": "Salahald1n",
+      "target": "opngate",
+      "trust": 60,
+      "timestamp": 1746619936
+    },
+    {
+      "source": "ChrisUKSharp",
+      "target": "FlyaEther33",
+      "trust": 10,
+      "timestamp": 1746620387
+    },
+    {
+      "source": "Ekklectico",
+      "target": "GodSawUs",
+      "trust": 40,
+      "timestamp": 1746628180
+    },
+    {
+      "source": "Casual_Lynx",
+      "target": "MickWest",
+      "trust": 10,
+      "timestamp": 1746628863
+    },
+    {
+      "source": "Gchan45591268",
+      "target": "SmartlyUneducat",
+      "trust": 10,
+      "timestamp": 1746629975
+    },
+    {
+      "source": "JonMajerowski",
+      "target": "UFOCollage",
+      "trust": 70,
+      "timestamp": 1746634956
+    },
+    {
+      "source": "XExcalibur333",
+      "target": "GeologicalSETI",
+      "trust": 20,
+      "timestamp": 1746636921
+    },
+    {
+      "source": "MichelVan4",
+      "target": "OEFTF11",
+      "trust": 15,
+      "timestamp": 1746640552
+    },
+    {
+      "source": "JonMajerowski",
+      "target": "gdechico2",
+      "trust": 10,
+      "timestamp": 1746640571
+    },
+    {
+      "source": "gdechico2",
+      "target": "htTweets",
+      "trust": 10,
+      "timestamp": 1746640769
+    },
+    {
+      "source": "The_Astral_",
+      "target": "DocAlienista",
+      "trust": 70,
+      "timestamp": 1746642843
+    },
+    {
+      "source": "DynomiteBizQuit",
+      "target": "ADelarge60",
+      "trust": 10,
+      "timestamp": 1746648478
+    },
+    {
+      "source": "Knoxcat55",
+      "target": "likeitmatters3",
+      "trust": 90,
+      "timestamp": 1746649643
+    },
+    {
+      "source": "JoseACaravaca",
+      "target": "OSIRISUAP",
+      "trust": 85,
+      "timestamp": 1746650954
+    },
+    {
+      "source": "L_Y_E_S_H",
+      "target": "wiel_jade",
+      "trust": 70,
+      "timestamp": 1746656676
+    },
+    {
+      "source": "Deepneuron",
+      "target": "MichelVan4",
+      "trust": 10,
+      "timestamp": 1746663886
+    },
+    {
+      "source": "RealArea503",
+      "target": "MiddleOfMayhem",
+      "trust": 85,
+      "timestamp": 1746669414
+    },
+    {
+      "source": "grok",
+      "target": "JustXAshton",
+      "trust": 10,
+      "timestamp": 1746672579
+    },
+    {
+      "source": "wow36932525",
+      "target": "zcichy",
+      "trust": 10,
+      "timestamp": 1746675305
+    },
+    {
+      "source": "issaufo",
+      "target": "MickWest",
+      "trust": 20,
+      "timestamp": 1746678495
+    },
+    {
+      "source": "Docneuroeo",
+      "target": "CourtneyLeffall",
+      "trust": 80,
+      "timestamp": 1746682849
+    },
+    {
+      "source": "ufoofinterest",
+      "target": "AdamGenesisEden",
+      "trust": 10,
+      "timestamp": 1746687251
+    },
+    {
+      "source": "horror__guy",
+      "target": "yourfriendSOMMI",
+      "trust": 10,
+      "timestamp": 1746688671
+    },
+    {
+      "source": "el_kowalsky",
+      "target": "serpopro",
+      "trust": 60,
+      "timestamp": 1746688919
+    },
+    {
+      "source": "TurtleOfTime12",
+      "target": "UFOCollage",
+      "trust": 10,
+      "timestamp": 1746694682
+    },
+    {
+      "source": "MiddleOfMayhem",
+      "target": "htTweets",
+      "trust": 10,
+      "timestamp": 1746714533
+    },
+    {
+      "source": "TurtleOfTime12",
+      "target": "possiblygnostic",
+      "trust": 10,
+      "timestamp": 1746722617
+    },
+    {
+      "source": "JonestechDev",
+      "target": "arrowbombadil",
+      "trust": 10,
+      "timestamp": 1746727708
+    },
+    {
+      "source": "RealArea503",
+      "target": "UFOCollage",
+      "trust": 10,
+      "timestamp": 1746728267
+    },
+    {
+      "source": "serpoprojectaus",
+      "target": "GodSawUs",
+      "trust": 20,
+      "timestamp": 1746728533
+    },
+    {
+      "source": "michaelshermer",
+      "target": "LMG_PRODUCTION",
+      "trust": 10,
+      "timestamp": 1746729310
+    },
+    {
+      "source": "OSIRISUAP",
+      "target": "RyanSprague51",
+      "trust": 10,
+      "timestamp": 1746731886
+    },
+    {
+      "source": "DeJaVu2U2",
+      "target": "LMG_PRODUCTION",
+      "trust": 10,
+      "timestamp": 1746732915
+    },
+    {
+      "source": "WhoshotyaCo",
+      "target": "GiavedoniEric",
+      "trust": 10,
+      "timestamp": 1746738405
+    },
+    {
+      "source": "opngate",
+      "target": "RyanSprague51",
+      "trust": 70,
+      "timestamp": 1746739604
+    },
+    {
+      "source": "JonestechDev",
+      "target": "VettedPodcast",
+      "trust": 70,
+      "timestamp": 1746740751
+    },
+    {
+      "source": "SmartlyUneducat",
+      "target": "InTheShed4",
+      "trust": 10,
+      "timestamp": 1746741105
+    },
+    {
+      "source": "Ekklectico",
+      "target": "Gandalf_ElPulpo",
+      "trust": 75,
+      "timestamp": 1746745235
+    },
+    {
+      "source": "GeologicalSETI",
+      "target": "Baptiste_Fri",
+      "trust": 10,
+      "timestamp": 1746746441
+    },
+    {
+      "source": "DCharles30",
+      "target": "Baptiste_Fri",
+      "trust": 30,
+      "timestamp": 1746747425
+    },
+    {
+      "source": "bryceduncan13",
+      "target": "planethunter56",
+      "trust": 10,
+      "timestamp": 1746756686
+    },
+    {
+      "source": "K8568088581417",
+      "target": "MichelVan4",
+      "trust": 10,
+      "timestamp": 1746765555
+    },
+    {
+      "source": "GodSawUs",
+      "target": "billynboys23",
+      "trust": 10,
+      "timestamp": 1746767961
+    },
+    {
+      "source": "devgru1980mi",
+      "target": "zcichy",
+      "trust": 10,
+      "timestamp": 1746771746
+    },
+    {
+      "source": "s36371222",
+      "target": "AnxWhisperer",
+      "trust": 10,
+      "timestamp": 1746772919
+    },
+    {
+      "source": "TUPACABRA2",
+      "target": "UFODebrief",
+      "trust": 10,
+      "timestamp": 1746774616
+    },
+    {
+      "source": "AeroTech_Space",
+      "target": "JonMajerowski",
+      "trust": 10,
+      "timestamp": 1746781480
+    },
+    {
+      "source": "grok",
+      "target": "HighPeaks77",
+      "trust": 70,
+      "timestamp": 1746782305
+    },
+    {
+      "source": "MichelVan4",
+      "target": "keeptxtx",
+      "trust": 10,
+      "timestamp": 1746783801
+    },
+    {
+      "source": "WhoshotyaCo",
+      "target": "VictorG_45",
+      "trust": 10,
+      "timestamp": 1746786637
+    },
+    {
+      "source": "UAPJames",
+      "target": "SimulatedLion",
+      "trust": 10,
+      "timestamp": 1746787117
+    },
+    {
+      "source": "Shwinnx",
+      "target": "TUPACABRA2",
+      "trust": 70,
+      "timestamp": 1746791522
+    },
+    {
+      "source": "RealArea503",
+      "target": "michaelshermer",
+      "trust": 10,
+      "timestamp": 1746793190
+    },
+    {
+      "source": "arrowbombadil",
+      "target": "cinematicfever",
+      "trust": 10,
+      "timestamp": 1746794704
+    },
+    {
+      "source": "Gandalf_ElPulpo",
+      "target": "DotherowDa71497",
+      "trust": 10,
+      "timestamp": 1746796336
+    },
+    {
+      "source": "UAPReportingCnt",
+      "target": "GrantLavac",
+      "trust": 90,
+      "timestamp": 1746796603
+    },
+    {
+      "source": "htTweets",
+      "target": "cinematicfever",
+      "trust": 70,
+      "timestamp": 1746797584
+    },
+    {
+      "source": "TST___Radio",
+      "target": "SPOOOKYUFO",
+      "trust": 25,
+      "timestamp": 1746797838
+    },
+    {
+      "source": "SPOOOKYUFO",
+      "target": "gdechico2",
+      "trust": 10,
+      "timestamp": 1746803858
+    },
+    {
+      "source": "FILIUM_PATRIS",
+      "target": "fringequest",
+      "trust": 10,
+      "timestamp": 1746809049
+    },
+    {
+      "source": "AeroTech_Space",
+      "target": "disgustipated42",
+      "trust": 10,
+      "timestamp": 1746810903
+    },
+    {
+      "source": "goodmorningufo",
+      "target": "serpoprojectaus",
+      "trust": 60,
+      "timestamp": 1746812078
+    },
+    {
+      "source": "DCharles30",
+      "target": "InTheShed4",
+      "trust": 20,
+      "timestamp": 1746814802
+    },
+    {
+      "source": "DStateRespTeam",
+      "target": "L_Y_E_S_H",
+      "trust": 20,
+      "timestamp": 1746819032
+    },
+    {
+      "source": "DCharles30",
+      "target": "TheScottyRaby",
+      "trust": 80,
+      "timestamp": 1746821433
+    },
+    {
+      "source": "fringequest",
+      "target": "InTheShed4",
+      "trust": 10,
+      "timestamp": 1746833996
+    },
+    {
+      "source": "MickWest",
+      "target": "wiel_jade",
+      "trust": 70,
+      "timestamp": 1746836325
+    },
+    {
+      "source": "horror__guy",
+      "target": "DCharles30",
+      "trust": 10,
+      "timestamp": 1746843229
+    },
+    {
+      "source": "0mega_Point",
+      "target": "kingdom_pioneer",
+      "trust": 75,
+      "timestamp": 1746845108
+    },
+    {
+      "source": "NickMadrid16",
+      "target": "Ekklectico",
+      "trust": 20,
+      "timestamp": 1746854008
+    },
+    {
+      "source": "htTweets",
+      "target": "Truthpolex",
+      "trust": 90,
+      "timestamp": 1746856761
+    },
+    {
+      "source": "serpoprojectaus",
+      "target": "XExcalibur333",
+      "trust": 30,
+      "timestamp": 1746859523
+    },
+    {
+      "source": "MiddleOfMayhem",
+      "target": "issaufo",
+      "trust": 10,
+      "timestamp": 1746861667
+    },
+    {
+      "source": "NickMadrid16",
+      "target": "Btc4thepeople",
+      "trust": 20,
+      "timestamp": 1746863400
+    },
+    {
+      "source": "LuAngeles",
+      "target": "JonMajerowski",
+      "trust": 10,
+      "timestamp": 1746866503
+    },
+    {
+      "source": "FettuccineSplit",
+      "target": "SimulatedLion",
+      "trust": 10,
+      "timestamp": 1746868836
+    },
+    {
+      "source": "DarkstarIE",
+      "target": "MFungi369",
+      "trust": 10,
+      "timestamp": 1746870317
+    },
+    {
+      "source": "TheProjectUnity",
+      "target": "MizzMisanthrope",
+      "trust": 10,
+      "timestamp": 1746873415
+    },
+    {
+      "source": "goodmorningufo",
+      "target": "3xceptional1886",
+      "trust": 60,
+      "timestamp": 1746878590
+    },
+    {
+      "source": "LMG_PRODUCTION",
+      "target": "alextopol",
+      "trust": 10,
+      "timestamp": 1746885296
+    },
+    {
+      "source": "StevenCambian",
+      "target": "serpoprojectaus",
+      "trust": 10,
+      "timestamp": 1746892246
+    },
+    {
+      "source": "AllPlanets",
+      "target": "UFOCollage",
+      "trust": 10,
+      "timestamp": 1746895683
+    },
+    {
+      "source": "Baptiste_Fri",
+      "target": "NickMadrid16",
+      "trust": 90,
+      "timestamp": 1746899241
+    },
+    {
+      "source": "AllPlanets",
+      "target": "FLVinny",
+      "trust": 10,
+      "timestamp": 1746900721
+    },
+    {
+      "source": "TheScottyRaby",
+      "target": "ImminentDisclsr",
+      "trust": 5,
+      "timestamp": 1746904481
+    },
+    {
+      "source": "z28mjt79",
+      "target": "UAPReportingCnt",
+      "trust": 5,
+      "timestamp": 1746904695
+    },
+    {
+      "source": "JustXAshton",
+      "target": "bennibennasi01",
+      "trust": 90,
+      "timestamp": 1746904788
+    },
+    {
+      "source": "combatinsight",
+      "target": "DynomiteBizQuit",
+      "trust": 20,
+      "timestamp": 1746913792
+    },
+    {
+      "source": "HoverBrothers",
+      "target": "69Skoal69",
+      "trust": 10,
+      "timestamp": 1746914208
+    },
+    {
+      "source": "PostDisclosure",
+      "target": "InTheShed4",
+      "trust": 85,
+      "timestamp": 1746916079
+    },
+    {
+      "source": "Gchan45591268",
+      "target": "b4cktoreality",
+      "trust": 10,
+      "timestamp": 1746919412
+    },
+    {
+      "source": "likeitmatters3",
+      "target": "GabeTruthseeker",
+      "trust": 10,
+      "timestamp": 1746920726
+    },
+    {
+      "source": "3xceptional1886",
+      "target": "opngate",
+      "trust": 70,
+      "timestamp": 1746921964
+    },
+    {
+      "source": "AAWSAPRocky",
+      "target": "JonestechDev",
+      "trust": 75,
+      "timestamp": 1746926280
+    },
+    {
+      "source": "SimulatedLion",
+      "target": "TUPACABRA2",
+      "trust": 20,
+      "timestamp": 1746927394
+    },
+    {
+      "source": "DrAtsabNikcuf",
+      "target": "horror__guy",
+      "trust": 10,
+      "timestamp": 1746929452
+    },
+    {
+      "source": "grok",
+      "target": "WhoshotyaCo",
+      "trust": 10,
+      "timestamp": 1746932554
+    },
+    {
+      "source": "keeptxtx",
+      "target": "3xceptional1886",
+      "trust": 70,
+      "timestamp": 1746934962
+    },
+    {
+      "source": "LMG_PRODUCTION",
+      "target": "RealArea503",
+      "trust": 10,
+      "timestamp": 1746948760
+    },
+    {
+      "source": "0mega_Point",
+      "target": "JonestechDev",
+      "trust": 75,
+      "timestamp": 1746949840
+    },
+    {
+      "source": "yourfriendSOMMI",
+      "target": "wouilisam",
+      "trust": 20,
+      "timestamp": 1746953287
+    },
+    {
+      "source": "keeptxtx",
+      "target": "FILIUM_PATRIS",
+      "trust": 30,
+      "timestamp": 1746961043
+    },
+    {
+      "source": "UFOCollage",
+      "target": "LibertyUAP",
+      "trust": 10,
+      "timestamp": 1746965404
+    },
+    {
+      "source": "gdechico2",
+      "target": "LuAngeles",
+      "trust": 10,
+      "timestamp": 1746966095
+    },
+    {
+      "source": "serpoprojectaus",
+      "target": "z28mjt79",
+      "trust": 10,
+      "timestamp": 1746970779
+    },
+    {
+      "source": "wiel_jade",
+      "target": "The_Astral_",
+      "trust": 70,
+      "timestamp": 1746973238
+    },
+    {
+      "source": "s36371222",
+      "target": "KelanderthalMan",
+      "trust": 10,
+      "timestamp": 1746979294
+    },
+    {
+      "source": "StevenCambian",
+      "target": "K8568088581417",
+      "trust": 80,
+      "timestamp": 1746982622
+    },
+    {
+      "source": "HoverBrothers",
+      "target": "horror__guy",
+      "trust": 10,
+      "timestamp": 1746983475
+    },
+    {
+      "source": "wiel_jade",
+      "target": "darkjournalist",
+      "trust": 20,
+      "timestamp": 1746984215
+    },
+    {
+      "source": "et_alien_uap",
+      "target": "AeroTech_Space",
+      "trust": 10,
+      "timestamp": 1746987693
+    },
+    {
+      "source": "L_Y_E_S_H",
+      "target": "WolfShieldRam",
+      "trust": 50,
+      "timestamp": 1746996703
+    },
+    {
+      "source": "JonestechDev",
+      "target": "wouilisam",
+      "trust": 60,
+      "timestamp": 1746999830
+    },
+    {
+      "source": "devgru1980mi",
+      "target": "randomtweetor",
+      "trust": 20,
+      "timestamp": 1747002816
+    },
+    {
+      "source": "JoeyIsntMyName",
+      "target": "DarkstarIE",
+      "trust": 75,
+      "timestamp": 1747009859
+    },
+    {
+      "source": "19k0011",
+      "target": "MichelVan4",
+      "trust": 10,
+      "timestamp": 1747019776
+    },
+    {
+      "source": "z28mjt79",
+      "target": "VictorG_45",
+      "trust": 10,
+      "timestamp": 1747022200
+    },
+    {
+      "source": "LehtoFiles",
+      "target": "AnxWhisperer",
+      "trust": 95,
+      "timestamp": 1747026248
+    },
+    {
+      "source": "KnightsGloryy",
+      "target": "The_Astral_",
+      "trust": 70,
+      "timestamp": 1747026313
+    },
+    {
+      "source": "ufoofinterest",
+      "target": "RealArea503",
+      "trust": 20,
+      "timestamp": 1747034727
     }
   ]
 };

@@ -9,6 +9,8 @@ from dotenv import load_dotenv
 import google.generativeai as genai
 import re
 import urllib.parse
+import networkx as nx
+import numpy as np
 
 # Load environment variables
 load_dotenv()
@@ -87,6 +89,80 @@ def get_trust_rating(rater_comments, ratee_comments):
         print(f"Error getting trust rating: {str(e)}")
         return random.randint(0, 100)  # Fallback on error
 
+def detect_communities(trust_data, account_handles):
+    """Detect communities in the trust network using Louvain algorithm"""
+    print("Detecting communities in the trust network...")
+    
+    # Create a directed graph
+    G = nx.DiGraph()
+    
+    # Add all nodes
+    for handle in account_handles:
+        G.add_node(handle)
+    
+    # Add edges with weights (trust values)
+    for edge in trust_data:
+        source = edge['source']
+        target = edge['target']
+        trust = edge['trust']
+        
+        # Only use positive trust relationships for community detection
+        if trust > 50:
+            # Scale trust from 50-100 to 0-1 for edge weight
+            weight = (trust - 50) / 50
+            G.add_edge(source, target, weight=weight)
+    
+    # If graph has no edges, return default community
+    if len(G.edges()) == 0:
+        print("No positive trust relationships found. Assigning all to the same community.")
+        return {handle: 1 for handle in account_handles}
+    
+    # Convert to undirected graph for community detection
+    G_undirected = G.to_undirected()
+    
+    # Handle isolated nodes by creating a separate graph without them
+    isolated_nodes = list(nx.isolates(G_undirected))
+    if isolated_nodes:
+        print(f"Found {len(isolated_nodes)} isolated nodes.")
+        G_connected = G_undirected.copy()
+        G_connected.remove_nodes_from(isolated_nodes)
+    else:
+        G_connected = G_undirected
+    
+    # Detect communities using Louvain method
+    if len(G_connected.nodes()) > 0:
+        communities = nx.community.louvain_communities(G_connected)
+        
+        # Map nodes to community IDs
+        community_map = {}
+        for i, community in enumerate(communities):
+            for node in community:
+                community_map[node] = i + 1  # Community IDs start from 1
+                
+        # Handle isolated nodes - assign to nearest community based on trust values
+        for node in isolated_nodes:
+            # Find which community members trust this node the most
+            trust_scores = defaultdict(float)
+            for edge in trust_data:
+                if edge['target'] == node and edge['source'] in community_map:
+                    community_id = community_map[edge['source']]
+                    trust_scores[community_id] += edge['trust']
+            
+            # If no trust scores, assign to a random community
+            if not trust_scores:
+                community_map[node] = random.randint(1, max(len(communities), 1))
+            else:
+                # Assign to the community with the highest trust
+                community_map[node] = max(trust_scores, key=trust_scores.get)
+        
+        print(f"Detected {len(communities)} communities.")
+    else:
+        # If no connected nodes (extremely rare), assign all to same community
+        community_map = {handle: 1 for handle in account_handles}
+        print("No connected nodes found. Assigning all to the same community.")
+    
+    return community_map
+
 # --- Main execution ---
 print(f"Starting to collect Twitter data for '{QUERY}'...")
 
@@ -161,18 +237,32 @@ trust_data.sort(key=lambda x: x['timestamp'])
 
 print(f"Trust rating generation complete. Generated {len(trust_data)} trust ratings.")
 
+# --- Detect communities ---
+communities = detect_communities(trust_data, account_handles)
+
+# --- Calculate trust scores for each node ---
+print("Calculating trust scores for each account...")
+trust_scores = {}
+for handle in account_handles:
+    # Get all trust ratings for this account
+    ratings = [edge['trust'] for edge in trust_data if edge['target'] == handle]
+    if ratings:
+        trust_scores[handle] = sum(ratings) / len(ratings)
+    else:
+        trust_scores[handle] = 50  # Default neutral score if no ratings
+
 # --- Generate static and temporal trust network data ---
 print("Generating visualization data files...")
 
 # Temporal data
 temporal_data = {
-    'nodes': [{'id': handle, 'name': handle} for handle in accounts.keys()],
+    'nodes': [{'id': handle, 'name': handle, 'community': communities[handle], 'score': trust_scores[handle]} for handle in accounts.keys()],
     'links': trust_data
 }
 
 # Static data (final network state)
 static_data = {
-    'nodes': [{'id': handle, 'name': handle} for handle in accounts.keys()],
+    'nodes': [{'id': handle, 'name': handle, 'community': communities[handle], 'score': trust_scores[handle]} for handle in accounts.keys()],
     'links': []
 }
 
