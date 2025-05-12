@@ -86,3 +86,5 @@ Remember to use a score between 0 and 100 (0=max distrust, 50=neutral, 100=max t
 ## Disclaimer
 
 This is an experimental system. Trust scores are based on subjective user assignments and algorithmic calculations. They should be considered one of many data points when evaluating information or users online. The system is open to gaming or manipulation, though measures are in place to mitigate this.
+
+#small change
