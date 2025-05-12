@@ -17,161 +17,181 @@ document.addEventListener('DOMContentLoaded', () => {
         .attr('class', 'tooltip')
         .style('opacity', 0);
     
-    // Prepare data for D3
-    const nodes = trustData.users.map(user => ({
-        id: user.username,
-        trustScore: user.trustScore,
-        communityId: user.communityId,
-        interests: user.interests.join(', ')
-    }));
+    // Get the community selector
+    const communitySelect = document.getElementById('networkCommunitySelect');
+    // Populate community selector
+    trustData.communities.forEach(comm => {
+        const option = document.createElement('option');
+        option.value = comm.id;
+        option.text = comm.name;
+        communitySelect.appendChild(option);
+    });
     
-    const links = trustData.relationships.map(rel => ({
-        source: rel.source,
-        target: rel.target,
-        value: Math.abs(rel.value),
-        positive: rel.value > 0
-    }));
-    
-    // Set up force simulation
-    const simulation = d3.forceSimulation(nodes)
-        .force('link', d3.forceLink(links)
-            .id(d => d.id)
-            .distance(d => 200 - d.value/10))
-        .force('charge', d3.forceManyBody().strength(-500))
-        .force('center', d3.forceCenter(width / 2, height / 2))
-        .force('collision', d3.forceCollide().radius(d => 30 + d.trustScore * 200));
-    
-    // Add zoom functionality
-    const zoom = d3.zoom()
-        .scaleExtent([0.1, 4])
-        .on('zoom', (event) => {
-            g.attr('transform', event.transform);
-        });
-    
-    svg.call(zoom);
-    
-    // Create a group for graph elements
-    const g = svg.append('g');
-    
-    // Add links
-    const link = g.append('g')
-        .selectAll('line')
-        .data(links)
-        .enter().append('line')
-        .attr('stroke-width', d => Math.sqrt(d.value) / 10)
-        .attr('stroke', d => d.positive ? '#999' : '#f55')
-        .attr('stroke-opacity', 0.6);
-    
-    // Add nodes
-    const node = g.append('g')
-        .selectAll('circle')
-        .data(nodes)
-        .enter().append('circle')
-        .attr('r', d => 5 + d.trustScore * 150)
-        .attr('fill', d => {
-            const community = trustData.communities.find(c => c.id === d.communityId);
-            return community ? community.color : '#999';
+    // Function to render or update the network
+    function updateNetwork(selectedCommunityId = null) {
+        // Clear previous SVG contents if any
+        svg.selectAll('*').remove();
+        
+        // Prepare data for D3
+        const nodes = trustData.users.map(user => ({
+            id: user.username,
+            trustScore: (selectedCommunityId && trustData.communityTrustScores[selectedCommunityId] && trustData.communityTrustScores[selectedCommunityId][user.username] !== undefined) 
+                        ? trustData.communityTrustScores[selectedCommunityId][user.username] 
+                        : user.trustScore,
+            communityId: user.communityId,
+            interests: user.interests.join(', ')
+        }));
+        
+        const links = trustData.relationships.map(rel => ({
+            source: rel.source,
+            target: rel.target,
+            value: Math.abs(rel.value),
+            positive: rel.value > 0
+        }));
+        
+        // Set up force simulation
+        const simulation = d3.forceSimulation(nodes)
+            .force('link', d3.forceLink(links)
+                .id(d => d.id)
+                .distance(d => 200 - d.value / 10))
+            .force('charge', d3.forceManyBody().strength(-500))
+            .force('center', d3.forceCenter(width / 2, height / 2))
+            .force('collision', d3.forceCollide().radius(d => 5 + (d.trustScore || 0) * 150)); // Use 0 if trustScore is undefined
+        
+        // Add zoom functionality
+        const zoom = d3.zoom()
+            .scaleExtent([0.1, 4])
+            .on('zoom', (event) => {
+                g.attr('transform', event.transform);
+            });
+        
+        svg.call(zoom);
+        
+        // Create a group for graph elements
+        const g = svg.append('g');
+        
+        // Add links
+        const link = g.append('g')
+            .selectAll('line')
+            .data(links)
+            .enter().append('line')
+            .attr('stroke-width', d => Math.sqrt(d.value) / 10)
+            .attr('stroke', d => d.positive ? '#999' : '#f55')
+            .attr('stroke-opacity', 0.6);
+        
+        // Add nodes
+        const node = g.append('g')
+            .selectAll('circle')
+            .data(nodes)
+            .enter().append('circle')
+            .attr('r', d => 5 + (d.trustScore || 0) * 150) // Use 0 if trustScore is undefined
+            .attr('fill', d => {
+                const community = trustData.communities.find(c => c.id === d.communityId);
+                return community ? community.color : '#999';
+            })
+            .attr('stroke', '#fff')
+            .attr('stroke-width', 1.5)
+            .call(d3.drag()
+                .on('start', dragstarted)
+                .on('drag', dragged)
+                .on('end', dragended));
+        
+        // Add labels
+        const labels = g.append('g')
+            .selectAll('text')
+            .data(nodes)
+            .enter().append('text')
+            .text(d => '@' + d.id)
+            .attr('font-size', 10)
+            .attr('dx', 12)
+            .attr('dy', 4);
+        
+        // Handle node hover
+        node.on('mouseover', (event, d) => {
+            const connectedNodes = new Set();
+            links.forEach(link => {
+                if (link.source.id === d.id) connectedNodes.add(link.target.id);
+                if (link.target.id === d.id) connectedNodes.add(link.source.id);
+            });
+            
+            node.attr('opacity', n => {
+                if (n.id === d.id || connectedNodes.has(n.id)) return 1;
+                return 0.2;
+            });
+            
+            link.attr('opacity', l => {
+                if (l.source.id === d.id || l.target.id === d.id) return 1;
+                return 0.1;
+            });
+            
+            labels.attr('opacity', n => {
+                if (n.id === d.id || connectedNodes.has(n.id)) return 1;
+                return 0.2;
+            });
+            
+            tooltip.transition()
+                .duration(200)
+                .style('opacity', .9);
+            
+            tooltip.html(`
+                <strong>@${d.id}</strong><br/>
+                Score: ${d.trustScore.toFixed(4)}<br/>
+                Interests: ${d.interests}
+            `)
+                .style('left', (event.pageX + 10) + 'px')
+                .style('top', (event.pageY - 28) + 'px');
+            
+            updateNodeDetails(d.id);
         })
-        .attr('stroke', '#fff')
-        .attr('stroke-width', 1.5)
-        .call(d3.drag()
-            .on('start', dragstarted)
-            .on('drag', dragged)
-            .on('end', dragended));
-    
-    // Add labels
-    const labels = g.append('g')
-        .selectAll('text')
-        .data(nodes)
-        .enter().append('text')
-        .text(d => '@' + d.id)
-        .attr('font-size', 10)
-        .attr('dx', 12)
-        .attr('dy', 4);
-    
-    // Handle node hover
-    node.on('mouseover', (event, d) => {
-        // Highlight connected nodes
-        const connectedNodes = new Set();
-        links.forEach(link => {
-            if (link.source.id === d.id) connectedNodes.add(link.target.id);
-            if (link.target.id === d.id) connectedNodes.add(link.source.id);
+        .on('mouseout', () => {
+            node.attr('opacity', 1);
+            link.attr('opacity', 0.6);
+            labels.attr('opacity', 1);
+            
+            tooltip.transition()
+                .duration(500)
+                .style('opacity', 0);
+        })
+        .on('click', (event, d) => {
+            if (!event.defaultPrevented) {
+                d.fx = d.x;
+                d.fy = d.y;
+                updateNodeDetails(d.id, true);
+            }
         });
         
-        node.attr('opacity', n => {
-            if (n.id === d.id || connectedNodes.has(n.id)) return 1;
-            return 0.2;
+        // Handle simulation ticks
+        simulation.on('tick', () => {
+            link
+                .attr('x1', d => d.source.x)
+                .attr('y1', d => d.source.y)
+                .attr('x2', d => d.target.x)
+                .attr('y2', d => d.target.y);
+            
+            node
+                .attr('cx', d => d.x)
+                .attr('cy', d => d.y);
+            
+            labels
+                .attr('x', d => d.x)
+                .attr('y', d => d.y);
         });
         
-        link.attr('opacity', l => {
-            if (l.source.id === d.id || l.target.id === d.id) return 1;
-            return 0.1;
+        // Set up reset zoom button
+        document.getElementById('resetZoom').addEventListener('click', () => {
+            svg.transition().duration(750).call(
+                zoom.transform,
+                d3.zoomIdentity
+            );
         });
-        
-        labels.attr('opacity', n => {
-            if (n.id === d.id || connectedNodes.has(n.id)) return 1;
-            return 0.2;
-        });
-        
-        // Show tooltip
-        tooltip.transition()
-            .duration(200)
-            .style('opacity', .9);
-        
-        tooltip.html(`
-            <strong>@${d.id}</strong><br/>
-            Trust Score: ${d.trustScore.toFixed(4)}<br/>
-            Interests: ${d.interests}
-        `)
-            .style('left', (event.pageX + 10) + 'px')
-            .style('top', (event.pageY - 28) + 'px');
-        
-        // Update node details panel
-        updateNodeDetails(d.id);
-    })
-    .on('mouseout', () => {
-        // Reset highlight
-        node.attr('opacity', 1);
-        link.attr('opacity', 0.6);
-        labels.attr('opacity', 1);
-        
-        // Hide tooltip
-        tooltip.transition()
-            .duration(500)
-            .style('opacity', 0);
-    })
-    .on('click', (event, d) => {
-        // Fix the node in place if clicked
-        if (!event.defaultPrevented) {
-            d.fx = d.x;
-            d.fy = d.y;
-            updateNodeDetails(d.id, true);
-        }
-    });
+    }
     
-    // Handle simulation ticks
-    simulation.on('tick', () => {
-        link
-            .attr('x1', d => d.source.x)
-            .attr('y1', d => d.source.y)
-            .attr('x2', d => d.target.x)
-            .attr('y2', d => d.target.y);
-        
-        node
-            .attr('cx', d => d.x)
-            .attr('cy', d => d.y);
-        
-        labels
-            .attr('x', d => d.x)
-            .attr('y', d => d.y);
-    });
+    // Initial network render
+    updateNetwork();
     
-    // Set up reset zoom button
-    document.getElementById('resetZoom').addEventListener('click', () => {
-        svg.transition().duration(750).call(
-            zoom.transform,
-            d3.zoomIdentity
-        );
+    // Handle community selection change
+    communitySelect.addEventListener('change', function() {
+        updateNetwork(this.value);
     });
     
     // Set up communities legend
