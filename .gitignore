@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Data/Output (optional - depends if you want to commit the generated data)
+# js/data_twitter_enhanced.js
+
+# OS specific
+.DS_Store
+Thumbs.db 

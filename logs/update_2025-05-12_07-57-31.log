@@ -862,3 +862,13 @@
 [2025-05-12 07:57:40] WARNING: - 2 communities
 [2025-05-12 07:57:40] WARNING: Trust calculation completed successfully.
 [2025-05-12 07:57:40] Committing and pushing changes to GitHub...
+[2025-05-12 07:57:42] Successfully updated the trust system!
+[2025-05-12 07:57:42] Website will be updated at https://github.com/UFOtwittertrust/ufotwittertrust/
+[2025-05-12 07:57:42] Trust system update completed with 0 total trust relationships
+[2025-05-12 07:57:42] 
+[2025-05-12 07:57:42] To participate in the trust system, users should tweet:
+[2025-05-12 07:57:42] #ufotrust @username +70
+[2025-05-12 07:57:42] or
+[2025-05-12 07:57:42] #ufotrust @username -30
+[2025-05-12 07:57:42] 
+[2025-05-12 07:57:42] The system will be updated every 10 minutes with new trust assignments.

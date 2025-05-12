@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<meta charset="utf-G">
+<style>
+    .nodes circle {
+        stroke: #fff;
+        stroke-width: 1.5px;
+    }
+
+    .links line {
+        stroke: #999;
+        stroke-opacity: 0.6;
+    }
+
+    text {
+        font-family: sans-serif;
+        font-size: 10px;
+        pointer-events: none; /* Prevent text from interfering with drag */
+    }
+
+    .tooltip {
+        position: absolute;
+        text-align: center;
+        width: auto;
+        height: auto;
+        padding: 8px;
+        font: 12px sans-serif;
+        background: lightsteelblue;
+        border: 0px;
+        border-radius: 8px;
+        pointer-events: none;
+        opacity: 0;
+    }
+</style>
+<body>
+<svg width="960" height="600"></svg>
+<div class="tooltip"></div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="js/data_twitter_enhanced.js"></script>
+<script>
+    const data = enhancedTrustData; // From data_twitter_enhanced.js
+
+    const svg = d3.select("svg");
+    const width = +svg.attr("width");
+    const height = +svg.attr("height");
+
+    const tooltip = d3.select(".tooltip");
+
+    // Create a color scale for communities
+    const color = d3.scaleOrdinal(d3.schemeCategory10);
+
+    const simulation = d3.forceSimulation(data.nodes)
+        .force("link", d3.forceLink(data.links).id(d => d.id).distance(100)) // Increased distance
+        .force("charge", d3.forceManyBody().strength(-200)) // Adjusted strength
+        .force("center", d3.forceCenter(width / 2, height / 2))
+        .force("x", d3.forceX()) // Keep nodes within bounds
+        .force("y", d3.forceY()); // Keep nodes within bounds
+
+
+    const link = svg.append("g")
+        .attr("class", "links")
+        .selectAll("line")
+        .data(data.links)
+        .enter().append("line")
+        .attr("stroke-width", d => Math.sqrt(Math.max(1, (d.trust - 50) / 10 + 1))) // Trust > 50 = thicker
+        .attr("stroke-opacity", d => Math.max(0.2, d.trust / 100));
+
+    const node = svg.append("g")
+        .attr("class", "nodes")
+        .selectAll("g") // Create a group for each node (circle + text)
+        .data(data.nodes)
+        .enter().append("g");
+
+    const circles = node.append("circle")
+        .attr("r", d => 5 + Math.sqrt(d.followers ? d.followers / 1000 : 1)) // Size by followers
+        .attr("fill", d => color(d.community))
+        .call(drag(simulation));
+
+    const labels = node.append("text")
+        .text(d => '@' + d.screen_name)
+        .attr('x', 8)
+        .attr('y', 3);
+
+    node.on("mouseover", function(event, d) {
+        tooltip.transition()
+            .duration(200)
+            .style("opacity", .9);
+        tooltip.html(
+            `<strong>@${d.screen_name}</strong><br/>` +
+            `Name: ${d.name || 'N/A'}<br/>` +
+            `Followers: ${d.followers || 0}<br/>` +
+            `Community: ${d.community}<br/>` +
+            `Score: ${d.score ? d.score.toFixed(2) : 'N/A'}`
+          )
+            .style("left", (event.pageX + 5) + "px")
+            .style("top", (event.pageY - 28) + "px");
+        // Highlight the node and its direct connections
+        link.style('stroke-opacity', l => (l.source === d || l.target === d) ? 1 : 0.1);
+        link.style('stroke', l => (l.source === d || l.target === d) ? '#333' : '#999');
+        circles.style('opacity', n => (isConnected(d,n) || n === d) ? 1 : 0.3);
+        labels.style('opacity', n => (isConnected(d,n) || n === d) ? 1 : 0.3);
+
+
+    })
+    .on("mouseout", function(event, d) {
+        tooltip.transition()
+            .duration(500)
+            .style("opacity", 0);
+        // Reset styles
+        link.style('stroke-opacity', l => Math.max(0.2, l.trust / 100));
+        link.style('stroke', '#999');
+        circles.style('opacity', 1);
+        labels.style('opacity', 1);
+    });
+
+    // Function to check if two nodes are connected
+    let linkedByIndex = {};
+    data.links.forEach(d => {
+        linkedByIndex[`${d.source.id},${d.target.id}`] = 1; // Use .id if source/target are objects
+    });
+
+    function isConnected(a, b) {
+        return linkedByIndex[`${a.id},${b.id}`] || linkedByIndex[`${b.id},${a.id}`] || a.id === b.id;
+    }
+
+
+    simulation
+        .on("tick", () => {
+            link
+                .attr("x1", d => d.source.x)
+                .attr("y1", d => d.source.y)
+                .attr("x2", d => d.target.x)
+                .attr("y2", d => d.target.y);
+
+            node
+                .attr("transform", d => `translate(${d.x},${d.y})`);
+        });
+
+    function drag(simulation) {
+        function dragstarted(event, d) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            d.fx = d.x;
+            d.fy = d.y;
+        }
+
+        function dragged(event, d) {
+            d.fx = event.x;
+            d.fy = event.y;
+        }
+
+        function dragended(event, d) {
+            if (!event.active) simulation.alphaTarget(0);
+            d.fx = null;
+            d.fy = null;
+        }
+
+        return d3.drag()
+            .on("start", dragstarted)
+            .on("drag", dragged)
+            .on("end", dragended);
+    }
+
+    // Optional: Add a legend for communities
+    const legend = svg.selectAll(".legend")
+        .data(color.domain().sort()) // Get unique community IDs
+        .enter().append("g")
+        .attr("class", "legend")
+        .attr("transform", (d, i) => `translate(0,${i * 20})`);
+
+    legend.append("rect")
+        .attr("x", width - 18)
+        .attr("width", 18)
+        .attr("height", 18)
+        .style("fill", color);
+
+    legend.append("text")
+        .attr("x", width - 24)
+        .attr("y", 9)
+        .attr("dy", ".35em")
+        .style("text-anchor", "end")
+        .text(d => `Community ${d}`);
+
+</script>
+</body>
+</html> 
