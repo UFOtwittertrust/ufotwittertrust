@@ -1,5 +1,5 @@
 // Trust system data
-// Auto-generated on 2025-05-11 22:47:36
+// Auto-generated on 2025-05-11 22:57:36
 // DO NOT EDIT MANUALLY
 
 const trustData = {
@@ -414,7 +414,54 @@ const trustData = {
       "name": "Community J",
       "color": "#43A047"
     }
-  ]
+  ],
+  "communityTrustScores": {
+    "1": {
+      "Eyes_OnTheSkies": 1.0
+    },
+    "2": {
+      "FettucineSplit": 1.0
+    },
+    "3": {
+      "JonMajerowski": 1.0
+    },
+    "4": {
+      "MiddleofMayhem": 1.0
+    },
+    "5": {
+      "PTHellyer": 1.0
+    },
+    "6": {
+      "SnakePo9": 1.0
+    },
+    "7": {
+      "jamescfox": 1.0
+    },
+    "8": {
+      "likeitmatters3": 1.0
+    },
+    "9": {
+      "AskaPol_UAPs": 0.084562163914682,
+      "ChrisUKSharp": 0.084562163914682,
+      "DanHaug6": 0.08371953723032863,
+      "GoodTroubleShow": 0.084562163914682,
+      "Halsrethink": 0.08582610394121208,
+      "JeremyCorbell": 0.07950640380856175,
+      "LueElizondo": 0.08371953723032863,
+      "TheOfficialQF": 0.08371953723032863,
+      "g_knapp": 0.08540479059903539,
+      "jayanderson": 0.0811916571772685,
+      "rosscoulthart": 0.08540479059903539,
+      "ufobeliever1947": 0.077821150439855
+    },
+    "10": {
+      "cosmic_surplus": 0.23098126719964815,
+      "susangerbic": 0.20696478099837048,
+      "ufoskeptic1968": 0.17094005169645396,
+      "OSIRISUAP": 0.17214087600651784,
+      "ShipsSmall": 0.21897302409900932
+    }
+  }
 };
 
 // Map to quickly look up users by username
