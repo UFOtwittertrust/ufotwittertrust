@@ -7,6 +7,57 @@ $scriptPath = Split-Path -Parent $MyInvocation.MyCommand.Path
 python --version | Out-File -FilePath "$scriptPath\env_log.txt" -Append
 git --version | Out-File -FilePath "$scriptPath\env_log.txt" -Append
 
+# Load .env file content
+param(
+    [string]$envPath = ".env"
+)
+
+# Load Environment Variables from .env if it exists
+if (Test-Path $envPath) {
+    Get-Content $envPath | ForEach-Object {
+        if ($_ -match '^(?<name>[^=]+)=(?<value>.*)$') {
+            $name = $Matches.name.Trim()
+            $value = $Matches.value.Trim()
+            # Handle potential quotes around value
+            if (($value.StartsWith('"') -and $value.EndsWith('"')) -or ($value.StartsWith("'") -and $value.EndsWith("'"))) {
+                $value = $value.Substring(1, $value.Length - 2)
+            }
+            [System.Environment]::SetEnvironmentVariable($name, $value, "Process") # Set for current process
+            Write-Verbose "Set environment variable '$name'"
+        }
+    }
+} else {
+    Write-Warning ".env file not found at '$envPath'."
+}
+
+# --- Configuration (Example - Adapt as needed) ---
+$config = @{
+    db_path = "trust_data.db"
+    log_path = "twitter_collection.log"
+    update_frequency_minutes = 10
+    api_settings = @{
+        host = "twitter-api45.p.rapidapi.com"
+        # key = "d72bcd77e2msh76c7e6cf37f0b89p1c51bcjsnaad0f6b01e4f" # Key removed
+        search_query = "#ufotrust"
+        max_pages = 3
+    }
+    collection_settings = @{
+        initial_scan_hours = 24
+        max_tweets_per_update = 100
+    }
+}
+
+# Get RapidAPI Key from Environment Variable
+$rapidApiKey = [System.Environment]::GetEnvironmentVariable("RAPIDAPI_KEY", "Process")
+if ([string]::IsNullOrEmpty($rapidApiKey)) {
+    Write-Error "RAPIDAPI_KEY environment variable not set. Please ensure it is defined in your .env file or system environment."
+    # Optionally exit
+    # exit 1
+} else {
+    Write-Host "RapidAPI Key loaded from environment."
+    # You can now use $rapidApiKey where needed, e.g., when calling an API
+}
+
 try {
     # Record that the script started
     $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
@@ -29,42 +80,6 @@ try {
         New-Item -ItemType Directory -Path $logFolder | Out-Null
     }
 
-    # Load configuration
-    function Load-Config {
-        $configPath = "config.json"
-        if (Test-Path $configPath) {
-            $config = Get-Content -Path $configPath -Raw | ConvertFrom-Json
-            return $config
-        } else {
-            # Default configuration
-            $config = @{
-                update_frequency_minutes = 10
-                api_settings = @{
-                    host = "twitter-api45.p.rapidapi.com"
-                    key = "d72bcd77e2msh76c7e6cf37f0b89p1c51bcjsnaad0f6b01e4f"
-                    search_query = "#ufotrust"
-                    max_pages = 3
-                }
-                collection_settings = @{
-                    tweet_lookback_minutes = 15
-                    delay_between_requests = 2
-                }
-                trust_calculation = @{
-                    rating_range = @{
-                        min = -100
-                        max = 100
-                    }
-                    normalization = "l2"
-                    alpha = 0.85
-                }
-            }
-            
-            # Save default configuration
-            $config | ConvertTo-Json -Depth 4 | Set-Content -Path $configPath
-            return $config
-        }
-    }
-
     # Function to log messages
     function Write-Log {
         param (
@@ -82,7 +97,6 @@ try {
     }
 
     # Load configuration
-    $config = Load-Config
     $updateFrequency = $config.update_frequency_minutes
 
     Write-Log "Starting Twitter Trust System update process..." "Green"

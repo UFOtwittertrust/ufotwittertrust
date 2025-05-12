@@ -2,13 +2,14 @@
     "update_frequency_minutes": 10,
     "api_settings": {
       "host": "twitter-api45.p.rapidapi.com",
-      "key": "d72bcd77e2msh76c7e6cf37f0b89p1c51bcjsnaad0f6b01e4f",
       "search_query": "#ufotrust",
       "max_pages": 3
     },
     "collection_settings": {
       "tweet_lookback_minutes": 60,
-      "delay_between_requests": 2
+      "delay_between_requests": 2,
+      "initial_scan_hours": 24,
+      "max_tweets_per_update": 100
     },
     "trust_calculation": {
       "rating_range": {

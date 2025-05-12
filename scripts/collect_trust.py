@@ -12,6 +12,15 @@ from datetime import datetime, timedelta
 import dateutil.parser
 import logging
 from logging.handlers import RotatingFileHandler
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
+
+# Get API Key securely
+RAPIDAPI_KEY = os.getenv("RAPIDAPI_KEY")
+if not RAPIDAPI_KEY:
+    raise ValueError("RAPIDAPI_KEY not found in environment variables")
 
 # File paths
 CONFIG_FILE = "config.json"
@@ -26,50 +35,33 @@ handler.setFormatter(formatter)
 logger.addHandler(handler)
 logger.setLevel(logging.WARNING)
 
-def load_config():
-    """Load configuration from file."""
+def load_config(config_path='config.json'):
+    """Loads configuration from a JSON file."""
+    default_config = {
+        "db_path": "trust_data.db",
+        "log_path": "twitter_collection.log",
+        "update_frequency_minutes": 10,
+        "api_settings": {
+            "host": "twitter-api45.p.rapidapi.com",
+            # "key": "d72bcd77e2msh76c7e6cf37f0b89p1c51bcjsnaad0f6b01e4f", # Key removed
+            "search_query": "#ufotrust",
+            "max_pages": 3
+        },
+        "collection_settings": {
+            "initial_scan_hours": 24,
+            "max_tweets_per_update": 100
+        }
+    }
     try:
-        if os.path.exists(CONFIG_FILE):
-            with open(CONFIG_FILE, 'r') as f:
+        if os.path.exists(config_path):
+            with open(config_path, 'r') as f:
                 return json.load(f)
         else:
             # Default configuration
-            return {
-                "update_frequency_minutes": 10,
-                "api_settings": {
-                    "host": "twitter-api45.p.rapidapi.com",
-                    "key": "d72bcd77e2msh76c7e6cf37f0b89p1c51bcjsnaad0f6b01e4f",
-                    "search_query": "#ufotrust",
-                    "max_pages": 3
-                },
-                "collection_settings": {
-                    "tweet_lookback_minutes": 15,
-                    "delay_between_requests": 2
-                },
-                "trust_calculation": {
-                    "rating_range": {
-                        "min": 0,
-                        "max": 100
-                    },
-                    "normalization": "l2",
-                    "alpha": 0.85
-                }
-            }
+            return default_config
     except Exception as e:
         logger.warning(f"Error loading config: {e}. Using defaults.")
-        return {
-            "update_frequency_minutes": 10,
-            "api_settings": {
-                "host": "twitter-api45.p.rapidapi.com",
-                "key": "d72bcd77e2msh76c7e6cf37f0b89p1c51bcjsnaad0f6b01e4f",
-                "search_query": "#ufotrust",
-                "max_pages": 3
-            },
-            "collection_settings": {
-                "tweet_lookback_minutes": 15,
-                "delay_between_requests": 2
-            }
-        }
+        return default_config
 
 def load_trust_data():
     """Load existing trust data from file."""
@@ -131,7 +123,7 @@ def search_tweets_with_pagination(query, trust_data, config):
             conn = http.client.HTTPSConnection(api_settings.get("host", "twitter-api45.p.rapidapi.com"))
             
             headers = {
-                'x-rapidapi-key': api_settings.get("key", ""),
+                'x-rapidapi-key': RAPIDAPI_KEY,
                 'x-rapidapi-host': api_settings.get("host", "twitter-api45.p.rapidapi.com")
             }
             

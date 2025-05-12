@@ -16,13 +16,17 @@ import numpy as np
 load_dotenv()
 
 # --- Config ---
-RAPIDAPI_KEY = "d72bcd77e2msh76c7e6cf37f0b89p1c51bcjsnaad0f6b01e4f"
+RAPIDAPI_KEY = os.getenv("RAPIDAPI_KEY") # Load from .env
 RAPIDAPI_HOST = "twitter-api45.p.rapidapi.com"
 QUERY = "lue elizondo"
 MAX_ACCOUNTS = 150
 PAGE_SIZE = 20  # Twitter API returns ~20 per page
 MAX_WORKERS = 5  # Number of parallel LLM requests
 MAX_COMMENTS_PER_ACCOUNT = 3  # Limit the number of comments to avoid token limits
+
+# Check if RapidAPI key is loaded
+if not RAPIDAPI_KEY:
+    raise ValueError("RAPIDAPI_KEY not found in environment variables")
 
 # Configure Gemini
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY')
