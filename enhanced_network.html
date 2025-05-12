@@ -134,6 +134,9 @@
 
         const tooltip = d3.select(".tooltip");
 
+        // Define the trust threshold (used for link styling)
+        const TRUST_THRESHOLD = 50;
+
         // Create a color scale for communities
         const uniqueCommunities = [...new Set(data.nodes.map(d => d.community))].sort((a,b) => a - b);
         const color = d3.scaleOrdinal(d3.schemeCategory10).domain(uniqueCommunities);
