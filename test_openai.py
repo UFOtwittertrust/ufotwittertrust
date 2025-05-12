@@ -1,31 +1,42 @@
 import openai
+import os
+from dotenv import load_dotenv
 
-# Add API key directly
-OPENAI_API_KEY = "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"
-print(f"API key loaded (first 10 chars): {OPENAI_API_KEY[:10]}...")
+# Load environment variables from .env file
+load_dotenv()
 
-# Configure OpenAI
-client = openai.OpenAI(api_key=OPENAI_API_KEY)
+# Securely get the API key from environment variables
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Create a simple test prompt
-def test_api():
+# Check if the key was loaded
+if not openai.api_key:
+    print("Error: OPENAI_API_KEY not found in environment variables.")
+    # Optionally exit or handle the error appropriately
+    exit()
+
+def get_openai_rating(prompt_text):
+    """Simple function to get a rating using OpenAI (requires setup)."""
     try:
-        # Generate a response
-        response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
-            messages=[
-                {"role": "user", "content": "Say 'Hello, the API is working!' if you receive this message."}
-            ]
+        response = openai.Completion.create(
+            engine="text-davinci-003", # Or another suitable model
+            prompt=prompt_text,
+            max_tokens=50,
+            temperature=0.5
         )
-        
-        # Print response
-        print("\nAPI TEST SUCCESSFUL!")
-        print(f"Response: {response.choices[0].message.content}")
-        return True
+        # Basic extraction - adapt as needed for your specific prompt/response
+        rating_text = response.choices[0].text.strip()
+        # Add parsing logic here (e.g., find number)
+        print(f"OpenAI Raw Response: {rating_text}")
+        return rating_text # Return raw text for now
     except Exception as e:
-        print("\nAPI TEST FAILED!")
-        print(f"Error: {str(e)}")
-        return False
+        print(f"Error calling OpenAI API: {e}")
+        return None
 
-if __name__ == "__main__":
-    test_api() 
+# Example Usage (optional - keep commented out or remove if not needed)
+# if __name__ == "__main__":
+#     test_prompt = "Rate the trustworthiness of this statement on a scale of 0-100: 'The sky is blue.'"
+#     rating = get_openai_rating(test_prompt)
+#     if rating:
+#         print(f"Received rating/response: {rating}")
+#     else:
+#         print("Failed to get rating.") 
