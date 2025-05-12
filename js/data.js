@@ -1,29 +1,37 @@
 // Trust system data
-// Auto-generated on 2025-05-11 20:48:34
+// Auto-generated on 2025-05-11 20:57:37
 // DO NOT EDIT MANUALLY
 
 const trustData = {
-  "lastUpdated": "May 11, 2025 08:47 PM",
+  "lastUpdated": "May 11, 2025 08:57 PM",
   "users": [
     {
       "username": "DanHaug6",
-      "trustScore": 0.0985485372207531,
+      "trustScore": 0.08321947889135548,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
-      "communityId": 1
+      "communityId": 3
     },
     {
       "username": "GoodTroubleShow",
-      "trustScore": 0.10039158686098383,
-      "trustors": 1,
+      "trustScore": 0.08411663382999816,
+      "trustors": 2,
       "trustees": 0,
       "interests": [],
-      "communityId": 1
+      "communityId": 3
     },
     {
       "username": "Halsrethink",
-      "trustScore": 0.10315616132132992,
+      "trustScore": 0.08679561553406524,
+      "trustors": 1,
+      "trustees": 0,
+      "interests": [],
+      "communityId": 3
+    },
+    {
+      "username": "MiddleofMayhem",
+      "trustScore": 0.07261668427258146,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -31,7 +39,7 @@ const trustData = {
     },
     {
       "username": "PTHellyer",
-      "trustScore": 0.08513594436874501,
+      "trustScore": 0.07289881784521883,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
@@ -39,103 +47,136 @@ const trustData = {
     },
     {
       "username": "ShipsSmall",
-      "trustScore": 0.13274734721170095,
+      "trustScore": 0.10539152607615603,
       "trustors": 2,
       "trustees": 0,
       "interests": [],
-      "communityId": 3
+      "communityId": 4
     },
     {
       "username": "TheOfficialQF",
-      "trustScore": 0.09781323672266296,
+      "trustScore": 0.08278256535333636,
       "trustors": 2,
-      "trustees": 0,
-      "interests": [],
-      "communityId": 1
-    },
-    {
-      "username": "cosmic_surplus",
-      "trustScore": 0.12609189017753447,
-      "trustors": 1,
       "trustees": 0,
       "interests": [],
       "communityId": 3
     },
     {
-      "username": "susangerbic",
-      "trustScore": 0.0848209166380135,
+      "username": "cosmic_surplus",
+      "trustScore": 0.09913328695141393,
       "trustors": 1,
       "trustees": 0,
       "interests": [],
       "communityId": 4
     },
     {
-      "username": "ufobeliever1947",
-      "trustScore": 0.08564718973913807,
-      "trustors": 0,
-      "trustees": 6,
+      "username": "jayanderson",
+      "trustScore": 0.07851373162428978,
+      "trustors": 2,
+      "trustees": 0,
       "interests": [],
-      "communityId": 1
+      "communityId": 3
+    },
+    {
+      "username": "susangerbic",
+      "trustScore": 0.08811906703804853,
+      "trustors": 2,
+      "trustees": 0,
+      "interests": [],
+      "communityId": 4
+    },
+    {
+      "username": "ufobeliever1947",
+      "trustScore": 0.07320629629176813,
+      "trustors": 0,
+      "trustees": 8,
+      "interests": [],
+      "communityId": 3
     },
     {
       "username": "ufoskeptic1968",
-      "trustScore": 0.08564718973913807,
+      "trustScore": 0.07320629629176813,
       "trustors": 0,
-      "trustees": 4,
+      "trustees": 7,
       "interests": [],
-      "communityId": 3
+      "communityId": 4
     }
   ],
   "relationships": [
     {
       "source": "ufobeliever1947",
       "target": "DanHaug6",
-      "value": 3.512093643699515
+      "value": 3.0898227107438614
     },
     {
       "source": "ufobeliever1947",
       "target": "GoodTroubleShow",
-      "value": 4.01382130708516
+      "value": 3.5312259551358416
     },
     {
       "source": "ufobeliever1947",
       "target": "Halsrethink",
-      "value": 4.766412802163628
+      "value": 4.193330821723812
+    },
+    {
+      "source": "ufobeliever1947",
+      "target": "MiddleofMayhem",
+      "value": -4.414032443919802
     },
     {
       "source": "ufobeliever1947",
       "target": "ShipsSmall",
-      "value": 4.01382130708516
+      "value": 3.5312259551358416
     },
     {
       "source": "ufobeliever1947",
       "target": "TheOfficialQF",
-      "value": 3.512093643699515
+      "value": 3.0898227107438614
+    },
+    {
+      "source": "ufobeliever1947",
+      "target": "jayanderson",
+      "value": 1.7656129775679208
     },
     {
       "source": "ufobeliever1947",
       "target": "susangerbic",
-      "value": -4.515548970470806
+      "value": -3.972629199527822
+    },
+    {
+      "source": "ufoskeptic1968",
+      "target": "GoodTroubleShow",
+      "value": -3.452612025890616
     },
     {
       "source": "ufoskeptic1968",
       "target": "PTHellyer",
-      "value": -2.793721183078313
+      "value": -2.301741350593744
     },
     {
       "source": "ufoskeptic1968",
       "target": "ShipsSmall",
-      "value": 5.587442366156626
+      "value": 4.603482701187488
     },
     {
       "source": "ufoskeptic1968",
       "target": "TheOfficialQF",
-      "value": -3.4921514788478913
+      "value": -2.87717668824218
     },
     {
       "source": "ufoskeptic1968",
       "target": "cosmic_surplus",
-      "value": 6.984302957695783
+      "value": 5.75435337648436
+    },
+    {
+      "source": "ufoskeptic1968",
+      "target": "jayanderson",
+      "value": -2.87717668824218
+    },
+    {
+      "source": "ufoskeptic1968",
+      "target": "susangerbic",
+      "value": 3.452612025890616
     }
   ],
   "communities": [
