@@ -190,8 +190,8 @@
 
 
         const simulation = d3.forceSimulation()
-            .force("link", d3.forceLink().id(d => d.id).distance(120)) // Adjust distance
-            .force("charge", d3.forceManyBody().strength(-250)) // Adjust strength
+            .force("link", d3.forceLink().id(d => d.id).distance(150)) // Increased distance
+            .force("charge", d3.forceManyBody().strength(-400)) // Increased repulsion
             .force("center", d3.forceCenter(width / 2, height / 2))
             .force("x", d3.forceX(width / 2).strength(0.05)) // Gentle pull towards center X
             .force("y", d3.forceY(height / 2).strength(0.05)); // Gentle pull towards center Y
@@ -256,7 +256,7 @@
             const nodeEnter = node.enter().append("g"); // Add new nodes
 
              nodeEnter.append("circle")
-                .attr("r", d => 2 + Math.sqrt(d.score ? Math.max(0, d.score) * 720 : 0.1)) // Adjusted scaling: smaller base, larger score multiplier to shrink small nodes more
+                .attr("r", d => 2 + Math.sqrt(d.score ? Math.max(0, d.score) * 400 : 0.1)) // Adjusted scaling: reduced multiplier for smaller max size
                 .attr("fill", d => color(d.community))
                 .call(drag(simulation));
 
