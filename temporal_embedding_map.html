@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temporal 2D Embedding Map</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css"> <!-- Assuming you have a styles.css or might want one -->
+    <style>
+        #embedding-map-viz {
+            width: 100%;
+            height: 70vh;
+            background: #f8f9fa;
+            border-radius: 4px;
+            border: 1px solid #dee2e6;
+        }
+        .controls {
+            padding: 15px;
+            background-color: #e9ecef;
+            border-radius: 4px;
+            margin-bottom: 15px;
+        }
+        .dot {
+            stroke: #fff;
+            stroke-width: 1.5px;
+        }
+        .tooltip {
+            position: absolute;
+            text-align: center;
+            width: auto;
+            height: auto;
+            padding: 8px;
+            font: 12px sans-serif;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+            opacity: 0;
+            z-index: 10;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Temporal Embedding Map</a>
+            <!-- You can add other nav links here if needed -->
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <div class="card">
+            <div class="card-header">
+                <h2>Dialogue Topic Embeddings Over Time (Pseudo-data)</h2>
+            </div>
+            <div class="card-body">
+                <div class="controls">
+                    <label for="timeSlider">Time Step:</label>
+                    <input type="range" id="timeSlider" class="form-range" min="0" value="0">
+                    <span id="timeStepLabel">0</span>
+                    <button id="playButton" class="btn btn-primary btn-sm ms-2">Play</button>
+                </div>
+                <div id="embedding-map-viz">
+                    <svg width="100%" height="100%"></svg>
+                </div>
+            </div>
+            <div class="card-footer text-muted">
+                Points represent dialogue topics. Their movement shows how embeddings change over time.
+            </div>
+        </div>
+    </div>
+
+    <div class="tooltip"></div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script>
+        // --- Pseudodata Generation ---
+        const NUM_TOPICS = 5;
+        const NUM_TIME_STEPS = 20;
+        const temporalData = [];
+
+        // Initial positions for topics
+        let initialPositions = [
+            { id: 0, x: 100, y: 100, name: "Topic A", color: "blue" },
+            { id: 1, x: 150, y: 150, name: "Topic B (Drifts)", color: "green" }, // Will drift apart from Topic C
+            { id: 2, x: 160, y: 160, name: "Topic C (Drifts)", color: "purple" }, // Will drift apart from Topic B
+            { id: 3, x: 400, y: 300, name: "Topic D (Moves Linearly)", color: "red" },
+            { id: 4, x: 250, y: 250, name: "Topic E", color: "orange" }
+        ];
+
+        for (let t = 0; t < NUM_TIME_STEPS; t++) {
+            const currentTimeStepData = [];
+            initialPositions.forEach((topic, i) => {
+                let newX = topic.x;
+                let newY = topic.y;
+
+                if (t > 0) { // Apply changes after the first time step
+                    if (topic.name === "Topic D (Moves Linearly)") {
+                        newX += 10; // Linear movement
+                        newY += 5;
+                    } else if (topic.name === "Topic B (Drifts)") {
+                        newX += Math.random() * 10 - 5; // Random drift
+                        newY += Math.random() * 10 - 2; // More vertical drift
+                    } else if (topic.name === "Topic C (Drifts)") {
+                        newX += Math.random() * 10 - 2; // Random drift
+                        newY -= Math.random() * 10 - 5; // More vertical drift in opposite direction
+                    }
+                    else {
+                        newX += Math.random() * 6 - 3; // Gentle random drift for other topics
+                        newY += Math.random() * 6 - 3;
+                    }
+                }
+                
+                // Keep track of the current position for the next iteration
+                initialPositions[i].x = newX;
+                initialPositions[i].y = newY;
+
+                currentTimeStepData.push({
+                    id: topic.id,
+                    name: topic.name,
+                    x: newX,
+                    y: newY,
+                    color: topic.color,
+                    time: t
+                });
+            });
+            temporalData.push(currentTimeStepData);
+        }
+        
+        // Reset initial positions if you plan to re-run generation or for consistency if needed elsewhere
+        // For this script, it's not strictly necessary as we consume it right after generation.
+
+        console.log("Generated temporal data:", temporalData);
+
+        // --- D3 Visualization Setup (to be continued) ---
+        const margin = { top: 20, right: 20, bottom: 30, left: 40 };
+        const vizContainer = d3.select("#embedding-map-viz");
+        const svg = vizContainer.select("svg");
+        
+        // Get actual width and height from the container
+        let vizWidth = vizContainer.node().getBoundingClientRect().width;
+        let vizHeight = vizContainer.node().getBoundingClientRect().height;
+        
+        const width = vizWidth - margin.left - margin.right;
+        const height = vizHeight - margin.top - margin.bottom;
+
+        const g = svg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
+        const tooltip = d3.select(".tooltip");
+
+        // Scales (will be determined by data extent)
+        const xScale = d3.scaleLinear().range([0, width]);
+        const yScale = d3.scaleLinear().range([height, 0]); // Flipped for typical cartesian coordinates
+
+        // Set slider max value
+        d3.select("#timeSlider").attr("max", NUM_TIME_STEPS - 1);
+
+        // Function to update visualization based on time step
+        function update(timeStep) {
+            d3.select("#timeStepLabel").text(timeStep);
+            d3.select("#timeSlider").property("value", timeStep);
+
+            const currentFrameData = temporalData[timeStep];
+            if (!currentFrameData) return;
+
+            // Determine data extent for scales for the current frame or all frames
+            // For now, let's use all data to keep scales consistent
+            let allPoints = temporalData.flat();
+            xScale.domain(d3.extent(allPoints, d => d.x)).nice();
+            yScale.domain(d3.extent(allPoints, d => d.y)).nice();
+            
+            // Draw/update points
+            const dots = g.selectAll(".dot")
+                .data(currentFrameData, d => d.id); // Key by ID for object constancy
+
+            dots.enter()
+                .append("circle")
+                .attr("class", "dot")
+                .attr("r", 8) // Radius of dots
+                .attr("cx", d => xScale(d.x))
+                .attr("cy", d => yScale(d.y))
+                .attr("fill", d => d.color)
+                .on("mouseover", (event, d) => {
+                    tooltip.transition().duration(200).style("opacity", .9);
+                    tooltip.html(`<strong>${d.name}</strong><br/>Time: ${d.time}<br/>Pos: (${d.x.toFixed(1)}, ${d.y.toFixed(1)})`)
+                        .style("left", (event.pageX + 5) + "px")
+                        .style("top", (event.pageY - 28) + "px");
+                })
+                .on("mouseout", () => {
+                    tooltip.transition().duration(500).style("opacity", 0);
+                })
+                .merge(dots) // Update existing points
+                .transition() // Smooth transition for movement
+                .duration(300) // Transition duration
+                .attr("cx", d => xScale(d.x))
+                .attr("cy", d => yScale(d.y));
+
+            dots.exit().remove();
+        }
+        
+        // --- Animation and Controls ---
+        let timer;
+        let currentTime = 0;
+
+        d3.select("#timeSlider").on("input", function() {
+            currentTime = +this.value;
+            if (timer) timer.stop(); // Stop animation if user interacts with slider
+            d3.select("#playButton").text("Play");
+            update(currentTime);
+        });
+
+        d3.select("#playButton").on("click", function() {
+            const button = d3.select(this);
+            if (button.text() === "Play") {
+                button.text("Pause");
+                timer = d3.interval(() => {
+                    currentTime++;
+                    if (currentTime >= NUM_TIME_STEPS) {
+                        currentTime = 0; // Loop back
+                    }
+                    update(currentTime);
+                }, 700); // Animation speed (ms per step)
+            } else {
+                button.text("Play");
+                if (timer) timer.stop();
+            }
+        });
+
+        // Initial render
+        update(0);
+        
+        // Handle window resize
+        window.addEventListener('resize', () => {
+            vizWidth = vizContainer.node().getBoundingClientRect().width;
+            vizHeight = vizContainer.node().getBoundingClientRect().height;
+            svg.attr("width", vizWidth).attr("height", vizHeight);
+            xScale.range([0, vizWidth - margin.left - margin.right]);
+            yScale.range([vizHeight - margin.top - margin.bottom, 0]);
+            update(currentTime); // Re-render with current time step
+        });
+
+    </script>
+</body>
+</html> 
