@@ -239,7 +239,7 @@
             const nodeEnter = node.enter().append("g"); // Add new nodes
 
              nodeEnter.append("circle")
-                .attr("r", d => 5 + Math.sqrt(d.score ? Math.max(0, d.score) * 500 : 1)) // SCALED BY SCORE (adjust multiplier 500 as needed)
+                .attr("r", d => 2 + Math.sqrt(d.score ? Math.max(0, d.score) * 720 : 0.1)) // Adjusted scaling: smaller base, larger score multiplier to shrink small nodes more
                 .attr("fill", d => color(d.community))
                 .call(drag(simulation));
 
