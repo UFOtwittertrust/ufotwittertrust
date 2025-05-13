@@ -89,7 +89,7 @@
 
     <div class="container-fluid mt-4">
          <div class="row">
-            <div class="col-12">
+            <div class="col-md-9">
                 <div class="card">
                     <div class="card-header">
                         <h2>Enhanced Trust Network (LLM Analysis)</h2>
@@ -116,6 +116,18 @@
                     </div>
                 </div>
             </div>
+            <div class="col-md-3">
+                <div class="card sticky-top" style="top: 20px;">
+                    <div class="card-header">
+                        <h4>Node Details</h4>
+                    </div>
+                    <div class="card-body">
+                        <div id="enhanced-node-details">
+                            <p class="text-muted">Hover over a node for details.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <div class="tooltip"></div> <!-- Tooltip div -->
@@ -132,6 +144,10 @@
     <script>
         const originalData = typeof enhancedTrustData !== 'undefined' ? JSON.parse(JSON.stringify(enhancedTrustData)) : {nodes: [], links: []}; // Deep copy original data
         let currentData = { nodes: [...originalData.nodes], links: [...originalData.links] }; // Data currently displayed
+
+        // Map nodes by ID for quick lookup
+        const nodeMap = new Map();
+        originalData.nodes.forEach(node => nodeMap.set(node.id, node));
 
         const vizContainer = d3.select("#enhanced-network-viz");
         const svg = vizContainer.select("svg");
@@ -154,6 +170,7 @@
 
         const tooltip = d3.select(".tooltip");
         const communitySelect = d3.select("#enhancedCommunitySelect");
+        const nodeDetailsDiv = d3.select("#enhanced-node-details"); // Sidebar div
 
         // Define the trust threshold (used for link styling)
         const TRUST_THRESHOLD = 50; // Assuming 50 is the neutral point
@@ -284,6 +301,43 @@
                 .style("left", (event.pageX + 10) + "px")
                 .style("top", (event.pageY - 28) + "px");
 
+            // --- Update Sidebar ---
+            let detailsHtml = `<h5>@${d.screen_name}</h5>`;
+            detailsHtml += `<p class="mb-1"><strong>Score:</strong> ${d.score ? d.score.toFixed(4) : 'N/A'}</p>`;
+            detailsHtml += `<p class="mb-1"><strong>Community:</strong> ${d.community}</p>`;
+            detailsHtml += `<p class="mb-1"><strong>Followers:</strong> ${d.followers || 0}</p>`;
+            // Interests are not in enhancedTrustData, so we'll skip or state N/A
+            detailsHtml += `<p class="mb-1"><strong>Interests:</strong> N/A</p><hr/>`;
+
+            const incomingLinks = currentData.links.filter(l => (typeof l.target === 'object' ? l.target.id : l.target) === d.id);
+            const outgoingLinks = currentData.links.filter(l => (typeof l.source === 'object' ? l.source.id : l.source) === d.id);
+
+            detailsHtml += `<h6>Trusted by:</h6>`;
+            if (incomingLinks.length > 0) {
+                detailsHtml += `<ul class="list-unstyled small">`;
+                incomingLinks.forEach(link => {
+                    const sourceNode = nodeMap.get(typeof link.source === 'object' ? link.source.id : link.source);
+                    detailsHtml += `<li>@${sourceNode ? sourceNode.screen_name : 'UnknownUser'}: ${link.trust ? link.trust.toFixed(2) : 'N/A'}</li>`;
+                });
+                detailsHtml += `</ul>`;
+            } else {
+                detailsHtml += `<p class="small text-muted">No incoming trust relationships in current view.</p>`;
+            }
+
+            detailsHtml += `<hr/><h6>Trusts:</h6>`;
+            if (outgoingLinks.length > 0) {
+                detailsHtml += `<ul class="list-unstyled small">`;
+                outgoingLinks.forEach(link => {
+                    const targetNode = nodeMap.get(typeof link.target === 'object' ? link.target.id : link.target);
+                    detailsHtml += `<li>@${targetNode ? targetNode.screen_name : 'UnknownUser'}: ${link.trust ? link.trust.toFixed(2) : 'N/A'}</li>`;
+                });
+                detailsHtml += `</ul>`;
+            } else {
+                detailsHtml += `<p class="small text-muted">No outgoing trust relationships in current view.</p>`;
+            }
+            nodeDetailsDiv.html(detailsHtml);
+
+
             // Highlight connections using the current filtered links
             link.style('stroke-opacity', l => {
                 const sourceId = typeof l.source === 'object' ? l.source.id : l.source;
@@ -307,6 +361,9 @@
              tooltip.transition()
                 .duration(500)
                 .style("opacity", 0);
+
+            // --- Reset Sidebar ---
+            nodeDetailsDiv.html(`<p class="text-muted">Hover over a node for details.</p>`);
 
              // Reset styles based on base attributes
              link.style('stroke-opacity', l => Math.max(0.1, (l.trust || 0) / 100))
