@@ -1,0 +1,13 @@
+[2025-05-24 06:27:44] WARNING: - 0 trust assignments processed
+[2025-05-24 06:27:44] WARNING: - 2 users in trust network
+[2025-05-24 06:27:44] WARNING: - 31 total trust relationships
+[2025-05-24 06:37:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 06:37:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 06:37:33] WARNING: Retrieving page 1...
+[2025-05-24 06:37:54] WARNING: Error retrieving page 1: Expecting value: line 1 column 1 (char 0)
+[2025-05-24 06:37:54] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 06:37:54] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 06:37:54] WARNING: Collection complete!
+[2025-05-24 06:37:54] WARNING: - 0 trust assignments processed
+[2025-05-24 06:37:54] WARNING: - 2 users in trust network
+[2025-05-24 06:37:54] WARNING: - 31 total trust relationships
