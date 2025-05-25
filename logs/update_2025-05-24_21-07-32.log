@@ -1,0 +1,785 @@
+[2025-05-24 21:07:32] Starting Twitter Trust System update process...
+[2025-05-24 21:07:32] Update frequency set to: 10 minutes
+[2025-05-24 21:07:32] Collecting trust assignments from Twitter...
+[2025-05-24 21:07:36] Warning: Trust assignments file not updated recently (last modified 05/24/2025 07:17:37)
+[2025-05-24 14:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 14:57:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 14:57:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 14:57:35] WARNING: Collection complete!
+[2025-05-24 14:57:35] WARNING: - 0 trust assignments processed
+[2025-05-24 14:57:35] WARNING: - 2 users in trust network
+[2025-05-24 14:57:35] WARNING: - 31 total trust relationships
+[2025-05-24 15:07:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 15:07:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 15:07:33] WARNING: Retrieving page 1...
+[2025-05-24 15:07:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 15:07:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 15:07:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 15:07:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 15:07:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 15:07:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 15:07:35] WARNING: Collection complete!
+[2025-05-24 15:07:35] WARNING: - 0 trust assignments processed
+[2025-05-24 15:07:35] WARNING: - 2 users in trust network
+[2025-05-24 15:07:35] WARNING: - 31 total trust relationships
+[2025-05-24 15:17:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 15:17:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 15:17:33] WARNING: Retrieving page 1...
+[2025-05-24 15:17:38] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 15:17:38] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 15:17:38] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 15:17:38] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 15:17:38] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 15:17:38] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 15:17:38] WARNING: Collection complete!
+[2025-05-24 15:17:38] WARNING: - 0 trust assignments processed
+[2025-05-24 15:17:38] WARNING: - 2 users in trust network
+[2025-05-24 15:17:38] WARNING: - 31 total trust relationships
+[2025-05-24 15:27:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 15:27:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 15:27:33] WARNING: Retrieving page 1...
+[2025-05-24 15:27:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 15:27:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 15:27:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 15:27:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 15:27:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 15:27:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 15:27:35] WARNING: Collection complete!
+[2025-05-24 15:27:35] WARNING: - 0 trust assignments processed
+[2025-05-24 15:27:35] WARNING: - 2 users in trust network
+[2025-05-24 15:27:35] WARNING: - 31 total trust relationships
+[2025-05-24 15:37:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 15:37:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 15:37:33] WARNING: Retrieving page 1...
+[2025-05-24 15:37:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 15:37:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 15:37:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 15:37:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 15:37:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 15:37:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 15:37:35] WARNING: Collection complete!
+[2025-05-24 15:37:35] WARNING: - 0 trust assignments processed
+[2025-05-24 15:37:35] WARNING: - 2 users in trust network
+[2025-05-24 15:37:35] WARNING: - 31 total trust relationships
+[2025-05-24 15:47:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 15:47:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 15:47:33] WARNING: Retrieving page 1...
+[2025-05-24 15:47:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 15:47:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 15:47:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 15:47:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 15:47:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 15:47:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 15:47:35] WARNING: Collection complete!
+[2025-05-24 15:47:35] WARNING: - 0 trust assignments processed
+[2025-05-24 15:47:35] WARNING: - 2 users in trust network
+[2025-05-24 15:47:35] WARNING: - 31 total trust relationships
+[2025-05-24 15:57:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 15:57:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 15:57:33] WARNING: Retrieving page 1...
+[2025-05-24 15:57:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 15:57:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 15:57:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 15:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 15:57:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 15:57:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 15:57:35] WARNING: Collection complete!
+[2025-05-24 15:57:35] WARNING: - 0 trust assignments processed
+[2025-05-24 15:57:35] WARNING: - 2 users in trust network
+[2025-05-24 15:57:35] WARNING: - 31 total trust relationships
+[2025-05-24 16:07:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 16:07:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 16:07:33] WARNING: Retrieving page 1...
+[2025-05-24 16:07:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 16:07:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 16:07:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 16:07:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 16:07:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 16:07:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 16:07:36] WARNING: Collection complete!
+[2025-05-24 16:07:36] WARNING: - 0 trust assignments processed
+[2025-05-24 16:07:36] WARNING: - 2 users in trust network
+[2025-05-24 16:07:36] WARNING: - 31 total trust relationships
+[2025-05-24 16:17:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 16:17:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 16:17:33] WARNING: Retrieving page 1...
+[2025-05-24 16:17:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 16:17:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 16:17:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 16:17:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 16:17:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 16:17:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 16:17:35] WARNING: Collection complete!
+[2025-05-24 16:17:35] WARNING: - 0 trust assignments processed
+[2025-05-24 16:17:35] WARNING: - 2 users in trust network
+[2025-05-24 16:17:35] WARNING: - 31 total trust relationships
+[2025-05-24 16:27:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 16:27:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 16:27:33] WARNING: Retrieving page 1...
+[2025-05-24 16:27:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 16:27:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 16:27:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 16:27:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 16:27:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 16:27:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 16:27:35] WARNING: Collection complete!
+[2025-05-24 16:27:35] WARNING: - 0 trust assignments processed
+[2025-05-24 16:27:35] WARNING: - 2 users in trust network
+[2025-05-24 16:27:35] WARNING: - 31 total trust relationships
+[2025-05-24 16:37:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 16:37:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 16:37:33] WARNING: Retrieving page 1...
+[2025-05-24 16:37:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 16:37:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 16:37:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 16:37:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 16:37:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 16:37:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 16:37:35] WARNING: Collection complete!
+[2025-05-24 16:37:35] WARNING: - 0 trust assignments processed
+[2025-05-24 16:37:35] WARNING: - 2 users in trust network
+[2025-05-24 16:37:35] WARNING: - 31 total trust relationships
+[2025-05-24 16:47:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 16:47:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 16:47:33] WARNING: Retrieving page 1...
+[2025-05-24 16:47:37] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 16:47:37] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 16:47:37] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 16:47:37] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 16:47:37] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 16:47:37] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 16:47:37] WARNING: Collection complete!
+[2025-05-24 16:47:37] WARNING: - 0 trust assignments processed
+[2025-05-24 16:47:37] WARNING: - 2 users in trust network
+[2025-05-24 16:47:37] WARNING: - 31 total trust relationships
+[2025-05-24 16:57:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 16:57:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 16:57:33] WARNING: Retrieving page 1...
+[2025-05-24 16:57:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 16:57:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 16:57:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 16:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 16:57:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 16:57:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 16:57:35] WARNING: Collection complete!
+[2025-05-24 16:57:35] WARNING: - 0 trust assignments processed
+[2025-05-24 16:57:35] WARNING: - 2 users in trust network
+[2025-05-24 16:57:35] WARNING: - 31 total trust relationships
+[2025-05-24 17:07:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 17:07:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 17:07:33] WARNING: Retrieving page 1...
+[2025-05-24 17:07:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 17:07:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 17:07:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 17:07:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 17:07:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 17:07:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 17:07:36] WARNING: Collection complete!
+[2025-05-24 17:07:36] WARNING: - 0 trust assignments processed
+[2025-05-24 17:07:36] WARNING: - 2 users in trust network
+[2025-05-24 17:07:36] WARNING: - 31 total trust relationships
+[2025-05-24 17:17:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 17:17:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 17:17:33] WARNING: Retrieving page 1...
+[2025-05-24 17:17:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 17:17:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 17:17:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 17:17:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 17:17:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 17:17:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 17:17:36] WARNING: Collection complete!
+[2025-05-24 17:17:36] WARNING: - 0 trust assignments processed
+[2025-05-24 17:17:36] WARNING: - 2 users in trust network
+[2025-05-24 17:17:36] WARNING: - 31 total trust relationships
+[2025-05-24 17:27:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 17:27:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 17:27:33] WARNING: Retrieving page 1...
+[2025-05-24 17:27:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 17:27:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 17:27:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 17:27:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 17:27:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 17:27:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 17:27:35] WARNING: Collection complete!
+[2025-05-24 17:27:35] WARNING: - 0 trust assignments processed
+[2025-05-24 17:27:35] WARNING: - 2 users in trust network
+[2025-05-24 17:27:35] WARNING: - 31 total trust relationships
+[2025-05-24 17:37:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 17:37:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 17:37:33] WARNING: Retrieving page 1...
+[2025-05-24 17:37:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 17:37:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 17:37:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 17:37:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 17:37:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 17:37:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 17:37:35] WARNING: Collection complete!
+[2025-05-24 17:37:35] WARNING: - 0 trust assignments processed
+[2025-05-24 17:37:35] WARNING: - 2 users in trust network
+[2025-05-24 17:37:35] WARNING: - 31 total trust relationships
+[2025-05-24 17:47:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 17:47:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 17:47:33] WARNING: Retrieving page 1...
+[2025-05-24 17:47:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 17:47:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 17:47:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 17:47:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 17:47:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 17:47:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 17:47:35] WARNING: Collection complete!
+[2025-05-24 17:47:35] WARNING: - 0 trust assignments processed
+[2025-05-24 17:47:35] WARNING: - 2 users in trust network
+[2025-05-24 17:47:35] WARNING: - 31 total trust relationships
+[2025-05-24 17:57:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 17:57:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 17:57:33] WARNING: Retrieving page 1...
+[2025-05-24 17:57:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 17:57:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 17:57:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 17:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 17:57:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 17:57:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 17:57:35] WARNING: Collection complete!
+[2025-05-24 17:57:35] WARNING: - 0 trust assignments processed
+[2025-05-24 17:57:35] WARNING: - 2 users in trust network
+[2025-05-24 17:57:35] WARNING: - 31 total trust relationships
+[2025-05-24 18:07:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 18:07:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 18:07:33] WARNING: Retrieving page 1...
+[2025-05-24 18:07:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 18:07:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 18:07:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 18:07:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 18:07:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 18:07:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 18:07:36] WARNING: Collection complete!
+[2025-05-24 18:07:36] WARNING: - 0 trust assignments processed
+[2025-05-24 18:07:36] WARNING: - 2 users in trust network
+[2025-05-24 18:07:36] WARNING: - 31 total trust relationships
+[2025-05-24 18:17:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 18:17:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 18:17:33] WARNING: Retrieving page 1...
+[2025-05-24 18:17:37] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 18:17:37] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 18:17:37] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 18:17:37] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 18:17:37] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 18:17:37] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 18:17:37] WARNING: Collection complete!
+[2025-05-24 18:17:37] WARNING: - 0 trust assignments processed
+[2025-05-24 18:17:37] WARNING: - 2 users in trust network
+[2025-05-24 18:17:37] WARNING: - 31 total trust relationships
+[2025-05-24 18:27:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 18:27:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 18:27:33] WARNING: Retrieving page 1...
+[2025-05-24 18:27:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 18:27:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 18:27:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 18:27:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 18:27:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 18:27:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 18:27:35] WARNING: Collection complete!
+[2025-05-24 18:27:35] WARNING: - 0 trust assignments processed
+[2025-05-24 18:27:35] WARNING: - 2 users in trust network
+[2025-05-24 18:27:35] WARNING: - 31 total trust relationships
+[2025-05-24 18:37:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 18:37:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 18:37:33] WARNING: Retrieving page 1...
+[2025-05-24 18:37:37] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 18:37:37] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 18:37:37] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 18:37:37] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 18:37:37] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 18:37:37] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 18:37:37] WARNING: Collection complete!
+[2025-05-24 18:37:37] WARNING: - 0 trust assignments processed
+[2025-05-24 18:37:37] WARNING: - 2 users in trust network
+[2025-05-24 18:37:37] WARNING: - 31 total trust relationships
+[2025-05-24 18:47:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 18:47:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 18:47:33] WARNING: Retrieving page 1...
+[2025-05-24 18:47:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 18:47:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 18:47:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 18:47:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 18:47:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 18:47:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 18:47:35] WARNING: Collection complete!
+[2025-05-24 18:47:35] WARNING: - 0 trust assignments processed
+[2025-05-24 18:47:35] WARNING: - 2 users in trust network
+[2025-05-24 18:47:35] WARNING: - 31 total trust relationships
+[2025-05-24 18:57:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 18:57:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 18:57:33] WARNING: Retrieving page 1...
+[2025-05-24 18:57:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 18:57:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 18:57:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 18:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 18:57:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 18:57:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 18:57:35] WARNING: Collection complete!
+[2025-05-24 18:57:35] WARNING: - 0 trust assignments processed
+[2025-05-24 18:57:35] WARNING: - 2 users in trust network
+[2025-05-24 18:57:35] WARNING: - 31 total trust relationships
+[2025-05-24 19:07:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 19:07:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 19:07:33] WARNING: Retrieving page 1...
+[2025-05-24 19:07:37] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 19:07:37] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 19:07:37] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 19:07:37] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 19:07:37] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 19:07:37] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 19:07:37] WARNING: Collection complete!
+[2025-05-24 19:07:37] WARNING: - 0 trust assignments processed
+[2025-05-24 19:07:37] WARNING: - 2 users in trust network
+[2025-05-24 19:07:37] WARNING: - 31 total trust relationships
+[2025-05-24 19:17:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 19:17:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 19:17:33] WARNING: Retrieving page 1...
+[2025-05-24 19:17:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 19:17:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 19:17:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 19:17:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 19:17:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 19:17:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 19:17:36] WARNING: Collection complete!
+[2025-05-24 19:17:36] WARNING: - 0 trust assignments processed
+[2025-05-24 19:17:36] WARNING: - 2 users in trust network
+[2025-05-24 19:17:36] WARNING: - 31 total trust relationships
+[2025-05-24 19:27:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 19:27:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 19:27:33] WARNING: Retrieving page 1...
+[2025-05-24 19:27:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 19:27:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 19:27:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 19:27:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 19:27:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 19:27:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 19:27:36] WARNING: Collection complete!
+[2025-05-24 19:27:36] WARNING: - 0 trust assignments processed
+[2025-05-24 19:27:36] WARNING: - 2 users in trust network
+[2025-05-24 19:27:36] WARNING: - 31 total trust relationships
+[2025-05-24 19:37:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 19:37:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 19:37:33] WARNING: Retrieving page 1...
+[2025-05-24 19:37:37] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 19:37:37] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 19:37:37] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 19:37:37] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 19:37:37] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 19:37:37] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 19:37:37] WARNING: Collection complete!
+[2025-05-24 19:37:37] WARNING: - 0 trust assignments processed
+[2025-05-24 19:37:37] WARNING: - 2 users in trust network
+[2025-05-24 19:37:37] WARNING: - 31 total trust relationships
+[2025-05-24 19:47:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 19:47:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 19:47:33] WARNING: Retrieving page 1...
+[2025-05-24 19:47:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 19:47:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 19:47:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 19:47:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 19:47:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 19:47:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 19:47:35] WARNING: Collection complete!
+[2025-05-24 19:47:35] WARNING: - 0 trust assignments processed
+[2025-05-24 19:47:35] WARNING: - 2 users in trust network
+[2025-05-24 19:47:35] WARNING: - 31 total trust relationships
+[2025-05-24 19:57:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 19:57:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 19:57:33] WARNING: Retrieving page 1...
+[2025-05-24 19:57:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 19:57:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 19:57:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 19:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 19:57:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 19:57:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 19:57:35] WARNING: Collection complete!
+[2025-05-24 19:57:35] WARNING: - 0 trust assignments processed
+[2025-05-24 19:57:35] WARNING: - 2 users in trust network
+[2025-05-24 19:57:35] WARNING: - 31 total trust relationships
+[2025-05-24 20:07:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 20:07:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 20:07:33] WARNING: Retrieving page 1...
+[2025-05-24 20:07:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 20:07:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 20:07:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 20:07:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 20:07:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 20:07:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 20:07:35] WARNING: Collection complete!
+[2025-05-24 20:07:35] WARNING: - 0 trust assignments processed
+[2025-05-24 20:07:35] WARNING: - 2 users in trust network
+[2025-05-24 20:07:35] WARNING: - 31 total trust relationships
+[2025-05-24 20:17:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 20:17:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 20:17:33] WARNING: Retrieving page 1...
+[2025-05-24 20:17:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 20:17:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 20:17:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 20:17:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 20:17:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 20:17:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 20:17:35] WARNING: Collection complete!
+[2025-05-24 20:17:35] WARNING: - 0 trust assignments processed
+[2025-05-24 20:17:35] WARNING: - 2 users in trust network
+[2025-05-24 20:17:35] WARNING: - 31 total trust relationships
+[2025-05-24 20:27:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 20:27:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 20:27:33] WARNING: Retrieving page 1...
+[2025-05-24 20:27:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 20:27:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 20:27:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 20:27:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 20:27:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 20:27:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 20:27:35] WARNING: Collection complete!
+[2025-05-24 20:27:35] WARNING: - 0 trust assignments processed
+[2025-05-24 20:27:35] WARNING: - 2 users in trust network
+[2025-05-24 20:27:35] WARNING: - 31 total trust relationships
+[2025-05-24 20:37:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 20:37:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 20:37:33] WARNING: Retrieving page 1...
+[2025-05-24 20:37:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 20:37:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 20:37:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 20:37:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 20:37:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 20:37:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 20:37:35] WARNING: Collection complete!
+[2025-05-24 20:37:35] WARNING: - 0 trust assignments processed
+[2025-05-24 20:37:35] WARNING: - 2 users in trust network
+[2025-05-24 20:37:35] WARNING: - 31 total trust relationships
+[2025-05-24 20:47:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 20:47:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 20:47:33] WARNING: Retrieving page 1...
+[2025-05-24 20:47:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 20:47:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 20:47:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 20:47:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 20:47:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 20:47:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 20:47:35] WARNING: Collection complete!
+[2025-05-24 20:47:35] WARNING: - 0 trust assignments processed
+[2025-05-24 20:47:35] WARNING: - 2 users in trust network
+[2025-05-24 20:47:35] WARNING: - 31 total trust relationships
+[2025-05-24 20:57:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 20:57:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 20:57:33] WARNING: Retrieving page 1...
+[2025-05-24 20:57:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 20:57:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 20:57:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 20:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 20:57:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 20:57:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 20:57:35] WARNING: Collection complete!
+[2025-05-24 20:57:35] WARNING: - 0 trust assignments processed
+[2025-05-24 20:57:35] WARNING: - 2 users in trust network
+[2025-05-24 20:57:35] WARNING: - 31 total trust relationships
+[2025-05-24 21:07:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-05-24 21:07:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-05-24 21:07:33] WARNING: Retrieving page 1...
+[2025-05-24 21:07:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-05-24 21:07:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-05-24 21:07:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-05-24 21:07:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-05-24 21:07:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-05-24 21:07:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-05-24 21:07:36] WARNING: Collection complete!
+[2025-05-24 21:07:36] WARNING: - 0 trust assignments processed
+[2025-05-24 21:07:36] WARNING: - 2 users in trust network
+[2025-05-24 21:07:36] WARNING: - 31 total trust relationships
+[2025-05-24 21:07:36] Calculating trust scores from collected data...
+[2025-05-24 19:27:39] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-05-24 19:27:39] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-05-24 19:27:39] INFO: Community analysis written to community_analysis.txt
+[2025-05-24 19:27:39] WARNING: Generating trust network visualization...
+[2025-05-24 19:27:40] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-05-24 19:27:40] WARNING: Creating JSON data structure...
+[2025-05-24 19:27:40] WARNING: Successfully generated js/data.js with:
+[2025-05-24 19:27:40] WARNING: - 25 users
+[2025-05-24 19:27:40] WARNING: - 31 trust relationships
+[2025-05-24 19:27:40] WARNING: - 2 communities
+[2025-05-24 19:27:40] WARNING: Trust calculation completed successfully.
+[2025-05-24 19:37:40] WARNING: === Starting Trust Score Calculation ===
+[2025-05-24 19:37:40] WARNING: Starting trust score calculation...
+[2025-05-24 19:37:40] WARNING: Found 25 users in the trust network
+[2025-05-24 19:37:40] WARNING: Building trust network graph...
+[2025-05-24 19:37:40] WARNING: Calculating PageRank scores...
+[2025-05-24 19:37:40] WARNING: Applying distrust penalties...
+[2025-05-24 19:37:40] WARNING: Detecting communities...
+[2025-05-24 19:37:40] WARNING: Found 8 isolated nodes to assign to communities
+[2025-05-24 19:37:40] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-05-24 19:37:40] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-05-24 19:37:40] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-05-24 19:37:40] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-05-24 19:37:40] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-05-24 19:37:40] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-05-24 19:37:40] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-05-24 19:37:40] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-05-24 19:37:40] INFO: Analyzing community composition...
+[2025-05-24 19:37:40] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-05-24 19:37:40] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-05-24 19:37:40] INFO: Community analysis written to community_analysis.txt
+[2025-05-24 19:37:40] WARNING: Generating trust network visualization...
+[2025-05-24 19:37:41] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-05-24 19:37:41] WARNING: Creating JSON data structure...
+[2025-05-24 19:37:41] WARNING: Successfully generated js/data.js with:
+[2025-05-24 19:37:41] WARNING: - 25 users
+[2025-05-24 19:37:41] WARNING: - 31 trust relationships
+[2025-05-24 19:37:41] WARNING: - 2 communities
+[2025-05-24 19:37:41] WARNING: Trust calculation completed successfully.
+[2025-05-24 19:47:38] WARNING: === Starting Trust Score Calculation ===
+[2025-05-24 19:47:38] WARNING: Starting trust score calculation...
+[2025-05-24 19:47:38] WARNING: Found 25 users in the trust network
+[2025-05-24 19:47:38] WARNING: Building trust network graph...
+[2025-05-24 19:47:38] WARNING: Calculating PageRank scores...
+[2025-05-24 19:47:38] WARNING: Applying distrust penalties...
+[2025-05-24 19:47:38] WARNING: Detecting communities...
+[2025-05-24 19:47:38] WARNING: Found 8 isolated nodes to assign to communities
+[2025-05-24 19:47:38] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-05-24 19:47:38] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-05-24 19:47:38] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-05-24 19:47:38] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-05-24 19:47:38] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-05-24 19:47:38] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-05-24 19:47:38] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-05-24 19:47:38] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-05-24 19:47:38] INFO: Analyzing community composition...
+[2025-05-24 19:47:38] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-05-24 19:47:38] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-05-24 19:47:38] INFO: Community analysis written to community_analysis.txt
+[2025-05-24 19:47:38] WARNING: Generating trust network visualization...
+[2025-05-24 19:47:39] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-05-24 19:47:39] WARNING: Creating JSON data structure...
+[2025-05-24 19:47:39] WARNING: Successfully generated js/data.js with:
+[2025-05-24 19:47:39] WARNING: - 25 users
+[2025-05-24 19:47:39] WARNING: - 31 trust relationships
+[2025-05-24 19:47:39] WARNING: - 2 communities
+[2025-05-24 19:47:39] WARNING: Trust calculation completed successfully.
+[2025-05-24 19:57:38] WARNING: === Starting Trust Score Calculation ===
+[2025-05-24 19:57:38] WARNING: Starting trust score calculation...
+[2025-05-24 19:57:38] WARNING: Found 25 users in the trust network
+[2025-05-24 19:57:38] WARNING: Building trust network graph...
+[2025-05-24 19:57:38] WARNING: Calculating PageRank scores...
+[2025-05-24 19:57:38] WARNING: Applying distrust penalties...
+[2025-05-24 19:57:38] WARNING: Detecting communities...
+[2025-05-24 19:57:38] WARNING: Found 8 isolated nodes to assign to communities
+[2025-05-24 19:57:38] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-05-24 19:57:38] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-05-24 19:57:38] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-05-24 19:57:38] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-05-24 19:57:38] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-05-24 19:57:38] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-05-24 19:57:38] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-05-24 19:57:38] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-05-24 19:57:38] INFO: Analyzing community composition...
+[2025-05-24 19:57:38] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-05-24 19:57:38] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-05-24 19:57:38] INFO: Community analysis written to community_analysis.txt
+[2025-05-24 19:57:38] WARNING: Generating trust network visualization...
+[2025-05-24 19:57:39] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-05-24 19:57:39] WARNING: Creating JSON data structure...
+[2025-05-24 19:57:39] WARNING: Successfully generated js/data.js with:
+[2025-05-24 19:57:39] WARNING: - 25 users
+[2025-05-24 19:57:39] WARNING: - 31 trust relationships
+[2025-05-24 19:57:39] WARNING: - 2 communities
+[2025-05-24 19:57:39] WARNING: Trust calculation completed successfully.
+[2025-05-24 20:07:38] WARNING: === Starting Trust Score Calculation ===
+[2025-05-24 20:07:38] WARNING: Starting trust score calculation...
+[2025-05-24 20:07:38] WARNING: Found 25 users in the trust network
+[2025-05-24 20:07:38] WARNING: Building trust network graph...
+[2025-05-24 20:07:38] WARNING: Calculating PageRank scores...
+[2025-05-24 20:07:38] WARNING: Applying distrust penalties...
+[2025-05-24 20:07:38] WARNING: Detecting communities...
+[2025-05-24 20:07:38] WARNING: Found 8 isolated nodes to assign to communities
+[2025-05-24 20:07:38] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-05-24 20:07:38] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-05-24 20:07:38] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-05-24 20:07:38] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-05-24 20:07:38] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-05-24 20:07:38] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-05-24 20:07:38] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-05-24 20:07:38] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-05-24 20:07:38] INFO: Analyzing community composition...
+[2025-05-24 20:07:38] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-05-24 20:07:38] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-05-24 20:07:38] INFO: Community analysis written to community_analysis.txt
+[2025-05-24 20:07:38] WARNING: Generating trust network visualization...
+[2025-05-24 20:07:39] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-05-24 20:07:39] WARNING: Creating JSON data structure...
+[2025-05-24 20:07:39] WARNING: Successfully generated js/data.js with:
+[2025-05-24 20:07:39] WARNING: - 25 users
+[2025-05-24 20:07:39] WARNING: - 31 trust relationships
+[2025-05-24 20:07:39] WARNING: - 2 communities
+[2025-05-24 20:07:39] WARNING: Trust calculation completed successfully.
+[2025-05-24 20:17:38] WARNING: === Starting Trust Score Calculation ===
+[2025-05-24 20:17:38] WARNING: Starting trust score calculation...
+[2025-05-24 20:17:38] WARNING: Found 25 users in the trust network
+[2025-05-24 20:17:38] WARNING: Building trust network graph...
+[2025-05-24 20:17:38] WARNING: Calculating PageRank scores...
+[2025-05-24 20:17:38] WARNING: Applying distrust penalties...
+[2025-05-24 20:17:38] WARNING: Detecting communities...
+[2025-05-24 20:17:38] WARNING: Found 8 isolated nodes to assign to communities
+[2025-05-24 20:17:38] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-05-24 20:17:38] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-05-24 20:17:38] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-05-24 20:17:38] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-05-24 20:17:38] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-05-24 20:17:38] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-05-24 20:17:38] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-05-24 20:17:38] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-05-24 20:17:38] INFO: Analyzing community composition...
+[2025-05-24 20:17:38] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-05-24 20:17:38] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-05-24 20:17:38] INFO: Community analysis written to community_analysis.txt
+[2025-05-24 20:17:38] WARNING: Generating trust network visualization...
+[2025-05-24 20:17:39] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-05-24 20:17:39] WARNING: Creating JSON data structure...
+[2025-05-24 20:17:39] WARNING: Successfully generated js/data.js with:
+[2025-05-24 20:17:39] WARNING: - 25 users
+[2025-05-24 20:17:39] WARNING: - 31 trust relationships
+[2025-05-24 20:17:39] WARNING: - 2 communities
+[2025-05-24 20:17:39] WARNING: Trust calculation completed successfully.
+[2025-05-24 20:27:38] WARNING: === Starting Trust Score Calculation ===
+[2025-05-24 20:27:38] WARNING: Starting trust score calculation...
+[2025-05-24 20:27:38] WARNING: Found 25 users in the trust network
+[2025-05-24 20:27:38] WARNING: Building trust network graph...
+[2025-05-24 20:27:38] WARNING: Calculating PageRank scores...
+[2025-05-24 20:27:38] WARNING: Applying distrust penalties...
+[2025-05-24 20:27:38] WARNING: Detecting communities...
+[2025-05-24 20:27:38] WARNING: Found 8 isolated nodes to assign to communities
+[2025-05-24 20:27:38] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-05-24 20:27:38] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-05-24 20:27:38] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-05-24 20:27:38] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-05-24 20:27:38] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-05-24 20:27:38] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-05-24 20:27:38] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-05-24 20:27:38] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-05-24 20:27:38] INFO: Analyzing community composition...
+[2025-05-24 20:27:38] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-05-24 20:27:38] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-05-24 20:27:38] INFO: Community analysis written to community_analysis.txt
+[2025-05-24 20:27:38] WARNING: Generating trust network visualization...
+[2025-05-24 20:27:39] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-05-24 20:27:39] WARNING: Creating JSON data structure...
+[2025-05-24 20:27:39] WARNING: Successfully generated js/data.js with:
+[2025-05-24 20:27:39] WARNING: - 25 users
+[2025-05-24 20:27:39] WARNING: - 31 trust relationships
+[2025-05-24 20:27:39] WARNING: - 2 communities
+[2025-05-24 20:27:39] WARNING: Trust calculation completed successfully.
+[2025-05-24 20:37:38] WARNING: === Starting Trust Score Calculation ===
+[2025-05-24 20:37:38] WARNING: Starting trust score calculation...
+[2025-05-24 20:37:38] WARNING: Found 25 users in the trust network
+[2025-05-24 20:37:38] WARNING: Building trust network graph...
+[2025-05-24 20:37:38] WARNING: Calculating PageRank scores...
+[2025-05-24 20:37:38] WARNING: Applying distrust penalties...
+[2025-05-24 20:37:38] WARNING: Detecting communities...
+[2025-05-24 20:37:38] WARNING: Found 8 isolated nodes to assign to communities
+[2025-05-24 20:37:38] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-05-24 20:37:38] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-05-24 20:37:38] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-05-24 20:37:38] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-05-24 20:37:38] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-05-24 20:37:38] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-05-24 20:37:38] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-05-24 20:37:38] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-05-24 20:37:38] INFO: Analyzing community composition...
+[2025-05-24 20:37:38] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-05-24 20:37:38] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-05-24 20:37:38] INFO: Community analysis written to community_analysis.txt
+[2025-05-24 20:37:38] WARNING: Generating trust network visualization...
+[2025-05-24 20:37:39] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-05-24 20:37:39] WARNING: Creating JSON data structure...
+[2025-05-24 20:37:39] WARNING: Successfully generated js/data.js with:
+[2025-05-24 20:37:39] WARNING: - 25 users
+[2025-05-24 20:37:39] WARNING: - 31 trust relationships
+[2025-05-24 20:37:39] WARNING: - 2 communities
+[2025-05-24 20:37:39] WARNING: Trust calculation completed successfully.
+[2025-05-24 20:47:39] WARNING: === Starting Trust Score Calculation ===
+[2025-05-24 20:47:39] WARNING: Starting trust score calculation...
+[2025-05-24 20:47:39] WARNING: Found 25 users in the trust network
+[2025-05-24 20:47:39] WARNING: Building trust network graph...
+[2025-05-24 20:47:39] WARNING: Calculating PageRank scores...
+[2025-05-24 20:47:39] WARNING: Applying distrust penalties...
+[2025-05-24 20:47:39] WARNING: Detecting communities...
+[2025-05-24 20:47:39] WARNING: Found 8 isolated nodes to assign to communities
+[2025-05-24 20:47:39] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-05-24 20:47:39] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-05-24 20:47:39] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-05-24 20:47:39] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-05-24 20:47:39] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-05-24 20:47:39] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-05-24 20:47:39] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-05-24 20:47:39] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-05-24 20:47:39] INFO: Analyzing community composition...
+[2025-05-24 20:47:39] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-05-24 20:47:39] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-05-24 20:47:39] INFO: Community analysis written to community_analysis.txt
+[2025-05-24 20:47:39] WARNING: Generating trust network visualization...
+[2025-05-24 20:47:39] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-05-24 20:47:39] WARNING: Creating JSON data structure...
+[2025-05-24 20:47:39] WARNING: Successfully generated js/data.js with:
+[2025-05-24 20:47:39] WARNING: - 25 users
+[2025-05-24 20:47:39] WARNING: - 31 trust relationships
+[2025-05-24 20:47:39] WARNING: - 2 communities
+[2025-05-24 20:47:39] WARNING: Trust calculation completed successfully.
+[2025-05-24 20:57:38] WARNING: === Starting Trust Score Calculation ===
+[2025-05-24 20:57:38] WARNING: Starting trust score calculation...
+[2025-05-24 20:57:38] WARNING: Found 25 users in the trust network
+[2025-05-24 20:57:38] WARNING: Building trust network graph...
+[2025-05-24 20:57:38] WARNING: Calculating PageRank scores...
+[2025-05-24 20:57:38] WARNING: Applying distrust penalties...
+[2025-05-24 20:57:38] WARNING: Detecting communities...
+[2025-05-24 20:57:38] WARNING: Found 8 isolated nodes to assign to communities
+[2025-05-24 20:57:38] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-05-24 20:57:38] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-05-24 20:57:38] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-05-24 20:57:38] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-05-24 20:57:38] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-05-24 20:57:38] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-05-24 20:57:38] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-05-24 20:57:38] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-05-24 20:57:38] INFO: Analyzing community composition...
+[2025-05-24 20:57:38] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-05-24 20:57:38] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-05-24 20:57:38] INFO: Community analysis written to community_analysis.txt
+[2025-05-24 20:57:38] WARNING: Generating trust network visualization...
+[2025-05-24 20:57:39] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-05-24 20:57:39] WARNING: Creating JSON data structure...
+[2025-05-24 20:57:39] WARNING: Successfully generated js/data.js with:
+[2025-05-24 20:57:39] WARNING: - 25 users
+[2025-05-24 20:57:39] WARNING: - 31 trust relationships
+[2025-05-24 20:57:39] WARNING: - 2 communities
+[2025-05-24 20:57:39] WARNING: Trust calculation completed successfully.
+[2025-05-24 21:07:39] WARNING: === Starting Trust Score Calculation ===
+[2025-05-24 21:07:39] WARNING: Starting trust score calculation...
+[2025-05-24 21:07:39] WARNING: Found 25 users in the trust network
+[2025-05-24 21:07:39] WARNING: Building trust network graph...
+[2025-05-24 21:07:39] WARNING: Calculating PageRank scores...
+[2025-05-24 21:07:39] WARNING: Applying distrust penalties...
+[2025-05-24 21:07:39] WARNING: Detecting communities...
+[2025-05-24 21:07:39] WARNING: Found 8 isolated nodes to assign to communities
+[2025-05-24 21:07:39] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-05-24 21:07:39] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-05-24 21:07:39] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-05-24 21:07:39] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-05-24 21:07:39] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-05-24 21:07:39] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-05-24 21:07:39] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-05-24 21:07:39] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-05-24 21:07:39] INFO: Analyzing community composition...
+[2025-05-24 21:07:39] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-05-24 21:07:39] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-05-24 21:07:39] INFO: Community analysis written to community_analysis.txt
+[2025-05-24 21:07:39] WARNING: Generating trust network visualization...
+[2025-05-24 21:07:40] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-05-24 21:07:40] WARNING: Creating JSON data structure...
+[2025-05-24 21:07:40] WARNING: Successfully generated js/data.js with:
+[2025-05-24 21:07:40] WARNING: - 25 users
+[2025-05-24 21:07:40] WARNING: - 31 trust relationships
+[2025-05-24 21:07:40] WARNING: - 2 communities
+[2025-05-24 21:07:40] WARNING: Trust calculation completed successfully.
+[2025-05-24 21:07:40] Committing and pushing changes to GitHub...
