@@ -1,0 +1,431 @@
+[2025-06-09 10:27:40] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 10:27:40] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 10:27:40] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 10:27:40] WARNING: Generating trust network visualization...
+[2025-06-09 10:27:41] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 10:27:41] WARNING: Creating JSON data structure...
+[2025-06-09 10:27:41] WARNING: Successfully generated js/data.js with:
+[2025-06-09 10:27:41] WARNING: - 25 users
+[2025-06-09 10:27:41] WARNING: - 31 trust relationships
+[2025-06-09 10:27:41] WARNING: - 2 communities
+[2025-06-09 10:27:41] WARNING: Trust calculation completed successfully.
+[2025-06-09 10:37:50] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 10:37:50] WARNING: Starting trust score calculation...
+[2025-06-09 10:37:50] WARNING: Found 25 users in the trust network
+[2025-06-09 10:37:50] WARNING: Building trust network graph...
+[2025-06-09 10:37:50] WARNING: Calculating PageRank scores...
+[2025-06-09 10:37:50] WARNING: Applying distrust penalties...
+[2025-06-09 10:37:50] WARNING: Detecting communities...
+[2025-06-09 10:37:50] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 10:37:50] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 10:37:50] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 10:37:50] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 10:37:50] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 10:37:50] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 10:37:50] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 10:37:50] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 10:37:50] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 10:37:50] INFO: Analyzing community composition...
+[2025-06-09 10:37:50] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 10:37:50] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 10:37:50] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 10:37:50] WARNING: Generating trust network visualization...
+[2025-06-09 10:37:51] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 10:37:51] WARNING: Creating JSON data structure...
+[2025-06-09 10:37:51] WARNING: Successfully generated js/data.js with:
+[2025-06-09 10:37:51] WARNING: - 25 users
+[2025-06-09 10:37:51] WARNING: - 31 trust relationships
+[2025-06-09 10:37:51] WARNING: - 2 communities
+[2025-06-09 10:37:51] WARNING: Trust calculation completed successfully.
+[2025-06-09 10:47:42] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 10:47:42] WARNING: Starting trust score calculation...
+[2025-06-09 10:47:42] WARNING: Found 25 users in the trust network
+[2025-06-09 10:47:42] WARNING: Building trust network graph...
+[2025-06-09 10:47:42] WARNING: Calculating PageRank scores...
+[2025-06-09 10:47:42] WARNING: Applying distrust penalties...
+[2025-06-09 10:47:42] WARNING: Detecting communities...
+[2025-06-09 10:47:42] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 10:47:42] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 10:47:42] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 10:47:42] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 10:47:42] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 10:47:42] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 10:47:42] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 10:47:42] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 10:47:42] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 10:47:42] INFO: Analyzing community composition...
+[2025-06-09 10:47:42] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 10:47:42] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 10:47:42] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 10:47:42] WARNING: Generating trust network visualization...
+[2025-06-09 10:47:44] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 10:47:44] WARNING: Creating JSON data structure...
+[2025-06-09 10:47:44] WARNING: Successfully generated js/data.js with:
+[2025-06-09 10:47:44] WARNING: - 25 users
+[2025-06-09 10:47:44] WARNING: - 31 trust relationships
+[2025-06-09 10:47:44] WARNING: - 2 communities
+[2025-06-09 10:47:44] WARNING: Trust calculation completed successfully.
+[2025-06-09 10:57:41] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 10:57:41] WARNING: Starting trust score calculation...
+[2025-06-09 10:57:41] WARNING: Found 25 users in the trust network
+[2025-06-09 10:57:41] WARNING: Building trust network graph...
+[2025-06-09 10:57:41] WARNING: Calculating PageRank scores...
+[2025-06-09 10:57:41] WARNING: Applying distrust penalties...
+[2025-06-09 10:57:41] WARNING: Detecting communities...
+[2025-06-09 10:57:41] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 10:57:41] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 10:57:41] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 10:57:41] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 10:57:41] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 10:57:41] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 10:57:41] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 10:57:41] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 10:57:41] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 10:57:41] INFO: Analyzing community composition...
+[2025-06-09 10:57:41] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 10:57:41] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 10:57:41] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 10:57:41] WARNING: Generating trust network visualization...
+[2025-06-09 10:57:43] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 10:57:43] WARNING: Creating JSON data structure...
+[2025-06-09 10:57:43] WARNING: Successfully generated js/data.js with:
+[2025-06-09 10:57:43] WARNING: - 25 users
+[2025-06-09 10:57:43] WARNING: - 31 trust relationships
+[2025-06-09 10:57:43] WARNING: - 2 communities
+[2025-06-09 10:57:43] WARNING: Trust calculation completed successfully.
+[2025-06-09 11:07:38] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 11:07:38] WARNING: Starting trust score calculation...
+[2025-06-09 11:07:38] WARNING: Found 25 users in the trust network
+[2025-06-09 11:07:38] WARNING: Building trust network graph...
+[2025-06-09 11:07:38] WARNING: Calculating PageRank scores...
+[2025-06-09 11:07:38] WARNING: Applying distrust penalties...
+[2025-06-09 11:07:38] WARNING: Detecting communities...
+[2025-06-09 11:07:38] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 11:07:38] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 11:07:38] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 11:07:38] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 11:07:38] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 11:07:38] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 11:07:38] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 11:07:38] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 11:07:38] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 11:07:38] INFO: Analyzing community composition...
+[2025-06-09 11:07:38] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 11:07:38] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 11:07:38] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 11:07:38] WARNING: Generating trust network visualization...
+[2025-06-09 11:07:39] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 11:07:39] WARNING: Creating JSON data structure...
+[2025-06-09 11:07:39] WARNING: Successfully generated js/data.js with:
+[2025-06-09 11:07:39] WARNING: - 25 users
+[2025-06-09 11:07:39] WARNING: - 31 trust relationships
+[2025-06-09 11:07:39] WARNING: - 2 communities
+[2025-06-09 11:07:39] WARNING: Trust calculation completed successfully.
+[2025-06-09 11:17:38] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 11:17:38] WARNING: Starting trust score calculation...
+[2025-06-09 11:17:38] WARNING: Found 25 users in the trust network
+[2025-06-09 11:17:38] WARNING: Building trust network graph...
+[2025-06-09 11:17:38] WARNING: Calculating PageRank scores...
+[2025-06-09 11:17:38] WARNING: Applying distrust penalties...
+[2025-06-09 11:17:38] WARNING: Detecting communities...
+[2025-06-09 11:17:38] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 11:17:38] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 11:17:38] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 11:17:38] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 11:17:38] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 11:17:38] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 11:17:38] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 11:17:38] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 11:17:38] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 11:17:38] INFO: Analyzing community composition...
+[2025-06-09 11:17:38] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 11:17:38] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 11:17:38] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 11:17:38] WARNING: Generating trust network visualization...
+[2025-06-09 11:17:39] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 11:17:39] WARNING: Creating JSON data structure...
+[2025-06-09 11:17:39] WARNING: Successfully generated js/data.js with:
+[2025-06-09 11:17:39] WARNING: - 25 users
+[2025-06-09 11:17:39] WARNING: - 31 trust relationships
+[2025-06-09 11:17:39] WARNING: - 2 communities
+[2025-06-09 11:17:39] WARNING: Trust calculation completed successfully.
+[2025-06-09 11:27:37] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 11:27:37] WARNING: Starting trust score calculation...
+[2025-06-09 11:27:37] WARNING: Found 25 users in the trust network
+[2025-06-09 11:27:37] WARNING: Building trust network graph...
+[2025-06-09 11:27:37] WARNING: Calculating PageRank scores...
+[2025-06-09 11:27:37] WARNING: Applying distrust penalties...
+[2025-06-09 11:27:37] WARNING: Detecting communities...
+[2025-06-09 11:27:37] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 11:27:37] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 11:27:37] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 11:27:37] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 11:27:37] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 11:27:37] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 11:27:37] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 11:27:37] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 11:27:37] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 11:27:37] INFO: Analyzing community composition...
+[2025-06-09 11:27:37] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 11:27:37] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 11:27:37] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 11:27:37] WARNING: Generating trust network visualization...
+[2025-06-09 11:27:38] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 11:27:38] WARNING: Creating JSON data structure...
+[2025-06-09 11:27:38] WARNING: Successfully generated js/data.js with:
+[2025-06-09 11:27:38] WARNING: - 25 users
+[2025-06-09 11:27:38] WARNING: - 31 trust relationships
+[2025-06-09 11:27:38] WARNING: - 2 communities
+[2025-06-09 11:27:38] WARNING: Trust calculation completed successfully.
+[2025-06-09 11:37:37] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 11:37:37] WARNING: Starting trust score calculation...
+[2025-06-09 11:37:37] WARNING: Found 25 users in the trust network
+[2025-06-09 11:37:37] WARNING: Building trust network graph...
+[2025-06-09 11:37:37] WARNING: Calculating PageRank scores...
+[2025-06-09 11:37:37] WARNING: Applying distrust penalties...
+[2025-06-09 11:37:37] WARNING: Detecting communities...
+[2025-06-09 11:37:37] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 11:37:37] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 11:37:37] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 11:37:37] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 11:37:37] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 11:37:37] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 11:37:37] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 11:37:37] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 11:37:37] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 11:37:37] INFO: Analyzing community composition...
+[2025-06-09 11:37:37] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 11:37:37] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 11:37:37] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 11:37:37] WARNING: Generating trust network visualization...
+[2025-06-09 11:37:38] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 11:37:38] WARNING: Creating JSON data structure...
+[2025-06-09 11:37:38] WARNING: Successfully generated js/data.js with:
+[2025-06-09 11:37:38] WARNING: - 25 users
+[2025-06-09 11:37:38] WARNING: - 31 trust relationships
+[2025-06-09 11:37:38] WARNING: - 2 communities
+[2025-06-09 11:37:38] WARNING: Trust calculation completed successfully.
+[2025-06-09 11:47:40] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 11:47:40] WARNING: Starting trust score calculation...
+[2025-06-09 11:47:40] WARNING: Found 25 users in the trust network
+[2025-06-09 11:47:40] WARNING: Building trust network graph...
+[2025-06-09 11:47:40] WARNING: Calculating PageRank scores...
+[2025-06-09 11:47:40] WARNING: Applying distrust penalties...
+[2025-06-09 11:47:40] WARNING: Detecting communities...
+[2025-06-09 11:47:40] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 11:47:40] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 11:47:40] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 11:47:40] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 11:47:40] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 11:47:40] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 11:47:40] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 11:47:40] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 11:47:40] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 11:47:40] INFO: Analyzing community composition...
+[2025-06-09 11:47:40] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 11:47:40] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 11:47:40] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 11:47:40] WARNING: Generating trust network visualization...
+[2025-06-09 11:47:41] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 11:47:41] WARNING: Creating JSON data structure...
+[2025-06-09 11:47:41] WARNING: Successfully generated js/data.js with:
+[2025-06-09 11:47:41] WARNING: - 25 users
+[2025-06-09 11:47:41] WARNING: - 31 trust relationships
+[2025-06-09 11:47:41] WARNING: - 2 communities
+[2025-06-09 11:47:41] WARNING: Trust calculation completed successfully.
+[2025-06-09 11:57:38] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 11:57:38] WARNING: Starting trust score calculation...
+[2025-06-09 11:57:38] WARNING: Found 25 users in the trust network
+[2025-06-09 11:57:38] WARNING: Building trust network graph...
+[2025-06-09 11:57:38] WARNING: Calculating PageRank scores...
+[2025-06-09 11:57:38] WARNING: Applying distrust penalties...
+[2025-06-09 11:57:38] WARNING: Detecting communities...
+[2025-06-09 11:57:38] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 11:57:38] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 11:57:38] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 11:57:38] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 11:57:38] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 11:57:38] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 11:57:38] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 11:57:38] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 11:57:38] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 11:57:38] INFO: Analyzing community composition...
+[2025-06-09 11:57:38] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 11:57:38] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 11:57:38] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 11:57:38] WARNING: Generating trust network visualization...
+[2025-06-09 11:57:39] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 11:57:39] WARNING: Creating JSON data structure...
+[2025-06-09 11:57:39] WARNING: Successfully generated js/data.js with:
+[2025-06-09 11:57:39] WARNING: - 25 users
+[2025-06-09 11:57:39] WARNING: - 31 trust relationships
+[2025-06-09 11:57:39] WARNING: - 2 communities
+[2025-06-09 11:57:39] WARNING: Trust calculation completed successfully.
+[2025-06-09 12:07:40] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 12:07:40] WARNING: Starting trust score calculation...
+[2025-06-09 12:07:40] WARNING: Found 25 users in the trust network
+[2025-06-09 12:07:40] WARNING: Building trust network graph...
+[2025-06-09 12:07:40] WARNING: Calculating PageRank scores...
+[2025-06-09 12:07:40] WARNING: Applying distrust penalties...
+[2025-06-09 12:07:40] WARNING: Detecting communities...
+[2025-06-09 12:07:40] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 12:07:40] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 12:07:40] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 12:07:40] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 12:07:40] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 12:07:40] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 12:07:40] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 12:07:40] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 12:07:40] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 12:07:40] INFO: Analyzing community composition...
+[2025-06-09 12:07:40] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 12:07:40] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 12:07:40] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 12:07:40] WARNING: Generating trust network visualization...
+[2025-06-09 12:07:40] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 12:07:40] WARNING: Creating JSON data structure...
+[2025-06-09 12:07:40] WARNING: Successfully generated js/data.js with:
+[2025-06-09 12:07:40] WARNING: - 25 users
+[2025-06-09 12:07:40] WARNING: - 31 trust relationships
+[2025-06-09 12:07:40] WARNING: - 2 communities
+[2025-06-09 12:07:40] WARNING: Trust calculation completed successfully.
+[2025-06-09 12:17:40] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 12:17:40] WARNING: Starting trust score calculation...
+[2025-06-09 12:17:40] WARNING: Found 25 users in the trust network
+[2025-06-09 12:17:40] WARNING: Building trust network graph...
+[2025-06-09 12:17:40] WARNING: Calculating PageRank scores...
+[2025-06-09 12:17:40] WARNING: Applying distrust penalties...
+[2025-06-09 12:17:40] WARNING: Detecting communities...
+[2025-06-09 12:17:40] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 12:17:40] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 12:17:40] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 12:17:40] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 12:17:40] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 12:17:40] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 12:17:40] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 12:17:40] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 12:17:40] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 12:17:40] INFO: Analyzing community composition...
+[2025-06-09 12:17:40] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 12:17:40] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 12:17:40] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 12:17:40] WARNING: Generating trust network visualization...
+[2025-06-09 12:17:41] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 12:17:41] WARNING: Creating JSON data structure...
+[2025-06-09 12:17:41] WARNING: Successfully generated js/data.js with:
+[2025-06-09 12:17:41] WARNING: - 25 users
+[2025-06-09 12:17:41] WARNING: - 31 trust relationships
+[2025-06-09 12:17:41] WARNING: - 2 communities
+[2025-06-09 12:17:41] WARNING: Trust calculation completed successfully.
+[2025-06-09 12:27:38] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 12:27:38] WARNING: Starting trust score calculation...
+[2025-06-09 12:27:38] WARNING: Found 25 users in the trust network
+[2025-06-09 12:27:38] WARNING: Building trust network graph...
+[2025-06-09 12:27:38] WARNING: Calculating PageRank scores...
+[2025-06-09 12:27:38] WARNING: Applying distrust penalties...
+[2025-06-09 12:27:38] WARNING: Detecting communities...
+[2025-06-09 12:27:38] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 12:27:38] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 12:27:38] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 12:27:38] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 12:27:38] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 12:27:38] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 12:27:38] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 12:27:38] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 12:27:38] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 12:27:38] INFO: Analyzing community composition...
+[2025-06-09 12:27:38] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 12:27:38] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 12:27:38] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 12:27:38] WARNING: Generating trust network visualization...
+[2025-06-09 12:27:39] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 12:27:39] WARNING: Creating JSON data structure...
+[2025-06-09 12:27:39] WARNING: Successfully generated js/data.js with:
+[2025-06-09 12:27:39] WARNING: - 25 users
+[2025-06-09 12:27:39] WARNING: - 31 trust relationships
+[2025-06-09 12:27:39] WARNING: - 2 communities
+[2025-06-09 12:27:39] WARNING: Trust calculation completed successfully.
+[2025-06-09 12:37:37] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 12:37:37] WARNING: Starting trust score calculation...
+[2025-06-09 12:37:37] WARNING: Found 25 users in the trust network
+[2025-06-09 12:37:37] WARNING: Building trust network graph...
+[2025-06-09 12:37:37] WARNING: Calculating PageRank scores...
+[2025-06-09 12:37:37] WARNING: Applying distrust penalties...
+[2025-06-09 12:37:37] WARNING: Detecting communities...
+[2025-06-09 12:37:37] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 12:37:37] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 12:37:37] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 12:37:37] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 12:37:37] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 12:37:37] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 12:37:37] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 12:37:37] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 12:37:37] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 12:37:37] INFO: Analyzing community composition...
+[2025-06-09 12:37:37] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 12:37:37] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 12:37:37] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 12:37:37] WARNING: Generating trust network visualization...
+[2025-06-09 12:37:38] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 12:37:38] WARNING: Creating JSON data structure...
+[2025-06-09 12:37:38] WARNING: Successfully generated js/data.js with:
+[2025-06-09 12:37:38] WARNING: - 25 users
+[2025-06-09 12:37:38] WARNING: - 31 trust relationships
+[2025-06-09 12:37:38] WARNING: - 2 communities
+[2025-06-09 12:37:38] WARNING: Trust calculation completed successfully.
+[2025-06-09 12:47:39] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 12:47:39] WARNING: Starting trust score calculation...
+[2025-06-09 12:47:39] WARNING: Found 25 users in the trust network
+[2025-06-09 12:47:39] WARNING: Building trust network graph...
+[2025-06-09 12:47:39] WARNING: Calculating PageRank scores...
+[2025-06-09 12:47:39] WARNING: Applying distrust penalties...
+[2025-06-09 12:47:39] WARNING: Detecting communities...
+[2025-06-09 12:47:39] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 12:47:39] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 12:47:39] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 12:47:39] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 12:47:39] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 12:47:39] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 12:47:39] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 12:47:39] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 12:47:39] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 12:47:39] INFO: Analyzing community composition...
+[2025-06-09 12:47:39] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 12:47:39] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 12:47:39] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 12:47:39] WARNING: Generating trust network visualization...
+[2025-06-09 12:47:40] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 12:47:40] WARNING: Creating JSON data structure...
+[2025-06-09 12:47:40] WARNING: Successfully generated js/data.js with:
+[2025-06-09 12:47:40] WARNING: - 25 users
+[2025-06-09 12:47:40] WARNING: - 31 trust relationships
+[2025-06-09 12:47:40] WARNING: - 2 communities
+[2025-06-09 12:47:40] WARNING: Trust calculation completed successfully.
+[2025-06-09 12:57:37] WARNING: === Starting Trust Score Calculation ===
+[2025-06-09 12:57:37] WARNING: Starting trust score calculation...
+[2025-06-09 12:57:37] WARNING: Found 25 users in the trust network
+[2025-06-09 12:57:37] WARNING: Building trust network graph...
+[2025-06-09 12:57:37] WARNING: Calculating PageRank scores...
+[2025-06-09 12:57:37] WARNING: Applying distrust penalties...
+[2025-06-09 12:57:37] WARNING: Detecting communities...
+[2025-06-09 12:57:37] WARNING: Found 8 isolated nodes to assign to communities
+[2025-06-09 12:57:37] WARNING: Assigned isolated node Eyes_OnTheSkies to community 1 based on structural balance theory
+[2025-06-09 12:57:37] WARNING: Assigned isolated node FettucineSplit to community 1 based on structural balance theory
+[2025-06-09 12:57:37] WARNING: Assigned isolated node JonMajerowski to community 1 based on structural balance theory
+[2025-06-09 12:57:37] WARNING: Assigned isolated node MiddleofMayhem to community 2 based on structural balance theory
+[2025-06-09 12:57:37] WARNING: Assigned isolated node PTHellyer to community 1 based on structural balance theory
+[2025-06-09 12:57:37] WARNING: Assigned isolated node SnakePo9 to community 1 based on structural balance theory
+[2025-06-09 12:57:37] WARNING: Assigned isolated node jamescfox to community 1 based on structural balance theory
+[2025-06-09 12:57:37] WARNING: Assigned isolated node likeitmatters3 to community 2 based on structural balance theory
+[2025-06-09 12:57:37] INFO: Analyzing community composition...
+[2025-06-09 12:57:37] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-09 12:57:37] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-09 12:57:37] INFO: Community analysis written to community_analysis.txt
+[2025-06-09 12:57:37] WARNING: Generating trust network visualization...
+[2025-06-09 12:57:38] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-09 12:57:38] WARNING: Creating JSON data structure...
+[2025-06-09 12:57:38] WARNING: Successfully generated js/data.js with:
+[2025-06-09 12:57:38] WARNING: - 25 users
+[2025-06-09 12:57:38] WARNING: - 31 trust relationships
+[2025-06-09 12:57:38] WARNING: - 2 communities
+[2025-06-09 12:57:38] WARNING: Trust calculation completed successfully.
