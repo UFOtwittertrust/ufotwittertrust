@@ -1,0 +1,11 @@
+[2025-06-12 14:27:42] INFO: Community Community A (18 members): AskaPol_UAPs, ChrisUKSharp, DanHaug6, Eyes_OnTheSkies, FettucineSplit, GoodTroubleShow, Halsrethink, JeremyCorbell, JonMajerowski, LueElizondo, PTHellyer, SnakePo9, TheOfficialQF, g_knapp, jamescfox, jayanderson, rosscoulthart, ufobeliever1947
+[2025-06-12 14:27:42] INFO: Community Community B (7 members): MiddleofMayhem, OSIRISUAP, ShipsSmall, cosmic_surplus, likeitmatters3, susangerbic, ufoskeptic1968
+[2025-06-12 14:27:42] INFO: Community analysis written to community_analysis.txt
+[2025-06-12 14:27:42] WARNING: Generating trust network visualization...
+[2025-06-12 14:27:43] WARNING: Network visualization saved to visualization/trust_network.png
+[2025-06-12 14:27:43] WARNING: Creating JSON data structure...
+[2025-06-12 14:27:43] WARNING: Successfully generated js/data.js with:
+[2025-06-12 14:27:43] WARNING: - 25 users
+[2025-06-12 14:27:43] WARNING: - 31 trust relationships
+[2025-06-12 14:27:43] WARNING: - 2 communities
+[2025-06-12 14:27:43] WARNING: Trust calculation completed successfully.
