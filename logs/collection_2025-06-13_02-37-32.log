@@ -1,0 +1,649 @@
+[2025-06-12 18:27:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 18:27:34] WARNING: Retrieving page 1...
+[2025-06-12 18:27:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 18:27:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 18:27:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 18:27:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 18:27:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 18:27:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 18:27:35] WARNING: Collection complete!
+[2025-06-12 18:27:35] WARNING: - 0 trust assignments processed
+[2025-06-12 18:27:35] WARNING: - 2 users in trust network
+[2025-06-12 18:27:35] WARNING: - 31 total trust relationships
+[2025-06-12 18:37:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 18:37:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 18:37:34] WARNING: Retrieving page 1...
+[2025-06-12 18:37:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 18:37:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 18:37:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 18:37:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 18:37:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 18:37:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 18:37:35] WARNING: Collection complete!
+[2025-06-12 18:37:35] WARNING: - 0 trust assignments processed
+[2025-06-12 18:37:35] WARNING: - 2 users in trust network
+[2025-06-12 18:37:35] WARNING: - 31 total trust relationships
+[2025-06-12 18:47:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 18:47:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 18:47:34] WARNING: Retrieving page 1...
+[2025-06-12 18:47:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 18:47:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 18:47:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 18:47:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 18:47:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 18:47:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 18:47:36] WARNING: Collection complete!
+[2025-06-12 18:47:36] WARNING: - 0 trust assignments processed
+[2025-06-12 18:47:36] WARNING: - 2 users in trust network
+[2025-06-12 18:47:36] WARNING: - 31 total trust relationships
+[2025-06-12 18:57:33] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 18:57:33] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 18:57:33] WARNING: Retrieving page 1...
+[2025-06-12 18:57:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 18:57:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 18:57:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 18:57:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 18:57:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 18:57:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 18:57:36] WARNING: Collection complete!
+[2025-06-12 18:57:36] WARNING: - 0 trust assignments processed
+[2025-06-12 18:57:36] WARNING: - 2 users in trust network
+[2025-06-12 18:57:36] WARNING: - 31 total trust relationships
+[2025-06-12 19:07:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 19:07:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 19:07:34] WARNING: Retrieving page 1...
+[2025-06-12 19:07:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 19:07:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 19:07:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 19:07:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 19:07:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 19:07:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 19:07:35] WARNING: Collection complete!
+[2025-06-12 19:07:35] WARNING: - 0 trust assignments processed
+[2025-06-12 19:07:35] WARNING: - 2 users in trust network
+[2025-06-12 19:07:35] WARNING: - 31 total trust relationships
+[2025-06-12 19:17:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 19:17:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 19:17:34] WARNING: Retrieving page 1...
+[2025-06-12 19:17:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 19:17:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 19:17:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 19:17:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 19:17:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 19:17:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 19:17:35] WARNING: Collection complete!
+[2025-06-12 19:17:35] WARNING: - 0 trust assignments processed
+[2025-06-12 19:17:35] WARNING: - 2 users in trust network
+[2025-06-12 19:17:35] WARNING: - 31 total trust relationships
+[2025-06-12 19:27:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 19:27:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 19:27:34] WARNING: Retrieving page 1...
+[2025-06-12 19:27:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 19:27:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 19:27:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 19:27:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 19:27:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 19:27:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 19:27:35] WARNING: Collection complete!
+[2025-06-12 19:27:35] WARNING: - 0 trust assignments processed
+[2025-06-12 19:27:35] WARNING: - 2 users in trust network
+[2025-06-12 19:27:35] WARNING: - 31 total trust relationships
+[2025-06-12 19:37:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 19:37:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 19:37:34] WARNING: Retrieving page 1...
+[2025-06-12 19:37:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 19:37:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 19:37:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 19:37:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 19:37:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 19:37:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 19:37:35] WARNING: Collection complete!
+[2025-06-12 19:37:35] WARNING: - 0 trust assignments processed
+[2025-06-12 19:37:35] WARNING: - 2 users in trust network
+[2025-06-12 19:37:35] WARNING: - 31 total trust relationships
+[2025-06-12 19:47:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 19:47:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 19:47:34] WARNING: Retrieving page 1...
+[2025-06-12 19:47:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 19:47:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 19:47:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 19:47:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 19:47:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 19:47:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 19:47:35] WARNING: Collection complete!
+[2025-06-12 19:47:35] WARNING: - 0 trust assignments processed
+[2025-06-12 19:47:35] WARNING: - 2 users in trust network
+[2025-06-12 19:47:35] WARNING: - 31 total trust relationships
+[2025-06-12 19:57:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 19:57:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 19:57:34] WARNING: Retrieving page 1...
+[2025-06-12 19:57:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 19:57:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 19:57:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 19:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 19:57:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 19:57:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 19:57:35] WARNING: Collection complete!
+[2025-06-12 19:57:35] WARNING: - 0 trust assignments processed
+[2025-06-12 19:57:35] WARNING: - 2 users in trust network
+[2025-06-12 19:57:35] WARNING: - 31 total trust relationships
+[2025-06-12 20:07:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 20:07:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 20:07:34] WARNING: Retrieving page 1...
+[2025-06-12 20:07:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 20:07:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 20:07:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 20:07:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 20:07:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 20:07:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 20:07:35] WARNING: Collection complete!
+[2025-06-12 20:07:35] WARNING: - 0 trust assignments processed
+[2025-06-12 20:07:35] WARNING: - 2 users in trust network
+[2025-06-12 20:07:35] WARNING: - 31 total trust relationships
+[2025-06-12 20:17:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 20:17:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 20:17:34] WARNING: Retrieving page 1...
+[2025-06-12 20:17:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 20:17:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 20:17:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 20:17:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 20:17:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 20:17:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 20:17:35] WARNING: Collection complete!
+[2025-06-12 20:17:35] WARNING: - 0 trust assignments processed
+[2025-06-12 20:17:35] WARNING: - 2 users in trust network
+[2025-06-12 20:17:35] WARNING: - 31 total trust relationships
+[2025-06-12 20:27:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 20:27:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 20:27:34] WARNING: Retrieving page 1...
+[2025-06-12 20:27:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 20:27:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 20:27:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 20:27:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 20:27:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 20:27:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 20:27:35] WARNING: Collection complete!
+[2025-06-12 20:27:35] WARNING: - 0 trust assignments processed
+[2025-06-12 20:27:35] WARNING: - 2 users in trust network
+[2025-06-12 20:27:35] WARNING: - 31 total trust relationships
+[2025-06-12 20:37:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 20:37:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 20:37:34] WARNING: Retrieving page 1...
+[2025-06-12 20:37:37] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 20:37:37] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 20:37:37] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 20:37:37] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 20:37:37] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 20:37:37] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 20:37:37] WARNING: Collection complete!
+[2025-06-12 20:37:37] WARNING: - 0 trust assignments processed
+[2025-06-12 20:37:37] WARNING: - 2 users in trust network
+[2025-06-12 20:37:37] WARNING: - 31 total trust relationships
+[2025-06-12 20:47:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 20:47:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 20:47:34] WARNING: Retrieving page 1...
+[2025-06-12 20:47:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 20:47:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 20:47:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 20:47:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 20:47:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 20:47:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 20:47:36] WARNING: Collection complete!
+[2025-06-12 20:47:36] WARNING: - 0 trust assignments processed
+[2025-06-12 20:47:36] WARNING: - 2 users in trust network
+[2025-06-12 20:47:36] WARNING: - 31 total trust relationships
+[2025-06-12 20:57:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 20:57:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 20:57:34] WARNING: Retrieving page 1...
+[2025-06-12 20:57:41] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 20:57:41] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 20:57:41] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 20:57:41] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 20:57:41] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 20:57:41] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 20:57:41] WARNING: Collection complete!
+[2025-06-12 20:57:41] WARNING: - 0 trust assignments processed
+[2025-06-12 20:57:41] WARNING: - 2 users in trust network
+[2025-06-12 20:57:41] WARNING: - 31 total trust relationships
+[2025-06-12 21:07:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 21:07:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 21:07:34] WARNING: Retrieving page 1...
+[2025-06-12 21:07:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 21:07:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 21:07:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 21:07:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 21:07:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 21:07:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 21:07:36] WARNING: Collection complete!
+[2025-06-12 21:07:36] WARNING: - 0 trust assignments processed
+[2025-06-12 21:07:36] WARNING: - 2 users in trust network
+[2025-06-12 21:07:36] WARNING: - 31 total trust relationships
+[2025-06-12 21:17:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 21:17:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 21:17:34] WARNING: Retrieving page 1...
+[2025-06-12 21:17:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 21:17:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 21:17:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 21:17:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 21:17:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 21:17:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 21:17:35] WARNING: Collection complete!
+[2025-06-12 21:17:35] WARNING: - 0 trust assignments processed
+[2025-06-12 21:17:35] WARNING: - 2 users in trust network
+[2025-06-12 21:17:35] WARNING: - 31 total trust relationships
+[2025-06-12 21:27:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 21:27:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 21:27:34] WARNING: Retrieving page 1...
+[2025-06-12 21:27:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 21:27:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 21:27:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 21:27:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 21:27:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 21:27:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 21:27:36] WARNING: Collection complete!
+[2025-06-12 21:27:36] WARNING: - 0 trust assignments processed
+[2025-06-12 21:27:36] WARNING: - 2 users in trust network
+[2025-06-12 21:27:36] WARNING: - 31 total trust relationships
+[2025-06-12 21:37:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 21:37:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 21:37:34] WARNING: Retrieving page 1...
+[2025-06-12 21:37:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 21:37:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 21:37:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 21:37:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 21:37:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 21:37:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 21:37:35] WARNING: Collection complete!
+[2025-06-12 21:37:35] WARNING: - 0 trust assignments processed
+[2025-06-12 21:37:35] WARNING: - 2 users in trust network
+[2025-06-12 21:37:35] WARNING: - 31 total trust relationships
+[2025-06-12 21:47:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 21:47:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 21:47:34] WARNING: Retrieving page 1...
+[2025-06-12 21:47:39] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 21:47:39] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 21:47:39] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 21:47:39] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 21:47:39] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 21:47:39] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 21:47:39] WARNING: Collection complete!
+[2025-06-12 21:47:39] WARNING: - 0 trust assignments processed
+[2025-06-12 21:47:39] WARNING: - 2 users in trust network
+[2025-06-12 21:47:39] WARNING: - 31 total trust relationships
+[2025-06-12 21:57:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 21:57:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 21:57:34] WARNING: Retrieving page 1...
+[2025-06-12 21:57:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 21:57:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 21:57:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 21:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 21:57:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 21:57:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 21:57:35] WARNING: Collection complete!
+[2025-06-12 21:57:35] WARNING: - 0 trust assignments processed
+[2025-06-12 21:57:35] WARNING: - 2 users in trust network
+[2025-06-12 21:57:35] WARNING: - 31 total trust relationships
+[2025-06-12 22:07:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 22:07:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 22:07:34] WARNING: Retrieving page 1...
+[2025-06-12 22:07:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 22:07:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 22:07:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 22:07:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 22:07:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 22:07:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 22:07:35] WARNING: Collection complete!
+[2025-06-12 22:07:35] WARNING: - 0 trust assignments processed
+[2025-06-12 22:07:35] WARNING: - 2 users in trust network
+[2025-06-12 22:07:35] WARNING: - 31 total trust relationships
+[2025-06-12 22:17:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 22:17:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 22:17:34] WARNING: Retrieving page 1...
+[2025-06-12 22:17:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 22:17:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 22:17:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 22:17:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 22:17:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 22:17:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 22:17:35] WARNING: Collection complete!
+[2025-06-12 22:17:35] WARNING: - 0 trust assignments processed
+[2025-06-12 22:17:35] WARNING: - 2 users in trust network
+[2025-06-12 22:17:35] WARNING: - 31 total trust relationships
+[2025-06-12 22:27:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 22:27:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 22:27:34] WARNING: Retrieving page 1...
+[2025-06-12 22:27:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 22:27:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 22:27:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 22:27:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 22:27:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 22:27:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 22:27:36] WARNING: Collection complete!
+[2025-06-12 22:27:36] WARNING: - 0 trust assignments processed
+[2025-06-12 22:27:36] WARNING: - 2 users in trust network
+[2025-06-12 22:27:36] WARNING: - 31 total trust relationships
+[2025-06-12 22:37:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 22:37:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 22:37:34] WARNING: Retrieving page 1...
+[2025-06-12 22:37:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 22:37:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 22:37:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 22:37:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 22:37:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 22:37:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 22:37:35] WARNING: Collection complete!
+[2025-06-12 22:37:35] WARNING: - 0 trust assignments processed
+[2025-06-12 22:37:35] WARNING: - 2 users in trust network
+[2025-06-12 22:37:35] WARNING: - 31 total trust relationships
+[2025-06-12 22:47:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 22:47:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 22:47:34] WARNING: Retrieving page 1...
+[2025-06-12 22:47:37] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 22:47:37] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 22:47:37] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 22:47:37] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 22:47:37] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 22:47:37] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 22:47:37] WARNING: Collection complete!
+[2025-06-12 22:47:37] WARNING: - 0 trust assignments processed
+[2025-06-12 22:47:37] WARNING: - 2 users in trust network
+[2025-06-12 22:47:37] WARNING: - 31 total trust relationships
+[2025-06-12 22:57:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 22:57:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 22:57:34] WARNING: Retrieving page 1...
+[2025-06-12 22:57:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 22:57:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 22:57:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 22:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 22:57:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 22:57:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 22:57:35] WARNING: Collection complete!
+[2025-06-12 22:57:35] WARNING: - 0 trust assignments processed
+[2025-06-12 22:57:35] WARNING: - 2 users in trust network
+[2025-06-12 22:57:35] WARNING: - 31 total trust relationships
+[2025-06-12 23:07:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 23:07:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 23:07:34] WARNING: Retrieving page 1...
+[2025-06-12 23:07:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 23:07:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 23:07:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 23:07:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 23:07:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 23:07:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 23:07:35] WARNING: Collection complete!
+[2025-06-12 23:07:35] WARNING: - 0 trust assignments processed
+[2025-06-12 23:07:35] WARNING: - 2 users in trust network
+[2025-06-12 23:07:35] WARNING: - 31 total trust relationships
+[2025-06-12 23:17:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 23:17:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 23:17:34] WARNING: Retrieving page 1...
+[2025-06-12 23:17:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 23:17:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 23:17:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 23:17:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 23:17:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 23:17:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 23:17:35] WARNING: Collection complete!
+[2025-06-12 23:17:35] WARNING: - 0 trust assignments processed
+[2025-06-12 23:17:35] WARNING: - 2 users in trust network
+[2025-06-12 23:17:35] WARNING: - 31 total trust relationships
+[2025-06-12 23:27:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 23:27:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 23:27:34] WARNING: Retrieving page 1...
+[2025-06-12 23:27:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 23:27:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 23:27:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 23:27:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 23:27:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 23:27:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 23:27:35] WARNING: Collection complete!
+[2025-06-12 23:27:35] WARNING: - 0 trust assignments processed
+[2025-06-12 23:27:35] WARNING: - 2 users in trust network
+[2025-06-12 23:27:35] WARNING: - 31 total trust relationships
+[2025-06-12 23:37:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 23:37:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 23:37:34] WARNING: Retrieving page 1...
+[2025-06-12 23:37:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 23:37:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 23:37:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 23:37:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 23:37:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 23:37:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 23:37:35] WARNING: Collection complete!
+[2025-06-12 23:37:35] WARNING: - 0 trust assignments processed
+[2025-06-12 23:37:35] WARNING: - 2 users in trust network
+[2025-06-12 23:37:35] WARNING: - 31 total trust relationships
+[2025-06-12 23:47:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 23:47:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 23:47:34] WARNING: Retrieving page 1...
+[2025-06-12 23:47:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 23:47:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 23:47:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 23:47:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 23:47:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 23:47:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 23:47:35] WARNING: Collection complete!
+[2025-06-12 23:47:35] WARNING: - 0 trust assignments processed
+[2025-06-12 23:47:35] WARNING: - 2 users in trust network
+[2025-06-12 23:47:35] WARNING: - 31 total trust relationships
+[2025-06-12 23:57:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-12 23:57:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-12 23:57:34] WARNING: Retrieving page 1...
+[2025-06-12 23:57:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-12 23:57:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-12 23:57:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-12 23:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-12 23:57:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-12 23:57:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-12 23:57:35] WARNING: Collection complete!
+[2025-06-12 23:57:35] WARNING: - 0 trust assignments processed
+[2025-06-12 23:57:35] WARNING: - 2 users in trust network
+[2025-06-12 23:57:35] WARNING: - 31 total trust relationships
+[2025-06-13 00:07:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 00:07:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 00:07:34] WARNING: Retrieving page 1...
+[2025-06-13 00:07:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 00:07:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 00:07:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 00:07:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 00:07:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 00:07:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 00:07:36] WARNING: Collection complete!
+[2025-06-13 00:07:36] WARNING: - 0 trust assignments processed
+[2025-06-13 00:07:36] WARNING: - 2 users in trust network
+[2025-06-13 00:07:36] WARNING: - 31 total trust relationships
+[2025-06-13 00:17:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 00:17:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 00:17:34] WARNING: Retrieving page 1...
+[2025-06-13 00:17:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 00:17:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 00:17:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 00:17:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 00:17:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 00:17:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 00:17:36] WARNING: Collection complete!
+[2025-06-13 00:17:36] WARNING: - 0 trust assignments processed
+[2025-06-13 00:17:36] WARNING: - 2 users in trust network
+[2025-06-13 00:17:36] WARNING: - 31 total trust relationships
+[2025-06-13 00:27:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 00:27:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 00:27:34] WARNING: Retrieving page 1...
+[2025-06-13 00:27:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 00:27:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 00:27:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 00:27:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 00:27:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 00:27:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 00:27:35] WARNING: Collection complete!
+[2025-06-13 00:27:35] WARNING: - 0 trust assignments processed
+[2025-06-13 00:27:35] WARNING: - 2 users in trust network
+[2025-06-13 00:27:35] WARNING: - 31 total trust relationships
+[2025-06-13 00:37:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 00:37:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 00:37:34] WARNING: Retrieving page 1...
+[2025-06-13 00:37:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 00:37:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 00:37:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 00:37:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 00:37:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 00:37:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 00:37:36] WARNING: Collection complete!
+[2025-06-13 00:37:36] WARNING: - 0 trust assignments processed
+[2025-06-13 00:37:36] WARNING: - 2 users in trust network
+[2025-06-13 00:37:36] WARNING: - 31 total trust relationships
+[2025-06-13 00:47:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 00:47:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 00:47:34] WARNING: Retrieving page 1...
+[2025-06-13 00:47:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 00:47:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 00:47:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 00:47:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 00:47:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 00:47:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 00:47:36] WARNING: Collection complete!
+[2025-06-13 00:47:36] WARNING: - 0 trust assignments processed
+[2025-06-13 00:47:36] WARNING: - 2 users in trust network
+[2025-06-13 00:47:36] WARNING: - 31 total trust relationships
+[2025-06-13 00:57:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 00:57:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 00:57:34] WARNING: Retrieving page 1...
+[2025-06-13 00:57:37] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 00:57:37] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 00:57:37] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 00:57:37] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 00:57:37] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 00:57:37] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 00:57:37] WARNING: Collection complete!
+[2025-06-13 00:57:37] WARNING: - 0 trust assignments processed
+[2025-06-13 00:57:37] WARNING: - 2 users in trust network
+[2025-06-13 00:57:37] WARNING: - 31 total trust relationships
+[2025-06-13 01:07:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 01:07:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 01:07:34] WARNING: Retrieving page 1...
+[2025-06-13 01:07:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 01:07:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 01:07:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 01:07:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 01:07:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 01:07:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 01:07:35] WARNING: Collection complete!
+[2025-06-13 01:07:35] WARNING: - 0 trust assignments processed
+[2025-06-13 01:07:35] WARNING: - 2 users in trust network
+[2025-06-13 01:07:35] WARNING: - 31 total trust relationships
+[2025-06-13 01:17:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 01:17:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 01:17:34] WARNING: Retrieving page 1...
+[2025-06-13 01:17:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 01:17:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 01:17:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 01:17:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 01:17:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 01:17:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 01:17:35] WARNING: Collection complete!
+[2025-06-13 01:17:35] WARNING: - 0 trust assignments processed
+[2025-06-13 01:17:35] WARNING: - 2 users in trust network
+[2025-06-13 01:17:35] WARNING: - 31 total trust relationships
+[2025-06-13 01:27:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 01:27:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 01:27:34] WARNING: Retrieving page 1...
+[2025-06-13 01:27:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 01:27:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 01:27:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 01:27:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 01:27:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 01:27:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 01:27:35] WARNING: Collection complete!
+[2025-06-13 01:27:35] WARNING: - 0 trust assignments processed
+[2025-06-13 01:27:35] WARNING: - 2 users in trust network
+[2025-06-13 01:27:35] WARNING: - 31 total trust relationships
+[2025-06-13 01:37:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 01:37:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 01:37:34] WARNING: Retrieving page 1...
+[2025-06-13 01:37:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 01:37:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 01:37:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 01:37:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 01:37:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 01:37:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 01:37:35] WARNING: Collection complete!
+[2025-06-13 01:37:35] WARNING: - 0 trust assignments processed
+[2025-06-13 01:37:35] WARNING: - 2 users in trust network
+[2025-06-13 01:37:35] WARNING: - 31 total trust relationships
+[2025-06-13 01:47:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 01:47:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 01:47:34] WARNING: Retrieving page 1...
+[2025-06-13 01:47:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 01:47:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 01:47:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 01:47:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 01:47:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 01:47:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 01:47:35] WARNING: Collection complete!
+[2025-06-13 01:47:35] WARNING: - 0 trust assignments processed
+[2025-06-13 01:47:35] WARNING: - 2 users in trust network
+[2025-06-13 01:47:35] WARNING: - 31 total trust relationships
+[2025-06-13 01:57:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 01:57:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 01:57:34] WARNING: Retrieving page 1...
+[2025-06-13 01:57:35] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 01:57:35] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 01:57:35] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 01:57:35] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 01:57:35] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 01:57:35] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 01:57:35] WARNING: Collection complete!
+[2025-06-13 01:57:35] WARNING: - 0 trust assignments processed
+[2025-06-13 01:57:35] WARNING: - 2 users in trust network
+[2025-06-13 01:57:35] WARNING: - 31 total trust relationships
+[2025-06-13 02:07:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 02:07:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 02:07:34] WARNING: Retrieving page 1...
+[2025-06-13 02:07:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 02:07:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 02:07:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 02:07:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 02:07:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 02:07:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 02:07:36] WARNING: Collection complete!
+[2025-06-13 02:07:36] WARNING: - 0 trust assignments processed
+[2025-06-13 02:07:36] WARNING: - 2 users in trust network
+[2025-06-13 02:07:36] WARNING: - 31 total trust relationships
+[2025-06-13 02:17:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 02:17:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 02:17:34] WARNING: Retrieving page 1...
+[2025-06-13 02:17:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 02:17:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 02:17:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 02:17:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 02:17:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 02:17:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 02:17:36] WARNING: Collection complete!
+[2025-06-13 02:17:36] WARNING: - 0 trust assignments processed
+[2025-06-13 02:17:36] WARNING: - 2 users in trust network
+[2025-06-13 02:17:36] WARNING: - 31 total trust relationships
+[2025-06-13 02:27:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 02:27:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 02:27:34] WARNING: Retrieving page 1...
+[2025-06-13 02:27:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 02:27:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 02:27:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 02:27:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 02:27:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 02:27:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 02:27:36] WARNING: Collection complete!
+[2025-06-13 02:27:36] WARNING: - 0 trust assignments processed
+[2025-06-13 02:27:36] WARNING: - 2 users in trust network
+[2025-06-13 02:27:36] WARNING: - 31 total trust relationships
+[2025-06-13 02:37:34] WARNING: === Starting Twitter Trust System Collection ===
+[2025-06-13 02:37:34] WARNING: Will collect tweets until reaching previous timestamp: 2025-05-12 06:54:05+00:00
+[2025-06-13 02:37:34] WARNING: Retrieving page 1...
+[2025-06-13 02:37:36] WARNING: Newest tweet is from: 2025-05-12 06:54:05+00:00
+[2025-06-13 02:37:36] WARNING: Reached stop point at tweet from 2025-05-12 06:54:05+00:00
+[2025-06-13 02:37:36] WARNING: Retrieved 0 new tweets on page 1
+[2025-06-13 02:37:36] WARNING: Stopping pagination as we've reached the stop point
+[2025-06-13 02:37:36] WARNING: Retrieved a total of 0 tweets across 1 pages
+[2025-06-13 02:37:36] WARNING: No new tweets found with trust commands. Exiting without error.
+[2025-06-13 02:37:36] WARNING: Collection complete!
+[2025-06-13 02:37:36] WARNING: - 0 trust assignments processed
+[2025-06-13 02:37:36] WARNING: - 2 users in trust network
+[2025-06-13 02:37:36] WARNING: - 31 total trust relationships
