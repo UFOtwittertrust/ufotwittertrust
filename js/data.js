@@ -1,5 +1,5 @@
 // Trust system data
-// Auto-generated on 2025-06-21 16:07:40
+// Auto-generated on 2025-06-21 16:17:46
 // DO NOT EDIT MANUALLY
 
 const trustData = {
